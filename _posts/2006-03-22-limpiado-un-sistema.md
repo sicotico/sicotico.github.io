@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Limpiado un sistema"
 date: "2006-03-22"
 categories: 

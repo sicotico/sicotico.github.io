@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "alta definicion en ATI"
 date: "2009-02-02"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Tengo este portátil:

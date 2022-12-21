@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Borrar disco duro"
 date: "2009-12-26"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Como ya había comentado , se me peto un disco duro y como no me fío mucho he indagado un poco sobre los formateos a bajo nivel en linux. En windows es muy fácil coger la herramienta del fabricante , si la tiene y no era mi caso , Treckstor no tiene muchas cosas más que un precio reducido.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Configurar la red en Ubuntu Server"
 date: "2010-11-01"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 En este tutorial vamos a aprender como modificar la configuración de red en Ubuntu Server.

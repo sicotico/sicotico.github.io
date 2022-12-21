@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "LC_TYPE mal configurado"
 date: "2012-09-03"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Este error se identifica , en mi caso , al utilizar el auto completado en consola. Cada vez que lo invoco aparece este mensaje

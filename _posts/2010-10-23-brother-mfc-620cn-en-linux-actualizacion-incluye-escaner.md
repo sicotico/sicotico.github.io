@@ -1,10 +1,9 @@
 ---
-
+layout: post
 title: "Brother MFC-620CN en Linux (Actualización incluye escaner)"
 date: "2010-10-23"
 categories: 
-  - "sin-categoria"
----
+  - "sin-categoriahardware linux---
 
 En una [entrada](https://luispuente.net/2008/01/brother-mfc-620cn-en-linux/) anterior comentaba como se configura esta multifunción
 

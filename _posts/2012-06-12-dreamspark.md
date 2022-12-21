@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "DreamSpark"
 date: "2012-06-12"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Este es el programa de Microsoft para las universidades. Te da la posibilidad de tener software con licencia , son muy listos y sistemas operativos de escritorio no están dentro del programa.

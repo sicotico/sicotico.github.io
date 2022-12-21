@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Controlador DB en Windows 2003 64bits"
 date: "2010-02-18"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Esto es un problema cotidiano , por lo menos para mi. Tengo que crear un ODBC a un fichero Acces y resulta que no hay drivers instalados.

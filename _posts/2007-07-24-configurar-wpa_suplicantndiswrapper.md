@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Configurar wpa_suplicant+NdisWrapper"
 date: "2007-07-24"
 categories: 

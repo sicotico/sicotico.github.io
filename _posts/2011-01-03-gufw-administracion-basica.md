@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "GUFW Administración básica"
 date: "2011-01-03"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Las reglas del firewall  las podemos crear desde el asistente , tomando como base el acceso a un servicio (ssh,smaba,POP3,SMTP,FTP,HTTP,NFS,VNC,zeroconf,IMAP) o a una aplicación o programa (Amule,Deluge,Ktorrent,Nicotine).

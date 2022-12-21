@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Samsung Sensation"
 date: "2008-12-30"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Vaya noche de blanco , Fiesta White Sensation en el Palacio de los deportes de Madrid.

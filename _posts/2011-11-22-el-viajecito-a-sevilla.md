@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El viajecito a Sevilla"
 date: "2011-11-22"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Tras la nueva campaña de la EMT para enseñarnos el coste de un coche yo voy y me hago Madrid-Sevilla en coche. Y encima con razón , ya que esta campaña muestra que más kilómetros realices al año más barato te sale el kilómetro. Esta claro si lo usas mucho esta bien , muchos viajes el coste no crece exponencial sino que **baja**. Por si acaso lo dejo mejor explicado con un ejemplo:

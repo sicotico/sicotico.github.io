@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WordCamp Sevilla domingo"
 date: "2011-10-09"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Empezamos el días con fuerzas , un buen desayuno !!!

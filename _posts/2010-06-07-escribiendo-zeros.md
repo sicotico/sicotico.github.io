@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Escribiendo \"zeros\""
 date: "2010-06-07"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 Esto es el ultimo intento para recuperar un disco duro con errores detectados por el S.M.A.R.T. Este ha guardado un registro con 5 sectores erróneos así que tras mover todo el contenido a otro disco , le voy aplicar el método de escribir zeros para borrar todo el disco , esto incluye la tabla de particiones ya que reinicia todos los sectores de del disco a cero. He utilizado la herramienta de Wester Digital "data lifeguard tools" , para llegar a ella hay que seleccionar el disco duro que tenemos . Este disco es un LaCie pero no he tenido problemas de compatibilidad

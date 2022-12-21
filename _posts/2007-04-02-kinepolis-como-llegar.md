@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Kinepolis , como llegar"
 date: "2007-04-02"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "CSS y jSignature, personalización"
 date: "2013-06-24"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## CSS y jSignature

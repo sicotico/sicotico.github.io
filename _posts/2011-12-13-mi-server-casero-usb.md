@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mi server casero + USB"
 date: "2011-12-13"
-categories: 
-  - "sin-categoria"
+categories: hardware linux
 ---
 
 Ya está enchufado y colocadito. Necesita de un sistema operativo acorde con las necesidades de servidor de fichero , impresión y web. Como todo el mundo tiene fallos he elegido Ubuntu Server , me han llamado de todo por no poner un CentOS o Red-Hat o Debian. Pero bueno es lo que hay y ta esta decidido.

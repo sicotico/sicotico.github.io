@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Apagado y reinicio programado en Linux"
 date: "2010-12-09"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 **De acción inmediata:**

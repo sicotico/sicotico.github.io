@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Fundas para portatiles"
 date: "2006-05-08"
 categories: 

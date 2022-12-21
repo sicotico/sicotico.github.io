@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mostrar números de lineas con vi"
 date: "2011-08-16"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Una vez editado el fichero, para activarlo:  

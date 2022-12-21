@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Phineas y Ferb"
 date: "2010-05-07"
 categories: 

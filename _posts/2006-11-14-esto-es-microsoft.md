@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Esto es Microsoft ….."
 date: "2006-11-14"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Adobe regala la Suite CS2"
 date: "2013-01-11"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 [![creative_suite2](images/8366956477_b12bfe309a.jpg)](https://www.flickr.com/photos/12949201@N08/8366956477/ "creative_suite2 por sicotico, en Flickr")

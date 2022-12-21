@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Repositorio Oficial de Google para Linux"
 date: "2007-07-11"
 categories: 

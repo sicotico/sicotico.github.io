@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Comprobar el estado de los tablespace en Oracle"
 date: "2009-12-02"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 SELECT tablespace\_name,SUM(bytes)/1024/1024, SUM(blocks)

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Ubuntu y Python"
 date: "2014-03-30"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Entrar en consola e instalar: sudo apt-get install python-pip (paquete para instalar modulos de python) sudo pip install -I Django==1.5 (instalar el paquete django) sudo apt-get install apache2 sudo apt-get install mysql-server sudo apt-get install phpmyadmin sudo pip install mysql-python

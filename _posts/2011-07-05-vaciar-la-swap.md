@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Vaciar la swap"
 date: "2011-07-05"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 El método que he probado es activarla y desactivarla , digamos que había prisa y no mire mucho por la red.

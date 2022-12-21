@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "El hombre es tonto por naturalez"
 date: "2007-02-08"
 categories: 

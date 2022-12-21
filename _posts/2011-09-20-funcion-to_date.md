@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Función TO_DATE"
 date: "2011-09-20"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 En Oracle / PLSQL, la función TO\_DATE convierte una cadena a una fecha , siempre que esta tenga un formato correcto.

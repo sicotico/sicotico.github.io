@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Lista de user-aget de moviles"
 date: "2011-01-24"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Wikipedia va a borrar esta información así que he querido dejarla guardada como información de apoyo al proceso de tethering

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Ultima ROM oficial de HTC para Diamond"
 date: "2009-08-27"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Es la ultima version emitida por el fabricante y se basa en un Windows Mobile 6.1 , aun asi tiene ya 4 parches La acabo de poner y mejor un poco el rendimiento.

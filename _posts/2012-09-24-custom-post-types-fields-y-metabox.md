@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Custom Post Types , Fields y Metabox"
 date: "2012-09-24"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Esta ha sido mi linea docuemental sobre las persoanlizaciones de los post que permite WordPress

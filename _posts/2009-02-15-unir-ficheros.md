@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Unir ficheros"
 date: "2009-02-15"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Una tontería , pero nunca había usado hacha en guindos y ahora lo necesitaba , pero no tenia guindos . Buscamos otra herramienta que una ficheros pero ahora en Linux , por repositorios oficiales he encontrado el Hoz , con su front-end Hoz-GUI y por Google Dalle.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Hay que cuidarse fuera de casa"
 date: "2010-05-18"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 El cocinero de esta obra de arte tiene arraigo andaluz y lo saco enterito !!

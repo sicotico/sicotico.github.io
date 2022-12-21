@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Derechos , en la sociedad de la informacion"
 date: "2005-08-20"
 categories: 

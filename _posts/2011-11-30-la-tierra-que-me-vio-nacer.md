@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "La tierra que me vio nacer"
 date: "2011-11-30"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Hoy ha sido una sorpresa ver en las rede sociales como un par de amigos , ahora en el extranjero , encontraban un reportaje sobre nuestra ciudad.

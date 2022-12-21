@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Rutas personalizadas en Ubuntu"
 date: "2012-10-16"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ![menu-lugares](images/7921894824_a0d749b7bd.jpg)

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Volviendo a los origines"
 date: "2011-09-18"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Tras mi segunda escaramuza en el mundo de la manzana. La primera con un MacMini y la segunda con un iMac tope de gama. Ha finalizado como lo que ha sido , una experiencia enriquecedora ,  volviendo al final del proceso a mi MacMini con gráfica nVidia y extremadamente compatible con Linux.

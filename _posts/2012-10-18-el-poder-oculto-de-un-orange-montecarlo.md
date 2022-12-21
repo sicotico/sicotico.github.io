@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El poder oculto de un Orange MonteCarlo"
 date: "2012-10-18"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Ahora toca jugar con un terminal que cuesta poco y en el peor de los caso sera un pisa papeles caro que no generará ningún infarto. La idea es instalar un customROM , CyanogenMod 7.2 basada en Android GingerBread 2.3.7. Las sensaciones generadas por compañeros que utilizan esta ROM y notan mejoras de rendimiento , ha inclinado al balanza para elegirla  , por el lado malo es la falta de soporte oficial de Cyanogn a este terminal , así que es una modificación de tipo vainilla de esta.

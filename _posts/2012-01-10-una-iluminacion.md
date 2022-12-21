@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Una iluminación"
 date: "2012-01-10"
 categories: 

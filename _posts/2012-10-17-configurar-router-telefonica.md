@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Configurar router Telefónica"
 date: "2012-10-17"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Los routers de Telefónica vienen por defecto "desactivados" para la configuración directa por parte del usuario. Para entrar en la configuración debes entrar en el Portal Alejandra (busca en Google)

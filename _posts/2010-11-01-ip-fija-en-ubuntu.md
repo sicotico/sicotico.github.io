@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "IP fija en Ubuntu"
 date: "2010-11-01"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Lo primero son los datos necesarios ,  dejo apuntado los DNS que nunca se cual utilizar

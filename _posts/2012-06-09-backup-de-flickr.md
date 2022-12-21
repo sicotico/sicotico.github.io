@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Backup de Flickr"
 date: "2012-06-09"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Tras 3 años usando este servicio a tocado la ultima renovación , 3 meses y realizar un backup de todo el contenido. Descargar todas las imágenes en tamaño original es una tare ardua complicada.  Flickr se lava las manos y no proporciona herramientas que tenga como posible utilidad el abandono del servicio. Eso en mi pueblo se llama proteccionismo. Así que buscando alternativas encontré estas

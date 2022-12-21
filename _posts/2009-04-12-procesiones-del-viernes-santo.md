@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Procesiones del Viernes Santo"
 date: "2009-04-12"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Buenos días , aqui estamos otra vez despues de las pujas de este años. Si señores soy un orgullosos "papon" , es te año en la procesión de "Los Pasos"  empezo a llover y se acorto el tramo final , toda una pena y un problema para el cuidado de la figuras.

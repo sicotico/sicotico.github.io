@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Arranque y para de Oracle"
 date: "2010-04-08"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Me he encontrado este documento de la Universidad de Pamplona. Y claro siempre me toca algo de bases de datos , y de todo lo posible.

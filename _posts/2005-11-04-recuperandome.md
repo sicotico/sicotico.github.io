@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Recuperandome"
 date: "2005-11-04"
 categories: 

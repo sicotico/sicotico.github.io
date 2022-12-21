@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Lo que uno aprende solo"
 date: "2006-06-11"
 categories: 

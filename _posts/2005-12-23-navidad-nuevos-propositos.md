@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Navidad …… nuevos propositos"
 date: "2005-12-23"
 categories: 

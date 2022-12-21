@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Jetpack 2.0 - Estrenado"
 date: "2012-11-09"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## Nuevas características de Jetpack

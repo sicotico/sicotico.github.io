@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Truco: VMware Player"
 date: "2012-06-16"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Con el portátil del trabajo siempre levanto maquinas virtuales y no siempre se tiene memoria RAM suficiente. Más bien nunca , cuando lo amplias el software mejora en capacidades y funcionalidad y de paso en consumo de recursos. Los trucos para poder aprovechar al máximo las capacidades del equipo es el día a día.

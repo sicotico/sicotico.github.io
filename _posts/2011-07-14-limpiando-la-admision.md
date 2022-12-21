@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Limpiando la admisión"
 date: "2011-07-14"
-categories: 
-  - "sin-categoria"
+categories: coches
 ---
 
 He de reconocer que he utilizado el camino fácil , con solo soltar un par de bridas y un tubo tenemos acceso a la admisión.

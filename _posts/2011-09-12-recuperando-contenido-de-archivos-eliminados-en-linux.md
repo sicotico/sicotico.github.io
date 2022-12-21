@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Recuperando contenido de archivos eliminados en Linux"
 date: "2011-09-12"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Es la segunda vez en mi vida que cometo el error de eliminar un archivo usando **rm** o **mv** en la línea de comandos. La otra vez que me pasó, conseguí recuperar el archivo de texto (que era un programa enorme). Estoy ahora mismo en el proceso de recuperar mi segundo archivo.

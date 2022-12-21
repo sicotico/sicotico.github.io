@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Comprimir y descomprimir (multiformato)"
 date: "2006-12-23"
 categories: 

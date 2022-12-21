@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "QEMU+KQEMU en Ubuntu 6.0.6.1"
 date: "2006-12-15"
 categories: 

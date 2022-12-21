@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Inspector de objetos de Firefox 10.0.2"
 date: "2012-03-16"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 De esas cosas de la vida , actualizo siempre el Firefox  y nunca miro las mejoras que tiene mas allá de "utiliza menos recursos".

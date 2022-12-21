@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Activar cache nativa de Wordpress"
 date: "2011-05-04"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Gracias a uno de esos compañeros de trabajo que te "chincha" un poco , en este caso me insinuó si tenia un buen rendimiento en el blog y me paso este enlace.

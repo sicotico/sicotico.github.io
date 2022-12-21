@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Virtualización de HP-UX"
 date: "2010-11-04"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Me pegan si me oyen decir que es como un Linux más estable y robusto Virtualización de HP-UX , solo se puede sobre HP-UX todo queda en casa , es un depot que hay que instalar a parte con el nombre de HP Integrity Virtual Machines.

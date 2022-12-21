@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "App Google Task"
 date: "2012-04-27"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 La primera App para Google Task que me ha conquistado. Google task es el sistema que mas me gusta para la gestion de tareas , siendo simple porque no tiene funcionalidades. Tras unos dias de uso y el reciente reseteo de mi movil ha sido de las primes aplicaciones en instalarse.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Apache Listado personalizado"
 date: "2013-04-15"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 # **Apache Listado personalizado**

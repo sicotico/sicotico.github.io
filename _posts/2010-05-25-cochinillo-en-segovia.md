@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cochinillo en Segovia"
 date: "2010-05-25"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Conozco un poco esta ciudad y si la ocasión lo merece , para mi es el mejor sito para comer con los amigos. Si 100km no son nada desde Madrid por disfrutar de un majar como este.

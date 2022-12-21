@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Doble monitor en Lubuntu"
 date: "2013-09-22"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ## Doble monitor

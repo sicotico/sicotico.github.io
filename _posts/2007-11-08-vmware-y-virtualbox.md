@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "VMWare y VirtualBox"
 date: "2007-11-08"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Un poco de MySQL"
 date: "2012-06-11"
-categories: 
-  - "sin-categoria"
+categories: mysql
 ---
 
 Tengo entre manos una herramienta de HP y resulta que es compatible con MySQL , una escusa como otra cualquiera para mejorar mis conocimientos sobre esta herramienta. Hasta ahora solo he utilizado el _PhpMyAdmin_ y claro como un usuario simple. Tareas normales como exportar e importar , crear db , usuarios , etc ...

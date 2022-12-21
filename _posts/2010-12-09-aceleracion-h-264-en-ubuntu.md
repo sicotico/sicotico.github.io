@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Aceleración H.264 en Ubuntu"
 date: "2010-12-09"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Reproducción mediante la API VDPAU( Mas info en [Wikiepedia/VDPAU](https://es.wikipedia.org/wiki/VDPAU))

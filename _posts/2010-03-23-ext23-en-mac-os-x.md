@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Ext2/3 en Mac OS X"
 date: "2010-03-23"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Lo primero decir que me es imposible usar toda la tecnología de Apple , su sistema de ficheros y todas sus aplicaciones. Espero que no se rompa mucho esto.

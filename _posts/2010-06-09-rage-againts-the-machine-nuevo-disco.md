@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Rage Againts the Machine , ¿nuevo disco?"
 date: "2010-06-09"
 categories: 

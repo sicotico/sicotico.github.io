@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Time out en conexion por AJP"
 date: "2010-01-26"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 En este mundo tan complicado de las macro aplicaciones , resulta que tenemos que optimizar un enlace Apache + mod\_JK con un Tomcat mediante protocolo AJP.

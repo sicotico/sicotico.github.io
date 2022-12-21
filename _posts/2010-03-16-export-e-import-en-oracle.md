@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Export e Import en Oracle"
 date: "2010-03-16"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 La herramienta basica es exp.exe e import.exe

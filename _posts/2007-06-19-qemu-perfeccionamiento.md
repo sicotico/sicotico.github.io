@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "QEMU perfeccionamiento"
 date: "2007-06-19"
 categories: 

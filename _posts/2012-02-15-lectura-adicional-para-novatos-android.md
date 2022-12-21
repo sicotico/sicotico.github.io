@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Lectura adicional para novatos Android"
 date: "2012-02-15"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Si justo eso que dice el título es el contenido , claro sencillo y esperemos que fácil. Si eres un auto iniciado , como el autor de este blog , en el mundillo Android puedes haber empezado la casa por el tejado. Toca leer esos pequeños detalles que debimos aprender al empezar .

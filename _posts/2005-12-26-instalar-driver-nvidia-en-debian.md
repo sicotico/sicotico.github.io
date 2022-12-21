@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Instalar Driver nVidia en Debian"
 date: "2005-12-26"
 categories: 

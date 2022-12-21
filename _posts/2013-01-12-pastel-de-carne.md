@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Pastel de carne"
 date: "2013-01-12"
-categories: 
-  - "sin-categoria"
+categories: recetas
 ---
 
 Este es un típico plato casero , con carne y pata para matar toda posibilidad a tener hambre el resto del día. El puré de pata dejo a elección utilizar el tipo "Maggie" o hacerlo casero, yo voy a usar el modo fácil.

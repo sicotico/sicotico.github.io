@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Con 2GB de RAM no es suficiente"
 date: "2011-11-01"
-categories: 
-  - "sin-categoria"
+categories: mac hardware
 ---
 
 Bien claro y conciso , no es suficiente tener 2 GB de RAM. Hace poco que he pasado a Ubuntu 11.10 en mi Mac Mini 3.11 , un hardware de hace 2 años si vamos toda una antigüedad. Es mi equipo principal , exprimiendo todo lo que puedo.

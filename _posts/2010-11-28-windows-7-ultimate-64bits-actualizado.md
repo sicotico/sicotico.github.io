@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Windows 7 Ultimate 64bits (Actualizado)"
 date: "2010-11-28"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Toco limpieza en el pc corporativo y claro el formateo es el método más eficiente. Con ilusión y por limitaciones laborales me instale el dichoso Windows. La versión se eligió para aprovechar los 4 gb de RAM del equipo y porque quería virtualizar.

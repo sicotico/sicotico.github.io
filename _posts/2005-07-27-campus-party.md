@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Campus Party"
 date: "2005-07-27"
 categories: 

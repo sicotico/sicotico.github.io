@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Obtener el Flickr User ID"
 date: "2010-05-13"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Soy poco despistado y se me olvidan muchas cosas , entre otras esta el identificador de Flickr. Este no se realmente para que vale , por ahora solo me lo ha pedido un plugin de Wordpress para Flickr.

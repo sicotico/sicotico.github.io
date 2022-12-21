@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Arraque por defecto en Grub"
 date: "2012-10-14"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Vamos a configurar cual es la opción por defecto de arranque para grub.

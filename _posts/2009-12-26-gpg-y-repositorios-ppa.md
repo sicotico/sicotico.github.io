@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "GPG y repositorios PPA"
 date: "2009-12-26"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Instalando el NUV me daba un error de GPG para repositorios de tipo PPA , la solución pas apor conocer el servidor de claves de ubuntu `keys.ubuntu.com`

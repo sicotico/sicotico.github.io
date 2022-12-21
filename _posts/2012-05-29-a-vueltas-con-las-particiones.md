@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "A vueltas con las particiones"
 date: "2012-05-29"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Tras un fallo de rendimiento en el MacMini , muy notable,tocaba investigar. Como indica el título era cosa de particiones. Exactamente es una perdida de alineación de particiones.

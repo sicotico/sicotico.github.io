@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Resetear password Deluge web"
 date: "2010-03-23"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Es un cliente de torrente un poco complicado , pero muy versátil , todo se paga en esta vida.

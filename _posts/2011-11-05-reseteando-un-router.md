@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Reseteando un router"
 date: "2011-11-05"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Es mi "primera vez" ,  un estreno divertido con un router cisco un poco rebelde. Primera intervención un apagar y volver a encender y después a recuperar copia de seguridad

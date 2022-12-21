@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Renovación"
 date: "2013-01-06"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Un pequeño detalle ha cambiado en este blog. Si una pequeña descripción corta  o subtitulo , con el que se da más empaque y afinidad a la idea editorial.

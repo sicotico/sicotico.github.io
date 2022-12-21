@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El Brutus de Zaragoza"
 date: "2010-04-13"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Con todo lo que viajo últimamente algo hay que cuidarse  , la fiesta que da para el viernes .....

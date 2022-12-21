@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mi nuevo Mac Mini"
 date: "2010-02-28"
-categories: 
-  - "sin-categoria"
+categories: mc
 ---
 
 Buenas este el ultimo juguete , un Mac Mini para iniciarme en el mundillo de la manzana. Como dice en la paginas de review "unpacking"

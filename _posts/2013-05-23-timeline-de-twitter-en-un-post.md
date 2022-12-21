@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Timeline de Twitter en un post"
 date: "2013-05-23"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## Widget oficial de Twitter

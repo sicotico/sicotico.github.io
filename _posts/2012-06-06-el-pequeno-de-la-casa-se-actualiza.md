@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El pequeño de la casa se actualiza"
 date: "2012-06-06"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Después de meses por casa y otros tanto dando servicio , el equipo estaba maduro y tocaba una actualización. Empecé el proceso de mejora continua , el primer paso el hardware y el segundo el software.

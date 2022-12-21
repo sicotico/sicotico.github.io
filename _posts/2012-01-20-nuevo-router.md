@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Nuevo Router"
 date: "2012-01-20"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Renovamos el viejo router SMC Barricade con tecnología mimo que 7 años de servicio me ha dado. Y seguirá haciéndolo , o eso espero. El paso ha sido en busca de una wifi N para casa. Más terminales Android , portatiles y dispositivos conectado hacía de la renovación una obligación.

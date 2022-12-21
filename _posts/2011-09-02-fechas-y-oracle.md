@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Fechas y Oracle"
 date: "2011-09-02"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Los elemento que vamos a utilizar son dos tablas y dos campos

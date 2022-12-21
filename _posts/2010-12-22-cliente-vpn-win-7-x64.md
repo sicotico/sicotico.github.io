@@ -1,9 +1,7 @@
 ---
-
+layout: post
 title: "Cliente VPN Win 7 x64"
-date: "2010-12-22"
-categories: 
-  - "sin-categoria"
+date: "2010-12-22"software
 ---
 
 Por fin tengo un cliente  , por supuesto cisco no lo tiene en su ultima versión aun siendo el sistema por defecto en muchos equipos. La UMA. Universidad de Málaga lo tiene publicado en su FTP publico , leer el **welcome.msg** para revisar la política de seguridad.

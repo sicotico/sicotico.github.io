@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como crear un lanzador para TOra"
 date: "2011-08-18"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Depende de como instalemos TOra los launchers funcionan o no. Si instalamos del repo funcionaran. Si descargamos los sources y generamos un deb con soporte para oracle no funcionaran. Así que en ese caso crearemos un script "lanza\_tora.sh" para el arranque de la aplicacion TOra con:  

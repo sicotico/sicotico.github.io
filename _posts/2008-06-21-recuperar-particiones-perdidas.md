@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Recuperar Particiones Perdidas"
 date: "2008-06-21"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Buenas , hace mucho que no escribía y claro era por algo importante , el trabajo y los estudios. Así que nos ponemos manos a la obra con un contenido que para mi ha sido importante.

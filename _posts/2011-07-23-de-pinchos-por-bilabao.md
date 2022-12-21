@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "De Pinchos por Bilbao"
 date: "2011-07-23"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Acuñando la gran frase "No todo va a ser trabajo" , hoy modificada a "No todo va a ser vicio" , en la Euskal Encounter me he ido de pinchos por Bilbao.

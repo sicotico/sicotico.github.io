@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "DB de Oracle para VM o PC"
 date: "2011-08-23"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 El titulo casi lo dice todo , normalmente tengo que instalar mucho software HP y claro la base de datos es Oracle. Si tienes un portátil aunque tenga 4 GB de RAM no deja de ser un equipo de potencia limitada , velocidad disco , etc ...

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Guia rapida MySQL"
 date: "2011-07-10"
-categories: 
-  - "sin-categoria"
+categories: mysql
 ---
 
 No he podido saber si tiene licencia open source , así que pongo estos dos enlaces buenísimos

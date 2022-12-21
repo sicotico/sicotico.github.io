@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Los viajes y yo somos uno"
 date: "2010-01-25"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Últimamente estoy trabajando en Murcia y claro la vuelta a la capital se hace un poco larga , unos kilómetros en coche. Según día y alineación de los planetas se lo hace el entero , lo hago yo , o a medias. Este fue uno de eso a media , Albacete esta ahí ahí y hacemos "change" , aprovechas y tomamos algo.

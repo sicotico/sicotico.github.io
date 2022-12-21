@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Aboutme y Wordpress"
 date: "2012-11-16"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Hoy ha tocado una pequeña actualización del blog. He añadido mi Aboutme a la pagina principal. Este servicio que utilizo desde hace varios años como tarjeta de presentación on-line ha publicado un plugin para WordPress y no he podido menos que  probarlo, el resultado es impresionante.

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Reiniciar clave en Joomla"
 date: "2008-01-15"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Flasheo con Odin de StockROM"
 date: "2013-01-28"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Hoy quiero dejar anotado unas notas sobre los tipos de flasheo y sus características. Siempre que tengo que cambiar la ROM me vuelvo loco buscando información , esta vez va ser la definitiva. Una guía de la "pata" , esta expresión que significa _de lo bueno lo mejor_ a llegado a mí a travez de un ser pe

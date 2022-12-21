@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Obtener BlogRoll de Wordpress.com"
 date: "2008-01-11"
 categories: 

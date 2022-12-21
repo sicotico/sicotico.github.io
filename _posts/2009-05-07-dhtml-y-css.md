@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "DHTML y CSS"
 date: "2009-05-07"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Después de todas esas charlas de Alex , sobre semántica y mas cosas raras , me ha tocado currar un poco en el campo web y le he hecho caso. Lo primero fue encuadrar todo el contenido en capas , alguna tabla si que tengo pero para un formulario me es más fácil. Cada una tiene un ID asignado para referirnos a ella.

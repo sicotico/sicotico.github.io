@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Aventura Forense"
 date: "2006-07-26"
 categories: 

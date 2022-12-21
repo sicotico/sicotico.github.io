@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Bluetooth Sharp gx25 y Debian AMD64"
 date: "2005-12-28"
 categories: 

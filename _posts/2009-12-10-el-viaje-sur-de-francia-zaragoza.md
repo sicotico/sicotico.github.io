@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El Viaje sur de Francia \"Zaragoza\""
 date: "2009-12-10"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Ya pusimos la ruta , ahora las paraditas. Un viaje de este tipo , mucho coche , requiere de miradores, fotos ,paseos por cascos históricos , etc ....

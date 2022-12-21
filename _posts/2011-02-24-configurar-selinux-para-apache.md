@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Configurar SELinux para Apache"
 date: "2011-02-24"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ### Modo Terminal

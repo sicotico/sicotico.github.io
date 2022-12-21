@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Manual de NMap en Español"
 date: "2011-01-23"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 ## Manual de NMap en Español

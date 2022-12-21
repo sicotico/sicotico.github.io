@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Swat a pique"
 date: "2006-05-01"
 categories: 

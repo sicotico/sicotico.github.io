@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "PowerShell renombrado de ficheros"
 date: "2018-05-09"
-categories: 
-  - "sin-categoria"
+categories: PowerShell 
 ---
 
 Para la expresión regular use la aplicación web [txt2re](https://txt2re.com/index.php3?s=Fullmetal%20Alchemist%20Shinsetsu%20-%2030%20[10A879D9]&1)

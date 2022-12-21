@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Modificar el CSS del Uploader Media WordPress +3.5"
 date: "2013-05-22"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 # Uploader Media Wordpress

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Eclipse – Abrir un proyecto existente"
 date: "2012-09-12"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Una de esas cosas que hasta que no te pones no te das cuenta que no lo sabes.

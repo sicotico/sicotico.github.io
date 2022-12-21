@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mi FileServer"
 date: "2011-08-28"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Configuración básica de mi maquina virtual comparte ficheros

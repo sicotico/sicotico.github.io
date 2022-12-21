@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Permisos en la libreria"
 date: "2011-12-06"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Limitar a los usuario el visionado de sus fotos.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Quinto Día"
 date: "2012-03-14"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Descanso en "Muchas Gamabas" , comida con amigos de amigo. Y nos abrimos paso hacia Amsterdam.

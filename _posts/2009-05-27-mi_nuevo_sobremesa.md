@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mi nuevo sobremesa"
 date: "2009-05-27"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Vaya mesecito que llevo , ahora un equipo

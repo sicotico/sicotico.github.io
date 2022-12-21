@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Estrenamos galería de Imagenes"
 date: "2008-10-20"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Visto que todas las redes sociales poseen licencias restrictivas respecto de las fotos publicadas.  Me he puesto una galería en mi web.

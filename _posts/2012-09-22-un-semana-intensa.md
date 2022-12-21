@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Un semana intensa"
 date: "2012-09-22"
 categories: 

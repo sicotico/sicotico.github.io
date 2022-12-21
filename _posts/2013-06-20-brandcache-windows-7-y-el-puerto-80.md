@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "BrandCache Windows 7  y el puerto 80"
 date: "2013-06-20"
-categories: 
-  - "sin-categoria"
+categories: win
 ---
 
 ## BrandCache

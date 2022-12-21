@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "LeanStartup"
 date: "2012-10-19"
 categories: 

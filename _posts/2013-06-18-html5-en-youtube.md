@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "HTML5 en Youtube"
 date: "2013-06-18"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## html5 en youtube

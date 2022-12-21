@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Impresora PDF"
 date: "2006-12-15"
 categories: 

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Firefox 9 come mucho"
 date: "2012-01-19"
 categories: 

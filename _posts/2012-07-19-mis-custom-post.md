@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mis Custom Post"
 date: "2012-07-19"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Acabo de poner con este tema  gracias a la pequeña introducción que dio Feliz Zapata en el [MeetUP de Wordpress](https://www.meetup.com/WordPress-Madrid/events/61434522/ "MeetUp WordPress Madrid") , interesante y especial debido a la experiencia técnica de Félix.

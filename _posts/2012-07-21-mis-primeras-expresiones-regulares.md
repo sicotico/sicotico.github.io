@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mis primeras expresiones regulares"
 date: "2012-07-21"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 borrar lineas en blanco , ejemplo uno y su versión mejorada

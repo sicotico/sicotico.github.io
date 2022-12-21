@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Nurburgring Nordschleife - 11.06.2011"
 date: "2011-06-13"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Una vuelta con el Mazada MX-5 en Nurburgring y Nordschleife unidos !!! , 24km de vuelta.

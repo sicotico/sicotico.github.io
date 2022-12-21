@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "FSCK un aliado"
 date: "2011-09-25"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Esta herramienta de verificación de sistemas de ficheros es la estándar en sistemas Linux. Por defecto viene habilitada para ejecutar tras un numero de montajes , dejando una marca para ejecutarse en el siguiente reinicio.

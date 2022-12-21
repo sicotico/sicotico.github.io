@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "HP MicroServer Proliant"
 date: "2011-12-10"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Ya tengo mi nuevo servidor , una pequeña caja con 4 HDD slot y un procesador de bajo consumo. Algo más pequeño que un  mini-ATX[![HP Proliant MicroServer](images/6482834207_3c6c0cd200_z.jpg)](https://www.flickr.com/photos/12949201@N08/6482834207/ "HP Proliant MicroServer por sicotico, en Flickr")

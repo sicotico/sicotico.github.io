@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "nvidia settings can't save to conf file"
 date: "2010-02-21"
-categories: 
-  - "sin-categoria"
+categories: mac hardware
 ---
 
 Preparando un HTPC para el salón me he encontrado con esto:

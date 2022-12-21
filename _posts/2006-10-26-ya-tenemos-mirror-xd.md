@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Ya tenemos mirror ….xD"
 date: "2006-10-26"
 categories: 

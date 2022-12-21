@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "CyanogenMod 10.2 en Galaxy SII"
 date: "2013-08-26"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 ## CyanogenMod 10.2 en Galaxy SII

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Información de Vistas en Oracle"
 date: "2009-11-16"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Me ha tocado un Oracle y hacerme un hombre con la consola , que forma más bonita de explicarlo.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Expresiones regulares JS"
 date: "2013-12-12"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## Pon expresiones regulares en tu vida

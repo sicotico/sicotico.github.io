@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Otros tiempos …."
 date: "2007-04-03"
 categories: 

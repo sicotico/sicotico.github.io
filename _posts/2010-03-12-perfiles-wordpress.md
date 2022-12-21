@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Perfiles Wordpress"
 date: "2010-03-12"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 He montado otro wordpress con theme P2 y me he encontrado con que no sabía nada de los perfiles por defecto de WP , así que he dejado una descripción de cada uno.

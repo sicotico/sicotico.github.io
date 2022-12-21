@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Personalizar el wordpress dashboard I"
 date: "2013-01-16"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Hoy toca eliminar todo los elementos del wordpress dashboard . Queremos que sea simple y sencillo para los futuros usuarios . El planteamiento es sencillo , si no hay opciones para distraerse mejor que mejor. Como entorno de pruebas voy a utilizar un espacio **MultiSite** de WordPress.  Permitiré al rol Administrador poder ver el escritorio completo  , para ello utilizaré la función  _"is\_super\_admin()"_

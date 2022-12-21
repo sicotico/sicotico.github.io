@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cambiar la pagina de login"
 date: "2011-11-30"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 La imagen corporativa es importante , aunque no mantenga bien el diseño por mi falta de técnica en los aspectos gráficos , siempre hay que colocar los logotipos y mantener los colores.

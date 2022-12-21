@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Renmobrar unidades en Linux"
 date: "2009-01-13"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Estoy de organización ,en el server ,y un detalle importante es el punto de montaje de las unidades y su etiqueta.

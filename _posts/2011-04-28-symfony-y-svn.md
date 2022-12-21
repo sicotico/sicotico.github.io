@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Symfony y SVN"
 date: "2011-04-28"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Hace poco he recuperado un proyecto completo de Symfony desde Netbeans con el plugin de SVN , bastante sencillo. Deje todos los valores por defecto y alguno lo podía haber cambiado.

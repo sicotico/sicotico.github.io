@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Campus party secuela ….."
 date: "2005-08-05"
 categories: 

@@ -1,10 +1,9 @@
 ---
-
+layout: post
 title: "Oracle TNSnames"
 date: "2009-05-27"
 categories: 
-  - "sin-categoria"
----
+  - "sin-categoriasoftware---
 
 En mi entorno de desarrolladores de oracle me pasaron el PL/SQL y el TOAD , si conocéis algún otro y que sea libre pos mejor ,dejad un comentario y listo.
 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "TouchWizUX en Galaxy SII"
 date: "2012-06-07"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Gracias a XDA-Developer tenemos la posibilidad de cambiar la interfaz de _TouchWiz_  por la nueva _TouchWiz  Nature UX_ , si la del Galaxy III y exclusivamente para ROMS , en mi caso la ROM original del fabricante.

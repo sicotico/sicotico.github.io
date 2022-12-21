@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "De Vacaciones en Amsterdam"
 date: "2010-09-29"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Una vacaciones a ver a los colegas que están perdidos por Europa y con mi vida laboral no me da tiempo ir durante el resto del año.

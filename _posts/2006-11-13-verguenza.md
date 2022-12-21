@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Verguenza …."
 date: "2006-11-13"
 categories: 

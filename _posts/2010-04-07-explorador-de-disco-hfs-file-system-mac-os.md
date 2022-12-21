@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Explorador de disco HFS (File System Mac OS)"
 date: "2010-04-07"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Con mi Mac Mini tengo enchufado un pequeño disco de 2,5 pulgadas. Lo tengo formateado en HFS+ para que sea rápido. Así que ahora hay que hacerlo visible en Windows , como el MacFUSE no me va del todo bien con ext3 he decidido buscar otra opción.

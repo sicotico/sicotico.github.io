@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Desaparecido en curso"
 date: "2011-10-06"
 categories: 

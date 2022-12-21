@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Las Aplicaciones Web"
 date: "2007-01-04"
 categories: 

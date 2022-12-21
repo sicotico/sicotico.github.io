@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Redireccion .htaccess"
 date: "2009-08-28"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 He cambiado la redirección , estaba con un sistema de HTML estatico y no me generaba correctamente el sitemap ,asi que evolucionamos a modRewrite , he ganado caracter profesional

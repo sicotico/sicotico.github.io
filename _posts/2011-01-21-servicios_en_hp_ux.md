@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Servicios en HP-UX"
 date: "2011-01-21"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ## Crear un servicio en HP-UX

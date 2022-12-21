@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "De compras por Andorra"
 date: "2010-05-03"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Bueno como el sábado era fiesta  pues dije , por que no vamos de compra a Andorra y me compro unos amortiguadores. Esta era la idea inicial ,  ir y volver en el día, y descansar el domingo en mi casita.

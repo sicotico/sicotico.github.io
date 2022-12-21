@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Mi server “rustico”"
 date: "2006-10-26"
 categories: 

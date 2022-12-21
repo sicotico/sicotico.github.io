@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Hoy es un dia null 'oracle'"
 date: "2010-01-13"
-categories: 
-  - "sin-categoria"
+categories: osoftware
 ---
 
 La locomotora ha arrancado a toda mecha , esta vez ya somo bombardiem.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Recurso interesante"
 date: "2011-10-14"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Mis dotes como diseñador o enmaquetador dejan un poco que desear. Así que hay que buscar soluciones a esta deficiencia y para ello todo el mundo copia y pega. Yo he tirado de google y he descubierto esta web:

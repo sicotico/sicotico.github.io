@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Nos “follan” y nos dejamos"
 date: "2007-04-02"
 categories: 

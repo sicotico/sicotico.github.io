@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "PowerShell y objetos COM"
 date: "2012-08-01"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 No siempre PowerShell nos resuelve el problema , esta en pleno crecimiento. Un truquito que podemos utilizar , sin abusar mucho , es utilizar los objeto COM que hemos utilizado VBS o WSH. En este caso será el objeto `WScript.Network`

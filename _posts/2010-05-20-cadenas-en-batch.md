@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cadenas en Batch"
 date: "2010-05-20"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## Recortar cadenas

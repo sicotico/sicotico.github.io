@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Configurar GPRS Orange en HTC"
 date: "2009-03-30"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Inicio --> Configuración --> Conexiones --> Conexiones En la pestaña de Tarea , sección de Mi ISP debe de aparecer "Administrar de conexiones existentes" , si no aparece es que no tienes nada que administrar.

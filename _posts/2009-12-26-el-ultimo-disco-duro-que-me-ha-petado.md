@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El ultimo disco duro que me ha petado"
 date: "2009-12-26"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Después de romperse un disco duro externo usb , que venia con un raid montado y dos discos duros de 500 ![duo w.ub](images/TREKSTOR_DataStation_duo_w_ub--square240.jpg "TreksTor DataStation ") Paso primero acordarse de la madre de todos los que puedas , no más de 5 minutos porque no va a servir de nada

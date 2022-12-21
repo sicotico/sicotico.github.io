@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Gilipolleces del marketing social"
 date: "2012-02-08"
 categories: 

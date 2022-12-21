@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como redimensionar una partición ext4 sin perdida de datos"
 date: "2011-08-19"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Este procedimiento es valido para puntos de montaje por decirlo de algún modo secundarios del sistema, por ejemplo el /srv.  

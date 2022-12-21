@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Wifi Atheros AR5007EG Ubuntu 7.10 y 8.04 MadWifi 9.3.3"
 date: "2008-06-29"
-categories: 
-  - "sin-categoria"
+categories: hardware linux
 ---
 
 ## Identificar Hardware

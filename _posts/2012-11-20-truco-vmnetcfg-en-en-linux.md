@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Truco vmnetcfg en Linux"
 date: "2012-11-20"
-categories: 
-  - "sin-categoria"
+categories: linux vmware
 ---
 
 ## Esto es el vmnetcfg

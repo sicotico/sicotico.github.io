@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "MasterCard"
 date: "2005-09-06"
 categories: 

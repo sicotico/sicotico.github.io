@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Brother MFC-620CN en Linux"
 date: "2008-01-24"
 categories: 

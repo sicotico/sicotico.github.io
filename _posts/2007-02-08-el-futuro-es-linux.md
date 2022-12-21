@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "El Futuro es Linux"
 date: "2007-02-08"
 categories: 

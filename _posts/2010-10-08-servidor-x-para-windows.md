@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Servidor X para windows"
 date: "2010-10-08"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 Si queremos abrir aplicaciones de linux que esta en un servidor remoto

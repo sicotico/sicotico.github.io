@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Administración Remota"
 date: "2007-04-02"
 categories: 

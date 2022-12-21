@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Joomla Spanish Premium 1.0.11"
 date: "2006-10-05"
 categories: 

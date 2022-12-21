@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Audio+Video en HDMI Nvidia 9500gs"
 date: "2009-10-15"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 El otro día encontre un cable de 10 metros de hdmi a 20€ y claro no pude más que pillarlo. Ahora tengo en casa mi sobremesa conectado a la tele del salon , con un solo cable.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Testeo de la red"
 date: "2012-04-13"
-categories: 
-  - "sin-categoria"
+categories: linux windows
 ---
 
 Tras terminar el nuevo sistema funcionando toca el momento de configurar la red. Teniendo un servidor de archivos  , NFS , toca el momento de comprobar la velocidad de transferencia.

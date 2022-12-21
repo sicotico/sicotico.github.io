@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Resumen legal de las Redes P2P"
 date: "2008-01-23"
 categories: 

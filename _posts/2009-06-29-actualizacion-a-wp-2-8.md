@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Actualizacion a WP 2.8"
 date: "2009-06-29"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Aunque parezca mentira llevo ya 9 upgrades con el plugin y una con el nuevo sistema de wordpress , así que toco limpieza.

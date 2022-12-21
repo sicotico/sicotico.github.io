@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Montar un share folder de virtualbox en debian usando fstab"
 date: "2011-08-17"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 **$share\_name                  $Mount\_Point  vboxsf  defaults      0      0**

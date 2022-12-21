@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Barra de Navegación"
 date: "2010-01-04"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Con la renovación del web he tenido que aplicarme un poco en esto del css , semántica y no mezclar estructura con no se que.

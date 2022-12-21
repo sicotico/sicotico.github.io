@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Error error_APT::Default-Release"
 date: "2012-07-12"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Este fallo es conocido dentro de las configuraciones de apt. Es así un error del cliente de los repositorios. Como existe varios clientes

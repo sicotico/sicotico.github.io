@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Particionar y Windows 7"
 date: "2012-07-10"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 No siempre tengo un Linux a mano , así que ha tocado recuperar un viejo disco desde Windows  7. El fdisk  ya no esta  y me ha ralentizado un poco . Renovarse o morir así que a buscar la nuevo utilidad ..... DISKPART .... lleva mucho con nosotros y ahora va a ser quien nos ayude. Su política de uso es una consola en la que para reducir problemas de mal uso  te obliga a seleccionar el dispositivo , partición o volumen donde quieres realizar la operación. Curioso sistema  ,  ejemplo:

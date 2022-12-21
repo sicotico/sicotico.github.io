@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Vmware Server 2"
 date: "2009-03-17"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 He migrado mis maquinas virtuales a la nueva versión y me he encontrado con muchisimos cambios.  Sobre todo en la usabilidad ,  los de marketing han realizado un modelo de negocio espectacular. Me explico , ahora la version server es gratis y tiene el mismo funcionamiento que Vmware Infraestructuras , con esto no me refiero a capacidades sino  al modelo de uso , yo puedo aprender con la  versión gratuita y luego manejar un entorno profesional.

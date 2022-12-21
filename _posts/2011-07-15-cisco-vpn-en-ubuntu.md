@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cisco VPN en Ubuntu"
 date: "2011-07-15"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Instalar los paquetes

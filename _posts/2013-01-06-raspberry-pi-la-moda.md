@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Raspberry Pi - La moda"
 date: "2013-01-06"
-categories: 
-  - "sin-categoria"
+categories: raspberry
 ---
 
 Ya tengo a todos los compañero y algún amigo con estos trastos , mas específicamente  mini trastos . Me mantengo fiel y no he caído en la tentación. Intento hacer más bizcochos , tortitas y natillas  en la cocina. Aun así he recopilado diferentes artículos sobre el tema  porque si que estoy cerca de pedir uno. Estos han sido ordenados para leer todos seguidos y que tenga sentido

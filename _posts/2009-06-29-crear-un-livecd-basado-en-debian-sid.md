@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Crear un LiveCD basado en Debian Sid"
 date: "2009-06-29"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Instalamos live-helper y si somos muy vagos y no queremos personalizar nada live-magic

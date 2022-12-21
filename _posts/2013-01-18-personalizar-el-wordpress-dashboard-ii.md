@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Personalizar el wordpress dashboard II"
 date: "2013-01-18"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Seguimos con las personalizaciones del wordpress dashboard. En este caso generaremos un plugin con diferentes hacks  que modificarán el aspecto , intentamos mejorar la adaptación de la herramienta a nuestros propósitos.

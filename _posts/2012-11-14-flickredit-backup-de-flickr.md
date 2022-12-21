@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "FlickrEdit - backup de Flickr"
 date: "2012-11-14"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## FlickrEdit

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Segundo Día: Fontainebleu - Monchengladbach"
 date: "2011-08-30"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Tras el primer día estábamos ya colocados en la zona "R" , de ruta , empezamos a recorrer caminos minoritarios y visitar pueblecitos perdidos de la mano de dios.

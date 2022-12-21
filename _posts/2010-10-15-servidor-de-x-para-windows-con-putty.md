@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Servidor de X para Windows con putty"
 date: "2010-10-15"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 Es un servidro de X que no me ha dado ninguno fallo y solo ocupa 2 megas , así que copia de el va a quedar en mi server.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "JavaScript en WordPress"
 date: "2010-01-03"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Ultima modificación para el Adsens de Google , lo he inserado en el fichero sidebar.php . Me he desecho de los saltos de linea y de unos comentarios un poco incordiones y he situado las lineas de JS dentro de las etiquetas de PHP mediante echo "...." . Para que saliera correctamente hay que cambiar todas las comillas dobles por simples , las dobles son las usadas el echo de PHP para detectar el literal. El resultado es algo asi :

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "GPT - Regenerar backup"
 date: "2013-12-30"
-categories: 
-  - "sin-categoria"
+categories: so hardware
 ---
 
 ## GPT ese gran desconocido

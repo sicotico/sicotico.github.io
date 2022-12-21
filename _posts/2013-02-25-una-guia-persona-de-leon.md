@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Una guia persona de León"
 date: "2013-02-25"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Los primero es es plano con la ruta a pie delos puntos mas turísticos de  León

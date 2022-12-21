@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Actualización HTC Hero"
 date: "2010-07-26"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Bueno llevan una larga temporada para publicar la ROM 2.1 de Android para la Hero. Aun así siempre queda un paso intermedio , cada operador mete mierda aludiendo personalización y que la suya es la mejor. Yo ya desesperado porque HTC hacía publica la nueva ROM y Orange se hacían los sordos , busque como pasarme a una ROM de fabricante. Esta información la saque de [htcmania](https://www.htcmania.com/showthread.php?t=121812) .

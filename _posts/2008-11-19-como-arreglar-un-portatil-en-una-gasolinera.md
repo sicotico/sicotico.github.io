@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como arreglar un portatil en una gasolinera"
 date: "2008-11-19"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Bueno como últimamente ponía cosas espesitas , ahí va esta "macarrada" pero totalmente probada por mi.

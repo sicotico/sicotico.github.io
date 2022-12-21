@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Una razon mas para usar Linux…."
 date: "2007-06-27"
 categories: 

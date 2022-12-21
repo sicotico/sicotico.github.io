@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Listar tablas en Oracle"
 date: "2010-01-26"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 La gestión de las tablas en **Oracle** resulta diferente a como lo hace **MySQL**, pero resulta mucho más flexible una vez acostumbrados a ella. Vamos a ver como realizar **listados de tablas** por **tablespace** o por **usuario**.

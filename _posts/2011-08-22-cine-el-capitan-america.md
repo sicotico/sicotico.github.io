@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Cine: El Capitán América"
 date: "2011-08-22"
 categories: 

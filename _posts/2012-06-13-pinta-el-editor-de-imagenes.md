@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Pinta el editor de imagenes"
 date: "2012-06-13"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ![Pinta](images/bg2.jpg "Pinta")

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "optimizar Ext4 con fstab"
 date: "2013-12-26"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ## Optimizar Ext4

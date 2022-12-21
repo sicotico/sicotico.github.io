@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cambiar hostname - CentOS"
 date: "2011-02-22"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Cuando despliegas maquinas virtuales el nombre de host siempre lo tienes estandarizado , y claro toca cambairlo según corresponda.

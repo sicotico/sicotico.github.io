@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Tip: w2K8 deshabilita firewall"
 date: "2011-11-15"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Solo para pruebas , pero es una manera cómoda. Un comando y podemos empezar a trabajar con más soltura.

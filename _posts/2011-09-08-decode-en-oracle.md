@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "DECODE en Oracle"
 date: "2011-09-08"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Una de esas cosas tontas , que bien podría ser cultura genera. Esta función se sitúa en el SELECT y convierte valores existentes en al DB en cadenas de texto , boleano , número que tu determinas en la función

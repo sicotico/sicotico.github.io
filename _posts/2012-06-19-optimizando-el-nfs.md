@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Optimizando el NFSv4"
 date: "2012-06-19"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ## Dispositivos de bloques

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Sarge AMD64 (pkg recomendados)"
 date: "2005-09-25"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Crear procesos en VBS"
 date: "2010-03-08"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Con esto creamos un objeto de sistema y le adjuntamos el ejecutable que deseemos. Así podemos tener cualquier proceso en background.

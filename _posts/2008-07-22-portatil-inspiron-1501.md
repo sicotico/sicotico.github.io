@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Portatil INSPIRON 1501"
 date: "2008-07-22"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Ha vuelto a mi este portátil  , y con la evolución de ubuntu  , es una delicia utilizarlo.

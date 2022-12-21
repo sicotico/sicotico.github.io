@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Deshabilitar el firewall en RHEL / CentOS"
 date: "2011-02-22"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Conceptos básicos , herramientas  esenciales para la gestión de firewall

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El Viaje sur de Francia \"Monte Perdido\""
 date: "2010-05-26"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 ## **Fotos de Monte Perdido (Ainsa , Bielsa , Pirineo Frances )**

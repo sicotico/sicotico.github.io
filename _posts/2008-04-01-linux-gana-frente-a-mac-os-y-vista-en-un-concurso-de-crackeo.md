@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Linux gana frente a Mac OS y Vista en un concurso de “crackeo”"
 date: "2008-04-01"
 categories: 

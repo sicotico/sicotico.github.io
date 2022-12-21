@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Preprara una Galaxy Tab P1000"
 date: "2012-10-22"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Esto es un recordatorio de como preparar esta tablet con teléfono , utilizar un stockROM con un recovery y root.

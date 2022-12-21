@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Cuplimos años"
 date: "2010-03-09"
 categories: 

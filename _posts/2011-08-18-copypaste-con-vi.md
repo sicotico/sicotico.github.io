@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Copy/Paste con vi"
 date: "2011-08-18"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Posicionar el cursor en la linea del texto a copiar.  

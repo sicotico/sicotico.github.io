@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Los recurso de este blog"
 date: "2006-12-14"
 categories: 

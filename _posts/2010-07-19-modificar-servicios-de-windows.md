@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Modificar servicios de windows"
 date: "2010-07-19"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Hoy tenia un serviciod e widnows que se había creado mal , asiq ue intente modificarlo via comandos de consola y me fue imposible. La ayuda del sc.exe y la explicación del error brillan por su ausencia , asi que  revise documentación del registro y bingo , aqui se muede modificar todo.

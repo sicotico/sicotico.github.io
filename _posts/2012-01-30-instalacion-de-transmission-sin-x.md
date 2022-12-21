@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Instalación de Transmission sin X"
 date: "2012-01-30"
-categories: 
-  - "sin-categoria"
+categories: linux 
 ---
 
 ![](images/gearshift.png)

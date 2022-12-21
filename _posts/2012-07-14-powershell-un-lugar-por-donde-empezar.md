@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "PowerShell, un lugar por donde empezar"
 date: "2012-07-14"
-categories: 
-  - "sin-categoria"
+categories: dev windows
 ---
 
 Tras una búsqueda en Google sobre este invento he dado con este blog [Aprende informática conmigo](https://www.aprendeinformaticaconmigo.com/powershell "Aprende informática conmigo") , el primer paso esta dado y ha sido fácil siguiendo los puntos en orden.

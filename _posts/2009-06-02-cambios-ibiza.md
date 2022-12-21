@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Dando caña al Ibiza"
 date: "2009-06-02"
-categories: 
-  - "sin-categoria"
+categories: coches
 ---
 
 He cambiado los asientes Refference del mi ibizcilla por unos SportRaider .

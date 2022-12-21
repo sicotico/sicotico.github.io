@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Apache symfony"
 date: "2010-11-10"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Este es el virtual host creado para albergar un symfony (probando sandbox).

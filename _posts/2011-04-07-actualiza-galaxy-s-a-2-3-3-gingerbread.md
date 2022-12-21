@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Actualiza Galaxy S a 2.3.3 Gingerbread"
 date: "2011-04-07"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Para estas cosas soy muy manual , asi que utilizo Odin

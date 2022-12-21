@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "León una region en el mundo"
 date: "2013-01-23"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Si  hoy toca recordad al mundo una de esas regiones españolas que no tiene playa  y que su valor histórico y cultural es indescriptible.

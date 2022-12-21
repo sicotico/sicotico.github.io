@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Problema entre plugins"
 date: "2011-12-14"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ![wordpress-plugin-2](images/6547995255_1738960423_o.jpg)

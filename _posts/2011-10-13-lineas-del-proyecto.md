@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Lineas del proyecto"
 date: "2011-10-13"
 categories: 

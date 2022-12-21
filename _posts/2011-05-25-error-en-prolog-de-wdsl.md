@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Error en prolog de WDSL"
 date: "2011-05-25"
 categories: 

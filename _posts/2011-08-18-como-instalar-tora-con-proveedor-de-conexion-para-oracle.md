@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como instalar TOra con proveedor de conexion para oracle"
 date: "2011-08-18"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Base, Xubuntu 11.04 (**cat /etc/issue**), virtualbox 4.0.12r72916 (**VBoxManage -v**), rpms del cliente de oracle:

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Recodificar pistas de audio con FFMPEG"
 date: "2018-05-08"
-categories: 
-  - "sin-categoria"
+categories: audio video
 ---
 
 Actualmente tengo un chromecast y el sonido en AC3 y  DTS esta soportado.

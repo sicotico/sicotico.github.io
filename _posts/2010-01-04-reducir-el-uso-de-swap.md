@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Reducir el uso de swap"
 date: "2010-01-04"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 \- Verificar el valor inicial de la swappiness. En el terminal escribimos:

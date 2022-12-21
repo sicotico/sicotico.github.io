@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Red de Virtualbox"
 date: "2007-09-26"
 categories: 

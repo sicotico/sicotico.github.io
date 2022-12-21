@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Plantilla HTML5 y CSS Responsive"
 date: "2013-08-21"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 # ![html5_css3_jquery](images/html5_css3_jquery.png)

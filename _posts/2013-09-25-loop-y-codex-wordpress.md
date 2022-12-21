@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Loop y Codex Wordpress"
 date: "2013-09-25"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## Loop ordenado

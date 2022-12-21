@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mitos y Leyendas : Directorio Activo"
 date: "2009-08-10"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Me he encontrado estos articulos , de cusioso nombre en hispasec , yo ya he tenido que lidia run poco con esta "tecnologia" (protoc0lo LDAP remarcado) y un poco más de información no viene mal

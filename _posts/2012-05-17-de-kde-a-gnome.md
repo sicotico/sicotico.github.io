@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "de KDE a GNOME"
 date: "2012-05-17"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Una temporada probado KDE y recordando los viejos tiempos , en mi slackware solo usaba KDE y compilado por mi. Si hacia estas cosas mientras estaba en la universidad , 26 horas de compilación en un Acer 290TM Centrino a 1,5Ghz. Un trabajo sencillo gracias a scripts preparados por la mejor distro de linux que he utilizado. El trabajo divertido entraba en el gcc y la parametrización para el procesador , jo que tiempos!!!.

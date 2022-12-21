@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Un primer dia"
 date: "2006-01-16"
 categories: 

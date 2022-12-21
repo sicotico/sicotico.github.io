@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Bash recopilatorio"
 date: "2011-07-25"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Recopilación de los manuales más usados por mi, eso no quiere decir que sean buenos

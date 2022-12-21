@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Calibrar mi TV Samsung FullHD"
 date: "2010-05-02"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 1- IMAGEN:

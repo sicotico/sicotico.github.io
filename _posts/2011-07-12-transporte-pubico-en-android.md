@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Transporte pubico en android"
 date: "2011-07-12"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 [Madribus](https://market.android.com/details?id=com.spartancoders.madribus&feature=search_result "Madridbus") La simpleza es la mejor característica , aun siendo poco interactiva es la que utilizo a nivel personal

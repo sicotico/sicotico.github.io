@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Puré puerros"
 date: "2012-01-23"
-categories: 
-  - "sin-categoria"
+categories: receta
 ---
 
 ![pure de puerros by sicotico](images/6747955345_eff7a8ffeb.jpg) 

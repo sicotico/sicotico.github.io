@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Software Libre en la administarción pública"
 date: "2005-12-23"
 categories: 

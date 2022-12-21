@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Eliminar el mensaje Telnet Microsoft"
 date: "2011-07-13"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Cuando conectas con un servidor de Telnet Microsoft solicita una confirmación , porque envía en claro tu usuario y contraseña.

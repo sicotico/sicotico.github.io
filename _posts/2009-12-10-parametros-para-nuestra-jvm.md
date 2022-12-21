@@ -1,9 +1,7 @@
 ---
-
+layout: post
 title: "Parametros para nuestra JVM"
-date: "2009-12-10"
-categories: 
-  - "sin-categoria"
+date: "2009-12-10"dev
 ---
 
 Como Consultor de productos OpenView siempre estoy ligado con aplicativo hechos en java. Esto quiere decir que necesitan mucha memoria y no por defecto el sistema operativo no se la da.

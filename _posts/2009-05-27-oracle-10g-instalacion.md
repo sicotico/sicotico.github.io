@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Oracle 10g instalación"
 date: "2009-05-27"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 **Instalación Oracle ,mínimos recursos**

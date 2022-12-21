@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "export e impor de DB Oracle 11"
 date: "2011-04-13"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 ### Para hacer un export

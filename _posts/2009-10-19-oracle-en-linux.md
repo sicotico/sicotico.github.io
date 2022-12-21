@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Oracle en Linux"
 date: "2009-10-19"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Hace tiempo explicamos como usar los comando [oradim](https://luispuente.net/2009/05/27/oracle-listener/) para windows , pues hoy toca explicar un poquito su homologa para la plataforma linux.

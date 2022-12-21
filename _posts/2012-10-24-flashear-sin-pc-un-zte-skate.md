@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Flashear sin PC un ZTE Skate"
 date: "2012-10-24"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 ### Con CustomROM no se puede liberar por IMEI es OBLIGATORIO una StockROM

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Chuletario de consultas Oracle"
 date: "2010-03-02"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Buscaba como calcular el tamaño de las tablas de una base de datos y me encontré con este chuletario de oracle.

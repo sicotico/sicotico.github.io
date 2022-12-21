@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cambiar el SGA a Oracle"
 date: "2011-02-25"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 SQL> show sga

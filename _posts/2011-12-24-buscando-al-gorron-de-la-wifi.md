@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Buscando al gorron de la wifi"
 date: "2011-12-24"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Consulta ICMP a todos los elementos de la red

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WordCamp en Sevilla el 8 y 9 de Octubre"
 date: "2011-09-23"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 [![wordcampsev](images/6174555342_39f2b91dd1.jpg)](https://www.flickr.com/photos/12949201@N08/6174555342/ "wordcampsev por sicotico, en Flickr") Los próximos **8 y 9 de Octubre** se celebrará en Sevilla el **[WordCamp](https://2011.sevilla.wordcamp.org/ "WordCamp")**,  [el evento mas significativo de **WordPress**](https://www.teusoft.com/no-te-pierdas-la-wordcamp-sevilla-los-proximos-8-y-9-de-octubre/ "wordcamp"). El evento está dedicado a **promover, compartir y difundir** los conocimientos y el espíritu de comunidad entre los usuarios, desarrolladores y empresas que usan WordPress para sus proyectos.

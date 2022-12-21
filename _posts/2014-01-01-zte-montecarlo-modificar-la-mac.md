@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "ZTE MonteCarlo modificar la MAC"
 date: "2014-01-01"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 ## zte montecarlo

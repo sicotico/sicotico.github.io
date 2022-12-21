@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WordCamp Sevilla sábado"
 date: "2011-10-08"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Empezamos con un cambio de horarios , se nos ha retrasado el primer ponente cosa aeroportuarias.Marcando un similitud con el software libre la reacción de la organización ha sido rápida y el inicio lo marco Rafael Poveda con su presentación sobre [Sitios multilenguaje](https://2011.sevilla.wordcamp.org/session/sitios-multilenguaje-la-asignatura-pendiente-de-wordpress/ "Sitios multilenguaje: la asignatura pendiente de WordPress | Rafael Poveda") . Una explicación sobre las soluciones existentes para dotar a wordpress de multi idioma. Indicando las dos vías actuales en está situación , la utilización de google translate y generar el contenido automáticamente o realizar nuestras traducciones acompañado de plugins para mostrar el idioma según criterios.

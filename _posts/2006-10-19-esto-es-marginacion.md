@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Esto es marginación………"
 date: "2006-10-19"
 categories: 

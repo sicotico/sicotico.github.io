@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Escaner Brother MFC-620CN en Linux 64-bits"
 date: "2011-12-25"
-categories: 
-  - "sin-categoria"
+categories: linux hardware
 ---
 
 Hace tiempo hice un post parecido , rondaba el 2008 y aun no había entrado en el mundo de los 64bits muy a fondo. Utilizando ia32libs podía utilizar algunos drivers de 32.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "SMTP externo para Wordpress"
 date: "2011-12-20"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Increíble , para 5 minutos de configuración un funcionamiento espectacular. La pagina del autor contiene una documentación de uso simple , estricta y perfecta.

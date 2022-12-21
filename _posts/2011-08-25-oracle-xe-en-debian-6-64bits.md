@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Oracle-XE en Debian-6-64bits"
 date: "2011-08-25"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Que cosas me escribe en la lista de correo , desde luego son bonitas.

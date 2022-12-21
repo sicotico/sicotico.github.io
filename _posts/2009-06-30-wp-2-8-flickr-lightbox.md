@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WP 2.8 + Flickr + Lightbox 2"
 date: "2009-06-30"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Me he pasado una tarde buscando plugins para integrar WordPress 2.8 y Flickr .

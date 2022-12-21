@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Nürburgring Nordschleife"
 date: "2011-04-20"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Tras leer unos comentarios sobre el circuito me he guardado unos vídeos interesantes  

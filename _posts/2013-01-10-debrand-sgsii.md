@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Debrand SGSII"
 date: "2013-01-10"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Para este titulo tas escueto hay tanto que decir. En el punto técnico vaya forma de gastar el dinero por parte de las operadoras al genera aplicaciones que son un basura. Desde los usuario tienen smartphones  con muchas aplicaciones y por lo visto eso es bueno , o de más calidad. Desde las personas con más conocimientos técnicos toca trabajar en casa para obtener lo mismo que el fabricante nos quiere dar, una buenísima sensación de uso.

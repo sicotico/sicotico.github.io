@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Syspeek un monitor del sistema"
 date: "2013-02-07"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## Syspeek un chivato minimalista

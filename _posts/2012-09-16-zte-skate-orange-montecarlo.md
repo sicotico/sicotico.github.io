@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "ZTE Skate / Orange MonteCarlo"
 date: "2012-09-16"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ![](images/orange-monte-carlo.jpg "montecarlo")

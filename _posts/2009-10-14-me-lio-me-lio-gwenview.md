@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "me lio  , me lio Gwenview"
 date: "2009-10-14"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 intento poner unas fotos en web y claro , termnino buscando la mejor opción o el metodo con mas estilo y esta vez no ha sido distinto.

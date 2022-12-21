@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WorkSpace en Ubuntu"
 date: "2012-06-04"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Otra vez con Ubuntu+Unity y con dos pantallas se ha complicado lo de los escritorios virtuales. Ahora se llamas áreas de trabajo "workspaces". Un poco de vergüenza pero he tardado un hora en darme cuenta del nuevo nombre , con escritorios virtuales no aparece nada en Google.

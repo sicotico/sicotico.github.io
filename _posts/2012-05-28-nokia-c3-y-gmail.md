@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Nokia C3 y gmail"
 date: "2012-05-28"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Ha caído en mis manos un Nokia C3 , uno de esos terminales con filosofía 100% Nokia. Siendo un móvil de 2010 me he queda asombrado de la calidad y del tacto del móvil , no conozco ningún smartphone con ese acabado y calidad al tacto.

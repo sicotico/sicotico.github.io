@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "La mudanza no estaba tan cerrada como creía"
 date: "2010-10-12"
 categories: 

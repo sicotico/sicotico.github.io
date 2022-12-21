@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Tuneando una Ubuntu"
 date: "2013-02-04"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 "Tuneando" que concepto tan relacionado a los coches , pero muy utilizado en informática

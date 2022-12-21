@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Eliminar \"CRLF\" de un Excel"
 date: "2011-05-25"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Desde el Excel

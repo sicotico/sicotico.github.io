@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como redimensionar la swap en Debian 6"
 date: "2011-08-26"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Verificamos si esta activada la swap:  

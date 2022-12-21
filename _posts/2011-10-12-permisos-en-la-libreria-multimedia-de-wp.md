@@ -1,12 +1,8 @@
 ---
-
+layout: post
 title: "Permisos en la Libreria Multimedia de WP"
 date: "2011-10-12"
-categories: 
-  - "sin-categoria"
-tags: 
-  - "numero7"
-  - "wordpress"
+categories: dev
 ---
 
 # Gestión de permisos en la Liberia Multimedia de WP

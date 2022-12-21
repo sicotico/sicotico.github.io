@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Pastel de pescado al microondas"
 date: "2011-12-15"
-categories: 
-  - "sin-categoria"
+categories: receta
 ---
 
 ## Pastel de pescado al microondas

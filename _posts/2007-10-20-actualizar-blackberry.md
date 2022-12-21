@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Actualizar BlackBerry"
 date: "2007-10-20"
 categories: 

@@ -1,10 +1,12 @@
 ---
-
+layout: post
 title:  "Aventuras de WordPress a Jekyll"
 date:   2022-11-26 10:57:08 +0200
 categories: jekyll update
 ---
+
 ### Contexto
+
 Evaluando los costes de un servidor web y lo poco que miro para el blog he decidido usar un plataforma gratuita, rápida y barata. He llegado a Git-Pages con el motor de Jekyll para migrar mi blog.
 
 En este momento no sabía lo que era Jekyll ni Ruby, pero si que valía para hacer blogs en GitPages. Así que había que leer un poco.

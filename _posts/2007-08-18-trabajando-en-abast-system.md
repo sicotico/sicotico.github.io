@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Trabajando en Abast System"
 date: "2007-08-18"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Lo mas simple en desarrollar en VIM"
 date: "2009-12-28"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Después de día pegándome con el netbeans para JavaScript , decido ir directamente a usar VIM con resaltado. Que bonito es tener un server con ssh , estoy desarrollando directamente en el hosting de este blog.

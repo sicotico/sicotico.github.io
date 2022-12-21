@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Incrementando la famila (de DD)"
 date: "2010-06-06"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Esto de ser un vago y no grabar un Dvd ni cuando mi vida depende de ello , tiene sus consecuencias almacenas disco duros. Hoy pongo el nuevo que me pille un WD Element de 1,5TB (1.36 TB reales)

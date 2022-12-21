@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Apache: Error NameVirtualHost"
 date: "2011-07-13"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Siempre que juego con el apache me pasa lo de siempre , aparece este error al reiniciar , recargar configuración , etc ...

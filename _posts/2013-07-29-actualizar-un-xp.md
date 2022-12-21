@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Partimage"
 date: "2013-07-29"
-categories: 
-  - "sin-categoria"
+categories:  linux
 ---
 
 ## El porque de todo esto

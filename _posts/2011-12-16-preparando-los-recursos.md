@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Preparando los recursos"
 date: "2011-12-16"
-categories: 
-  - "sin-categoria"
+categories: linux hardware
 ---
 
 Lo primero es lo primero, manos a la obra con [fstab](https://help.ubuntu.com/community/Fstab "fstab") . Los parámetros utilizados son simples no backup y si a verificar los disco (0,1). Lo discos duros son accesibles

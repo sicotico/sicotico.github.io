@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Operador UNION"
 date: "2011-09-06"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Vaya descubrimiento , se nota que soy nuevo en esta lindes.

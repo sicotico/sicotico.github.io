@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Temas hijo en WP"
 date: "2011-12-11"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Siendo un poco tarde  , estoy revisando como se crean los temas hijo , la forma correcta de desarrollar en Wordpress.

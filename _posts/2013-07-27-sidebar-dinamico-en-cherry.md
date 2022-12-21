@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Sidebar dinámico en Cherry"
 date: "2013-07-27"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 # sidebar dinámica en Cherry

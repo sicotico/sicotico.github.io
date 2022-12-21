@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Windows no deja instalar Soft en remoto"
 date: "2008-11-12"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Cuando instalss un software en remoto y en el log pone "[DisableUserInstalls](https://msdn.microsoft.com/en-us/library/aa368309(VS.85).aspx)"

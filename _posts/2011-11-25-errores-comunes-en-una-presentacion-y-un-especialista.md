@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Errores comunes en una presentación y un especialista"
 date: "2011-11-25"
 categories: 

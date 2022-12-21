@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Actualización de equipo"
 date: "2006-02-26"
 categories: 

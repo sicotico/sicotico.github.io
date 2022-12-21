@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Oracle listener"
 date: "2009-05-27"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Como aprendí

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Balnerio Municipal"
 date: "2006-09-11"
 categories: 

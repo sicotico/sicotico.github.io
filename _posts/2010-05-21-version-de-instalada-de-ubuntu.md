@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Version de instalada de Ubuntu"
 date: "2010-05-21"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Con estos comando averiguas que versión tienes instalada. Al final no es mas que un fichero y un comandito que lo enseña bonito

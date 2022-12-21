@@ -1,12 +1,8 @@
 ---
-
+layout: post
 title: "Vibilidad en Wordpress"
 date: "2011-10-12"
-categories: 
-  - "sin-categoria"
-tags: 
-  - "numero7"
-  - "wordpress"
+categories: wordpress
 ---
 
 En wp-admin/includes está el fichero meta-boxes.php , la definición de visibilidad de los post esta ligada a la variable $visibility  , siendo el caso base para comprobar dicha variable. En la linea 123 podemos encontrar esta definición:

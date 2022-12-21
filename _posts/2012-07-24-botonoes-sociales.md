@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Botonoes sociales"
 date: "2012-07-24"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Esto es una de las cosas más simples pero como lo hago muy de vez en cuando  , al final lo he tenido que apuntar. Tengo un web en la que quiero empezar a "socializar" las redes y el camino son los botones , en este caso los oficiales. A los que me refiero son lo de **me gusta**  o **_sígueme_**  ,  mi intención es integrarlo en una web mediante el uso de una capa  y un posicionamiento. Yo lo he utilizado en Wordpress y he utilizado el fichero _footer.php_ del tema que estaba usando. Modificar este ficheros ha sido por razones simples , quiero que aparezcan en el pie de la pagina y por tanto su código deberá de estar en ese fichero .

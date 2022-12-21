@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Conseguir ip externa con bash"
 date: "2011-02-24"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Una linea muy útil una vez en la vida , yo solo la he utilizado una vez

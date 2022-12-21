@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Rootear SGSII con y sin Odin"
 date: "2012-06-05"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Ha tocado volver a liberar el terminal tras uno días en el servicio técnico. Como ha cambiado las versiones y tengo instalado el ICS de Vodafone he decido rootearlo o sin mas dilación.

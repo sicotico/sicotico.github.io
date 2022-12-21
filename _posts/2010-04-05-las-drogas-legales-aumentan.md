@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Las drogas legales aumentan"
 date: "2010-04-05"
 categories: 

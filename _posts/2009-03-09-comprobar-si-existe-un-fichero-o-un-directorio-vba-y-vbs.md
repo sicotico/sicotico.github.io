@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Comprobar si existe un fichero o un directorio (VBA y VBS)"
 date: "2009-03-09"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Utilizo el mismo objeto en VBS y VBA , existe mejore smaneras en VBA ( utilizando la API ) , pero el nivel empresarial requiere de un rendimiento más alto.

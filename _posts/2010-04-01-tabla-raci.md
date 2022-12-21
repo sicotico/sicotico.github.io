@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Tabla RACI"
 date: "2010-04-01"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 No todo es técnico , algo de organización siempre hace falta. Cuando la cabeza no llega a retener 25 recursos , 12 actividades y un numero recurente de responsabilidades , hemos de usar papel y boli. En nuestra era será una tabla bonita y facil de entender , colorines y esas cosas siempre ayudan.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Procesos y ficheros"
 date: "2010-11-02"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Hoy se me ha bloqueado un disco con un error de escritura , era fat32 , y no conseguía desmontarlo por medios "normales"

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Esto es tipo de arte"
 date: "2011-09-06"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Bendito twitter y redes sociales , maravilloso

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Clonar y redimensionar un disco duro virtual con virtualbox"
 date: "2011-08-16"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Es importante tener en cuenta a la hora del redimensionado que el disco sea un disco dinámico y que solo puede expandirse. Además es necesario que no exista ningún snapshot de la maquina virtual, es caso de existir es necesario borrarlos antes del redimensionado.  

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cambiar rutas por defecto de Widnows"
 date: "2008-06-05"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Alguna vez me toca limpiar ordenadores de amigos y claro son unos guarros instalando programas , se quedan sin espacio en c: . La solución , para que no te puteen la próxima vez , es modificar el registro de Windows cambiando las rutas del Escritorio , Mis Documentos .

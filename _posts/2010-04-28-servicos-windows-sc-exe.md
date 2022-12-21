@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Servicos Windows (sc.exe)"
 date: "2010-04-28"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Para interaccionar con servicio en Windows existe un comando sc. Para borrar usamos sc delete "Nombre del servicio:"

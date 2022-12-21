@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Permiso en el Registro de Windows"
 date: "2008-12-30"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 He tenido que jugar con los permisos de las ramas del Registro para permitir instalar software , solo alguno determinado. Para esto se anula el acceso al Registro en modo escritura fuera de HKEY\_CURRENT\_USER , esto es automático con usuarios del dominio, y damos permisos la rama que necesite nuestro programa. Para este caso hay herramienta dentro de support de Microsoft que te ayudaran a realizar esta operación , como es subinacl.exe , otra Open Source SetACL.exe y por fin la que yo utilice regini (incluida en todas las versiones del Windows dede NT 4). Oficialmente ha sido retirada y hay que instalar un Resource Kit , MENTIRA , lo que han quitado es la salida de la ayuda y por tanto cuando lo ejecutas bien o mal no te aparece nada  pero estar está.

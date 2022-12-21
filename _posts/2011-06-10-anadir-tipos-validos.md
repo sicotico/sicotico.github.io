@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Añadir tipos validos a Wordpress 3.x"
 date: "2011-06-10"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Odio este mensaje ,  no conseguía tiempo para arreglarlo. Intente usar algún plugin de gestión de MIME-Type pero no funcionaba y bloqueaban el comportamiento normal.

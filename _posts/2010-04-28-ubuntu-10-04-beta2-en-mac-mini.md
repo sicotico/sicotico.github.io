@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Ubuntu 10.04 beta2 en Mac mini"
 date: "2010-04-28"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 La verdad , me ha costado un poco eso del arranque EFI pero bueno Wikipedia ahí está:

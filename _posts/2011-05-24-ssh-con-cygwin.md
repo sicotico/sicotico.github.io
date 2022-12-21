@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "SSH con cygwin"
 date: "2011-05-24"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 Funciona en Windows 2003 y 2 2008

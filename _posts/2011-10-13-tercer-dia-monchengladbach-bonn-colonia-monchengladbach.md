@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Tercer Día: Monchengladbach - Bonn - Colonia - Monchengladbach"
 date: "2011-10-13"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Tocaba cambio de modo "Turista On" y tocaron un par de ciudades. Hace un año ya estuve en ellas pero esta vez tenía la mejor compañía , mi novia. La ruta era conocida y la optimización era máxima.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Servicos usando services"
 date: "2012-02-02"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Mejorando el uso elegante y con estilo de sistemas sin entorno gráfico utilizamos el reinicio de servicios para aplicar cambios y para toda esa infinidad de pruebas que nos iluminan a hora intempestivas de la noche.

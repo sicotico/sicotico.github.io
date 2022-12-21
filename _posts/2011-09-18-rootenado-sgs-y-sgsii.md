@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Rootenado SGS y SGSII"
 date: "2011-09-18"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Pues bien explicado en el post , necesito permisos de root para liberar los dos terminales. Voy a utilizar el método de flasear un kernel modificado , o "pre-root".  De todos los que he visto solo he utilizado el **_amonRa_** en mi vieja HTC Hero y el _**CF-Root**_ en la SGS. Este método consiste en flashear con Odin el terminal utilizando un solo un fichero , el Kernel o PDA , y evitando reparticionar.

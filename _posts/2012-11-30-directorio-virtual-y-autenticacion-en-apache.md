@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "directorio virtual y autenticación en Apache"
 date: "2012-11-30"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ## directorio virtual

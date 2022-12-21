@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Consulta de campos fecha en Oracle"
 date: "2010-05-20"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Cuando consultamos un dato fecha con:

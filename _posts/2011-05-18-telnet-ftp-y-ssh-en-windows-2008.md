@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Telnet , FTP y SSH en Windows 2008"
 date: "2011-05-18"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Tras un día de sistemas windows volvemos a lo nuestro ......... Openview

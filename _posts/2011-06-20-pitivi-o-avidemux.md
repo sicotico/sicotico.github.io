@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Pitivi o avidemux"
 date: "2011-06-20"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Después de mi paso por Nurburgring y Nordsleif tenía una vuelta grabada en HD ready y quería subirla a flickr , lo malo es la limitación a 500MB y que mi Galaxy S me lo genero de 1GB.  La solución pasa por cortarlo ya que la resolución no la quería perder , por ahora.

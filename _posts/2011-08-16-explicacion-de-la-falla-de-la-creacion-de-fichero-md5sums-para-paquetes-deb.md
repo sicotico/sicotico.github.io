@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Explicación de la falla de la creación de fichero md5sums para paquetes deb"
 date: "2011-08-16"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 El siguiente comando nos permite crear el fichero md5sums con los hashes md5 de los ficheros que contiene el paquete deb.  

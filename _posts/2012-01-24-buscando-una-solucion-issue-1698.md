@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Buscando una solución Issue 1698"
 date: "2012-01-24"
-categories: 
-  - "sin-categoria"
+categories: linux hardware
 ---
 
 Tengo este problema desde el cambio de router

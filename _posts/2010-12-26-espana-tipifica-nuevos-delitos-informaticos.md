@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "España tipifica nuevos delitos informaticos"
 date: "2010-12-26"
 categories: 

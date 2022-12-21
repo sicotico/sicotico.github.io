@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Configuracion Generica XFree86"
 date: "2004-11-08"
 categories: 

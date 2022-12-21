@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mac OS X es un sistema muy cerrado"
 date: "2011-09-06"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Llevo días volviendo me loco con la virtualización en OS X Snow Leopard. La instalación de los diferente software es perfecta sin errores ni un misero warning. Cuando te pones a trabajar con el , creas tus maquinas , las importas , reconfiguras , etc ...  , y ves un funcionamiento fluido y bastante bueno.

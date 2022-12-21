@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mac Mini renovado"
 date: "2011-12-01"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Primero agradecer a @yourus la parte técnica para desmontar el pequeño "GRAN" equipo. Ayudado de una pagina web super curiosa , en la que te enseñan a "desmembrar" cualquier cosa  [ifixit](https://www.ifixit.com/ "iFixit").

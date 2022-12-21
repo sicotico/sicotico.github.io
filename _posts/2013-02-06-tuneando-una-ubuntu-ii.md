@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Tuneando una Ubuntu II"
 date: "2013-02-06"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Seguimos con el rendimiento de "Tuneando" el sistema

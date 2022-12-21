@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Instalación y Configuración de FreeNX en Ubuntu"
 date: "2007-12-06"
 categories: 

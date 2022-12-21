@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Mejoras Firefox"
 date: "2005-08-14"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Consultar otra base de datos"
 date: "2011-08-26"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Si tenemos un Servidor de SQL Server y varias bases de datos dentro , este post tiene sentido.

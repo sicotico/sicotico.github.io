@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "VBS Ficheros"
 date: "2010-05-24"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 **Manejo de ficheros** Codigo común para ficheros

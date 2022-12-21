@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Extension Firefox https-everywhere"
 date: "2011-01-03"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 HTTPS-everywhere es una extensión para Firefox producido como una colaboración entre el Proyecto Tor y la Electronic Frontier Foundation. Se encripta sus comunicaciones con un número de sitios web importantes.

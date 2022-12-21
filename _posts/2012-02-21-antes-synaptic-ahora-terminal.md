@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Antes Synaptic , ahora terminal"
 date: "2012-02-21"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Con el pequeño server en casa y lo agarrado que fui al instalar el SO en un pincho de 4GB , ahora vienen trabajo extra. Hay que limpiar !!! y ya no tengo synaptics. Básicamente he pensado en las opciones que me proporcionaba y he buscado sus homologas en consola.

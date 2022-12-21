@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "VMWARE Player en Ubuntu 10.10"
 date: "2011-07-09"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 El otro día, al intentar instalar VMware Player 3.1.1 en mi Ubuntu 10.10 64 bits, tuve errores en la fase de compilación por dkms del módulo vmmon. Haciendo estos pasos  he conseguido que funcione correctamente.

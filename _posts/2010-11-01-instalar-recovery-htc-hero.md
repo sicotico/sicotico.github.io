@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Instalar recovery HTC Hero"
 date: "2010-11-01"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 El camino fácil es utilizar flashrec , instalable desde apk con la opción de instalar software de terceros. No pide poner el recovery Cuando el flashrec devuelve: _**Flash FAILED: Could not run command**_

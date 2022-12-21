@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Crear schema Doctrine"
 date: "2010-11-10"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Symfony utiliza un [ORM](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional) para la gestión del modelo de datos. Si utiliza [Doctrine](https://en.wikipedia.org/wiki/Doctrine_%28PHP%29) esta aplicación te convierte tu diseño de DB en sintaxis YAML

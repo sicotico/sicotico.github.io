@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Crear ficheros fake"
 date: "2010-12-28"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 $ cd /tmp

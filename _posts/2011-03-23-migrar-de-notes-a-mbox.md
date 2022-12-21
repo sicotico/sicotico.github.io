@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Migrar de Notes a MBOX"
 date: "2011-03-23"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Muchas persona tienen Lotus Notes y tiene unas caracteristicas muy peculiares. Entre ellas el archivado(Local de correo) que a mi personalmente solo me ha dado rebraderos de cabeza.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Desde Berlin ...."
 date: "2008-09-05"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 10 miutos de internet en el concesionario de la SEAT  , que majos que son.

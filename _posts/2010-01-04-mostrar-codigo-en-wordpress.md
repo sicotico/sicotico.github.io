@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mostrar codigo en WordPress"
 date: "2010-01-04"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Últimamente solo hago que poner códigos raros etc ... así que me he instalado un plugin que ayude a ala legibilidad del código en los post. Este se llama WP-CodeBox , es instalable desde wordpress.org , así que no había escusa para no tenerlo. Aun así las instrucciones y las opciones de configuración no sirven para mucho .

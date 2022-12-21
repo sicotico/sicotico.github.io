@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Tip: Cliente ubuntu de TS"
 date: "2011-06-27"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Cambiar al modo pantalla completa y viceversa , ya que no tiene barra de accesos directos de forma permanente.

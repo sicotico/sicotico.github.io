@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WordCamp 2012 Sevilla"
 date: "2012-09-28"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 El primer día , esta vez si he dormido en Sevilla y el cuerpo lo ha agradecido. Empezamos bien con mi gravatar en la identificación.

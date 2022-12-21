@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Otros delaextreme"
 date: "2012-06-10"
 categories: 

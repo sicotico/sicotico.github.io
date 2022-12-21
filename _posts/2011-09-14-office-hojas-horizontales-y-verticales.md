@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Office hojas horizontales y verticales"
 date: "2011-09-14"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Hola a todos. Uno de los tips mas útiles y que muchas gente desconoce, es el hecho de poder combinar hojas horizontales y verticales en Word. Esto es de gran ayuda cuando debemos presentar algún informe o trabajo en el cual incluimos gráficas o tablas muy anchas, y que por su condición se ven mal en hojas verticales, y tampoco se justifica poner todo el informe en formato horizontal, allí es donde debemos utilizar esta opción de Word que les explicare a continuación.

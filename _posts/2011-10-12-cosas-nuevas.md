@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cosas nuevas"
 date: "2011-10-12"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Los dos días de la WordCamp dan para mucho. Solo un par de conferencia me quede descolgado,tenia que aclarar las notas de las anteriores ,a si que me marque unas pausas para gestionar información. La parte eminentemente practica que tiene mi personalidad me llevo directamente a probar Jetpack con las pocas notas que había dado en en la presentación.

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Bug Gnome-mount"
 date: "2007-07-02"
 categories: 

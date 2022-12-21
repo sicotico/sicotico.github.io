@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Prestashop a las bravas"
 date: "2012-07-26"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Ya comente hace unos mese que he empezado con este motor de Ecommerce y llevo unos días haciendo pruebas. La anterior conclusión fue "altamente recomendable e intuitivo"

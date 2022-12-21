@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Instarar servidor X y Gestor de venta Gnome"
 date: "2011-02-22"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 **Instalación**

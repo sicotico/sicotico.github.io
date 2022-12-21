@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Marcadores sociales"
 date: "2011-08-23"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Últimamente ha habido movimientos con el portal de "del.icio.us"  , una delas paginas pioneras en marcadores sociales. Ya son años usando este servicio y la verdad es que me ha sacado de varios problemas , así que es una baza que no quiero perder. Al final ha sido vendida y daba la opción de mantener la cuenta con el nuevo propietario.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Galaxy SII con Android 4.0.3 Samsung"
 date: "2012-03-13"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Hoy a horas intempestivas ha anunciado la actualización vía Kies y OTA para mi maravilloso SII. Una ROM oficial de Samsung con TouchWiz y Android Ice Cream Sandwich.

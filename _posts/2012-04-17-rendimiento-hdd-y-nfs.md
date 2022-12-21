@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Rendimiento HDD y NFS"
 date: "2012-04-17"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Tras el análisis de la red , y ver que tengo la red a 1000 funcionando. Toca las pruebas al disco duro , y al recurso NFS.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Posicionamiento CSS"
 date: "2012-07-25"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Retocando un theme de wordpress me surgió la siempre y perecedera duda de como se posicionan las capas. Búsqueda a google y localizado  una fuente de conocimiento que mis oxidados conocimientos le costaba asimilar.

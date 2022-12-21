@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Camino de la Rioja Party 2011"
 date: "2011-07-03"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Desde un bonita ciudad costera , Valencia nos armamos en el coche ,con muchos "trastos" en el maletero. Esta vez me siento orgulloso de ser el que menos lleva.

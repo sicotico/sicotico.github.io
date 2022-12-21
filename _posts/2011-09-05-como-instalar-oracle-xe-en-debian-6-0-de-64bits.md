@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como instalar Oracle XE en Debian 6.0 de 64bits"
 date: "2011-09-05"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Primero obtenemos el material que vamos a necesitar:  

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Pantallas Azules  “Windows Vista”"
 date: "2006-11-20"
 categories: 

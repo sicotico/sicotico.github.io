@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Eliminar Certificados en Windows 7"
 date: "2011-01-17"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Lo primero es crearse una consola de admistración de certificados , ya que no viene por defecto en el sistema.

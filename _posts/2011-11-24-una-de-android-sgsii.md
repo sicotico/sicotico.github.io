@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Una de Android SGSII"
 date: "2011-11-24"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 [¿Quieres Gingerbread 2.3.5 en tu Samsung Galaxy S II?](https://www.elandroidelibre.com/2011/11/%c2%bfquieres-gingerbread-2-3-5-en-tu-samsung-galaxy-s-ii.html)

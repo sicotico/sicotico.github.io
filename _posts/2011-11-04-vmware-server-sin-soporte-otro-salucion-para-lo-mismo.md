@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "VMware Server sin soporte, otro salución para lo mismo"
 date: "2011-11-04"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Hasta hace poco utilizaba el maravillo VMware Server 2.x , una herramienta increíble. Todo interfaz web y muy parecida la gestión a un ESX. Esto puede restarle encanto ya que dependes de crear _datastores_ y tener las ideas totalmente alineadas con entornos profesionales. A mi era lo que más me llamaba la atención ya que podías hacer practicas y en grandes implantaciones me encontraba como pez en agua.

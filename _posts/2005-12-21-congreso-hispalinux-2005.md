@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Congreso  Hispalinux 2005"
 date: "2005-12-21"
 categories: 

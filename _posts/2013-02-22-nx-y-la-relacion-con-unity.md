@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "NX y la relación con Unity"
 date: "2013-02-22"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 # NX Simple amor y odio , o más bien dejadez.

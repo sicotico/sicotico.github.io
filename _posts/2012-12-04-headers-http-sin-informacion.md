@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Headers HTTP sin informacion"
 date: "2012-12-04"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 # Apache

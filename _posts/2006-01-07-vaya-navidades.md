@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Vaya Navidades !!!!"
 date: "2006-01-07"
 categories: 

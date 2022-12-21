@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Flickr Gallery"
 date: "2011-07-13"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Siempre se me olvidan los shortcodes de este plugin así que me los pongo cerquita para que no se me olviden.

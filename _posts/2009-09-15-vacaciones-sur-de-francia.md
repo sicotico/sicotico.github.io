@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Vacaciones Sur de Francia"
 date: "2009-09-15"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Buenas

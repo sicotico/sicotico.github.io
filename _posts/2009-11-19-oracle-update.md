@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Oracle update"
 date: "2009-11-19"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Actualizar un registro en SQL

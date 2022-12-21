@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Poner a Español Slack\" Esposible !!! \""
 date: "2004-11-12"
 categories: 

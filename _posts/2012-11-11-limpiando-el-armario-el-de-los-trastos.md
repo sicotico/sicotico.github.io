@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Limpiando el armario , el de los trastos"
 date: "2012-11-11"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Tras el cambio de armario , el otoño ya esta aquí, ha tocado revisar el armario de los "trastos". Siendo responsables y organizados , utilizaremos un derivado de GTD,  creamos tres caja:

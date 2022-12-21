@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "El superblock"
 date: "2011-11-06"
-categories: 
-  - "sin-categoria"
+categories: linux windows
 ---
 
 Estos son los primero enlaces que he utilizado tras obtener un maravilloso error de lectura del "magic number" en la partición del sistema.

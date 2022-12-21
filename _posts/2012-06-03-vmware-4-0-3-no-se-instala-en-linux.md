@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "VMWare 4.0.3 no se instala en Linux"
 date: "2012-06-03"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Este fallo se hereda desde la primera versión 4 de vmware player. Se saco un parche para corregirlo y aun así en la versión siguiente seguimos igual. Un lama caritativo probó el mismo script  , modificando su prerrequisitos , principalmente la versión sobre la que se podía ejecutar y funcionó. Ahora os traigo las instrucciones que seguí yo para hacerlo funcionar correctamente.

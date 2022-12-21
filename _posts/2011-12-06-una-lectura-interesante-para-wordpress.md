@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Una lectura interesante para Wordpress"
 date: "2011-12-06"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Hacía meses que lo tenía por casa en la lista de "pendientes" del _**Luis Organizer**_ , una de esas  y mira ayer por la noche cayó.

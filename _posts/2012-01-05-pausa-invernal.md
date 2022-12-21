@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Pausa invernal"
 date: "2012-01-05"
 categories: 

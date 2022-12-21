@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Buscar elementos duplicados en oracle"
 date: "2009-11-19"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Muestra una lista de elemento con dos columnas , el numero de veces repetidas y el campos identificador

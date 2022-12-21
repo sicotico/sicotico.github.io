@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Como hacer port forwarding a través de un tunel ssh"
 date: "2011-09-10"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Redirigimos un puerto "puerto1" en la "maquina1" a otro puerto "puerto2" en la "maquina2":  

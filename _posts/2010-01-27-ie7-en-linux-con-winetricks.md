@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "IE7 en Linux con winetricks"
 date: "2010-01-27"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 Lo primero winetricks es un script que automatiza la instalación de librerías y programas de windows con wine , siempre pasa que vamos hacer una prueba y la aplicación que queremos no nos va. claro en windows hay mil mierdas instaladas , así que con este script con GUI nos ayudara enormemente.

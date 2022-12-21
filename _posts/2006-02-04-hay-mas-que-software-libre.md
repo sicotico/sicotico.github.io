@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "MUSICA LIBRE !!!!!!!!!!!!!!!"
 date: "2006-02-04"
 categories: 

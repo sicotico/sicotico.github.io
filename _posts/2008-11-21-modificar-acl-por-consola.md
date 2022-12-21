@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Modificar ACL por consola"
 date: "2008-11-21"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Tras leer  la maravilla de post de [Fermu](https://www.fermu.com) sobre el [control de ACL](https://www.fermu.com/lang-es/component/content/408?task=view&cpage=10) por consola , no solucionaba del todo mi problema ya que necesitaba modificar permisos en ramas del Registro de Windows. Para esto encontré un par de herramientas , una del amigo Bill y otra Libre , pero no dejan de ser externas y yo trabajo con cientos de equipos asi que necesita algo nativo en Windows XP .

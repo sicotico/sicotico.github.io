@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Packs Themes para WordPress"
 date: "2006-11-27"
 categories: 

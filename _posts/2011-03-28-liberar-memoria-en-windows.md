@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Liberar memoria en windows"
 date: "2011-03-28"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Utilizando esta linea en ejecutar ,solicitamos a windows que libere memoria.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Costillas para vagos"
 date: "2011-09-05"
-categories: 
-  - "sin-categoria"
+categories: recetas
 ---
 
 Este fin de semana he hecho de cocinilla , explorando los procesos de optimización culinarias. Simple rápido y ase posible que cuadre con un partida de Xbox. De sobra sabemos que si es menos se nos va a quemar. No es por echarme flores pero gozo de un gran nivel culinario , o eso la suerte del principiante , aun anda por decidir. Vamos que estaban para chuparse los dedos.

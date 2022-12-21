@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Comandos Windows"
 date: "2007-10-12"
 categories: 

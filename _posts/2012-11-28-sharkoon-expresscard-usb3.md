@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Sharkoon ExpressCard USB3"
 date: "2012-11-28"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Toca una actualización del equipo de trabajo. Siendo un portátil te queda poco margen de maniobra. La ExpressCard es la bahía de expansión que no he visto utilizar a nadie nunca. Es un hueco que se llena de mierda , normalmente a uno de los dos lados del portátil y tiene la funcionalidad de acoplar tarjetas externas tipo PCI.

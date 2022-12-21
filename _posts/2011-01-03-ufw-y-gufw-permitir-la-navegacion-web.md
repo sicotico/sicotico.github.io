@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "UFW y GUFW permitir la navegación web"
 date: "2011-01-03"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 He revisado un poco la configuración de este firewall y para cuatro reglas esta bien. Yo empecé con la política _nada entra y nada sale_ es la forma de crear reglas desde la necesidad y solo para ellas. Es mucho más trabajoso.

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "HTML redirigir una pagina"
 date: "2007-12-06"
 categories: 

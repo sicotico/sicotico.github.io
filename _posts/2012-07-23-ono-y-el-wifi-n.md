@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Ono y el Wifi N"
 date: "2012-07-23"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Este post cuenta la telenovela sobre  Ono como el cabeza de familia ,  el router Cisco  EPC3825 haciendo de hijo manipulado  y Cisco de loco.

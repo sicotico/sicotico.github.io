@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Eliminar el div de comentario en WP"
 date: "2012-06-17"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 En el fichero _page.php_ tenemos el montaje de la pagina , y podemos deshabilitar la capa de comentarios , sin deforma el tema

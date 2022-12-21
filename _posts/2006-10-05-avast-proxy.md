@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Avast Proxy"
 date: "2006-10-05"
 categories: 

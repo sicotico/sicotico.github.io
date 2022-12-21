@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Receta: Kebab casero"
 date: "2009-07-30"
-categories: 
-  - "sin-categoria"
+categories: recetas
 ---
 
 # kebab casero

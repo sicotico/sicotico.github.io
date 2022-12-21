@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Apache2: Directorio Virtuales"
 date: "2009-09-23"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Como compartir caprpetas disjuntas en tu disco , en un solo servidor web sin dominios ni enlaces.

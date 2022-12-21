@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Cuando se descubre una limitación"
 date: "2012-02-10"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Gusano que oculta carpetas"
 date: "2010-07-19"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Hace un par de dias me di cuenta que un disco duro nuevo USB no me lo reconocia bien mi Windowas del trabajo.  Hace unos minutos una estupida busqueda en google "windows oculta usb a usuarios"  descubro que es un gusano de estos toca narices.

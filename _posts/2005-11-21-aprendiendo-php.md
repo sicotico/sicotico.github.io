@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Aprendiendo PHP"
 date: "2005-11-21"
 categories: 

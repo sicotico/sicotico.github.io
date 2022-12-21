@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "IP fija Debian/Ubuntu"
 date: "2012-01-11"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 De esas cosas que siempre se olvidan y busco en internet.

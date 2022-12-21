@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Vendo sobremesa"
 date: "2009-07-27"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Vendo este  sobremesa  por 300€

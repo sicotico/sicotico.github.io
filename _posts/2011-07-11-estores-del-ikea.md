@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Estores del Ikea"
 date: "2011-07-11"
 categories: 

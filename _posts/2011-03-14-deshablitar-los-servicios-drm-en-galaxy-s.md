@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Deshablitar los servicios DRM en Galaxy S"
 date: "2011-03-14"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 **Pasos que he seguido en mi terminal**

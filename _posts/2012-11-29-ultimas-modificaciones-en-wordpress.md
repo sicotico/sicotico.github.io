@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Ultimas modificaciones en WordPress"
 date: "2012-11-29"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Poco a poco  voy personalizando mi WordPress-Lab , el probrecillo hace de conejillo de indias para todas al cosas que voy haciendo en los ratos libres. Últimamente  hay poco de eso de "libre".

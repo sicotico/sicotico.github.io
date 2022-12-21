@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Intrucciones para actualizar con Odin"
 date: "2010-12-31"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Este herramienta requiere de información adicional del cocinero para poder utilizar su ROM. Yo utilizo en los hilos específicos de XDA-Developer para las ROMs de Samsung siempre están , hay que acordarse de apuntarlos cuando bajemos una.

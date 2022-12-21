@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Error “Unable to determine Guest Operating System” en VmWare Converter"
 date: "2008-05-27"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Buenas hacia mucho que no escribía , el trabajo y los estudios me mantiene ocupado.

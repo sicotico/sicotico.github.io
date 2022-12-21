@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Habilitar the_excerpt() en Twenty Eleven"
 date: "2013-03-25"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Estoy investigado el tema **Twenty Eleven** y me he dado cuenta de lo amplio que es. Llevo un par de mejoras y esta ultima me ha costado un poco  , no he hecho caso a Feliz Zapata y no tengo la jerarquía de páginas de wordpress a mano.

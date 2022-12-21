@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Monitor externo"
 date: "2011-07-14"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Este caso es solo valido para hardware compatible con la gestión de monitores por los modules nativos del kernel. ATI y Nvidia se ha de utilizar la herramientas propias.

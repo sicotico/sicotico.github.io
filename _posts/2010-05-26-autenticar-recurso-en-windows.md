@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Autenticar recurso en windows"
 date: "2010-05-26"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Esto habilita el acceso a un recurso con clave , durante la sesión.

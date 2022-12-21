@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Linux + Android"
 date: "2010-11-01"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Para hacer visible un termina Android en linux es necesario informar un poco al subsitema udev , para que sepa lo que tiene que hacer con el aparato.

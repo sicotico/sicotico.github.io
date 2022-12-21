@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Panga , pescado al microondas"
 date: "2012-12-11"
-categories: 
-  - "sin-categoria"
+categories: receta
 ---
 
 ## Hoy toca una de cocina , un _pescadito_ al microondas

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "HTC Diamond actualizada"
 date: "2009-08-16"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 He actualizado mi HTC Diamond , con una ROM oficial de HTC . EL método ha sido el mas fácil que he encontrado , copiar la rom renombrada a la memoria interna y reinicia con soft reset + bajar volumen + flecha

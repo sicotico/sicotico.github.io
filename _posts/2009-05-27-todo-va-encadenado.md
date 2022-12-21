@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Todo va encadenado"
 date: "2009-05-27"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Pues si , seguimos con la teoría de la evolución .  Si tenemos equipo nuevo , pues claro un monitor nuevo va a ser necesario también .

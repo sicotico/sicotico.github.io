@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Camaringo Android"
 date: "2013-06-12"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 ## Camaringo

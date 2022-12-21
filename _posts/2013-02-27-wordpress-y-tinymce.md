@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "TinyMCE y WordPress"
 date: "2013-02-27"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Es el edito WYSIWYG por defecto de WordPress. Este softare es un JS integrado en el CMS , así que si queremos modificar algo en lo más limpio será preguntar a la API de WordPress a ver que nos cuenta.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Guía Triple Boot"
 date: "2011-10-14"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ### Esto es lo que utilizo cada vez que formateo mi MacMini , es copia del original de elotrolado.net , Un poco antigualla pero válida por ahora.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Redirigir trafico web modRewrite"
 date: "2010-10-12"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Siguiendo al política de hacer las cosas bien y solucionado los flecos de la mudanza de hosting me he empapado de conocimiento con esas fuentes de abajo del post.

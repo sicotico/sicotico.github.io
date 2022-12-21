@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Limpiar resultado del aMule"
 date: "2008-02-15"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Clave erronea en extras.ubuntu.com"
 date: "2012-01-25"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Hace tiempo que no tenía ningún error en mis ubuntus y hoy a tocado reiniciar el contador. Un problema con las clave de validación de originalidad e los paquetes ha sido la culpable de tan desagradable reinicio.

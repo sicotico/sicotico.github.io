@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Varios - CAOS - frentes abiertes"
 date: "2012-10-13"
 categories: 

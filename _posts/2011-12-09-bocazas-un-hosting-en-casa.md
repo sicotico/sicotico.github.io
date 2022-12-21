@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Bocazas un hosting en casa"
 date: "2011-12-09"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Diós mio en la que me he metido con esta idea. Un hosting casero tiene muchas variables que te da cualquier servicio y tiene un coste de tiempo de implantación elevado , y ya no pienso en la curva de aprendizaje.

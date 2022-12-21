@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mi primer ASP.NET en una hora"
 date: "2011-10-21"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Por partes siempre que se pueda  y esta vez si se puede. Lo primero es centrarnos un poco y leer algo de información sobre este lenguaje y el framework que usa. [Wikipedia](https://secure.wikimedia.org/wikipedia/es/wiki/ASP.NET) es tu amiga

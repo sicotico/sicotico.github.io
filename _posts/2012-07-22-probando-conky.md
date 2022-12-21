@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Probando Conky"
 date: "2012-07-22"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Con esa canción sonado en televisión de la tómbola da que pensar.Ahora creo que tiene razón  , vaya mal como me afecta el calor y la publicidad , quieren lavarme el cerebro y yo me resisto lo que puedo .

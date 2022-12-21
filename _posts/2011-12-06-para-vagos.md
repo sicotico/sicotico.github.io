@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Para vagos"
 date: "2011-12-06"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Desde ayudawordpress.org han creado un fichero de backup  con su correspondiente script de instalación. Generado gracias BuddyBackup proporciona un asistente para configurar tu dirección del blog , los datos de la base de datos.

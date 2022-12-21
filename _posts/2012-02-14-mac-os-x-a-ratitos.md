@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Mac OS X , a ratitos"
 date: "2012-02-14"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Tengo mi Proliant tan bonito y de sacarle partido desde el Mac OS X 10.6. Así que ha tocado el acceso NFS y a ser posible de forma automática. Sencillo si recuerdas poner el directorio base ya que si dejas:

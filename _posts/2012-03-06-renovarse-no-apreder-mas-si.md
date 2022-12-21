@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Renovarse no, apreder más sí"
 date: "2012-03-06"
 categories: 

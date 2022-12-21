@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Instalando Tonido en Linux 64bits"
 date: "2010-03-12"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Bueno tiene buen pinta , pero claro esta corriendo Windows , esto de tener Linux a 64bits por ahora imposibilita una prueba en un sistema operativo estable.

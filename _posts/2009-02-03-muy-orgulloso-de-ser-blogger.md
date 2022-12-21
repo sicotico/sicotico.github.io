@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Muy orgulloso de ser Blogger"
 date: "2009-02-03"
 categories: 

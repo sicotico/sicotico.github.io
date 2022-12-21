@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "de BlackBerry a Galaxy Tab"
 date: "2011-08-30"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Toco cambio de terminal de mi padre y claro sabemos que el informático de casa siempre esta involucrado, en este y todo resto de "berejenales" asociado con botones.

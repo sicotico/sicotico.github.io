@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "WordCamp Sevilla - El viaje"
 date: "2011-10-08"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Tras la liar la manta a la cabeza y organizar el viaje de una manera peculiar. Con la noche cerrada encima salía de Madrid , sí sí muy temprano un colacao con magdalena y la maleta en mano directo al coche.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Plugin CCEnhacer"
 date: "2011-08-31"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Dentro de mis días de pruebas con este sistema operativo  , intentaré levantar maquinas virtuales con fine corporativos y de herramientas que consumen unos cuanto recursos.

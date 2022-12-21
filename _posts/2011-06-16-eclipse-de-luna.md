@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Eclipse de luna"
 date: "2011-06-16"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Estaba yo tan contento cenando en Valencia , incluso bien acompañado, y me entero que hay un eclipse. Voy a ver si lo puedo ver , error replantear prioridades y claro irme a dormir supera a todas con creces.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Restaurante Marino"
 date: "2011-04-11"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
   

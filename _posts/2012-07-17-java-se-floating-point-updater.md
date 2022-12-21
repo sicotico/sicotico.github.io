@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Java SE Floating Point Updater"
 date: "2012-07-17"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Este jar es un parche peculiar para las JRE , evita varios ataque de denegación de servicio y varias operaciones.

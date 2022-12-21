@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Hoy Jerez de La Frontera"
 date: "2011-12-13"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Tras un día intenso toca turismo nocturno. Acostumbrado al clima norteño hoy es primavera y el paseo acompaña.

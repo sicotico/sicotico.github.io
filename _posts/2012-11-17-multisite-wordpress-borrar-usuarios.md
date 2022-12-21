@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Multisite Wordpress - Borrar usuarios y sites"
 date: "2012-11-17"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 ## WP Multisite

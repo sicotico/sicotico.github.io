@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Rediseñando mi casa"
 date: "2011-08-22"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Ya tengo mi "host" , que cosas se me pegan las expresiones. Toca renovarse , si me he comprado un [iMac](https://support.apple.com/kb/SP588?viewlocale=es_ES "Especificaciones tecnicas") debería aprender a usarlo. Voy hacer el intento de aprender Mac OS X .

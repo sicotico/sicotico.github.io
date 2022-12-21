@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Consultas oracle a fichero de texto"
 date: "2009-11-18"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Usamos sqlplus (ya comentado en otro [post](https://luispuente.net/2009/11/sqlplus-conexion/)) y la herramienta spool.

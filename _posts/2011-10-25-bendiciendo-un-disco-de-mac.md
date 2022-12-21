@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Bendiciendo un disco de Mac"
 date: "2011-10-25"
-categories: 
-  - "sin-categoria"
+categories: mac hardware
 ---
 
 ## Notas sobre particiones

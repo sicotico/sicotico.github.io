@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Instalación de Virtualmin con FTP chroot"
 date: "2014-03-24"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Estos días he estado preparando un servidor con Virtualmin. Va a ser mi laboratorio de pruebas , webmin y yo somos amigos desde hace muchos años y esta evolución me ha empezado ser interesante. Me estoy haciendo profesional y muchas tareas las puedes hacer a mano o con interfaz web así que  en vez de picar scripts  estoy aprendiendo a usar esta interfaz sobre una Ubuntu 12.04.2 LTS.

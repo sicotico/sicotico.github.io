@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Nast , un sniffer simple"
 date: "2010-04-19"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Me he encontrado esta utilidad en la [LinuxParty](https://www.linux-party.com).

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Configurar JVM"
 date: "2010-03-22"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Buenas hoy toca librarse del típico error :

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Compartir archivos por Bluetooth"
 date: "2011-05-10"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Para compartir archivos mediante el uso de Bluetooth

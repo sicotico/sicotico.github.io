@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "uShare Linux"
 date: "2009-05-31"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 ![](images/C54WMP_det.jpg "WirelessMediaPlayer")El producto estrella de mi salón , bueno del de mis padres . Es un receptor de vídeo y audio en streaming , esta montado sobre un BusyBox y como detalle adjunta las licencias del software pero no he encontrado el código fuente.  Como uno se puede imaginar viene solo con un software para windows ,  aunque pone en mil veces en las instrucciones y en la publicidad que ese uPnP/AV .  Poniendo eso en Google acompañado de Linux salieron miles de resultados , uno de ellos el proyecto GeeXboX ,  una distro multimedia para HTPC  cuyo software estrella era el uShare.Lo segundo a buscar es si esta paquetizado para Debian y mi sorpresa fue que casi para Ubuntu (en Jaunty 9.04 esta en repositorios oficiales ) . Tomad nota se instala por repositorio y crea el servicio  `sudo apt-get install ushare`

@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Mi PSP Firmaware 3.51 M33"
 date: "2007-09-08"
 categories: 

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Un entorno nuevo"
 date: "2011-11-30"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Que bonita semana , ya tengo un SQL Server 2008 , un Directorio Activo y un DNS  para simular integraciones. Ha sido un dolor de cabeza impresionante , la de detalles a tener en cuenta y sobre todo la estúpida creencia de que todo es siguiente siguiente, siguiente ....  Luego vienen los problemas .

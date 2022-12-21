@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Sqlplus conexion"
 date: "2009-11-16"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Hoy ha sido el día ,  mi primera vez a pelo con Oracle

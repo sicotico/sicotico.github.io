@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Los prejuicios estan en todas partes"
 date: "2006-12-31"
 categories: 

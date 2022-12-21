@@ -1,12 +1,8 @@
 ---
-
+layout: post
 title: "BuddyPrees"
 date: "2011-10-08"
-categories: 
-  - "sin-categoria"
-tags: 
-  - "web"
-  - "wordpress"
+categories: dev
 ---
 
 chicismo = wp + Buddy

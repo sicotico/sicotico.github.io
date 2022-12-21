@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Maquinas virtuales creadas para virtualbox"
 date: "2010-03-06"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 GNU/Linux, BSD, OpenSolaris y otros. La principal ventaja de utilizar estos archivos ya generados con el SO instalado es que solo descargamos e inventariarlo en nuestro [VirtualBox](https://www.virtualbox.org/) Una maravilla para un vago

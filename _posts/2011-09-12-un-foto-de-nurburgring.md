@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Unas fotos de Ibiza en Nurburgring"
 date: "2011-09-12"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Me hace mucha ilusión poner esta foto. La saco una de las empresas que hace fotos dentro del circuito , así que tiene un toque profesional y se pude ver lo bien preparado que esta mi coche , los kilómetros que hice para la comprar la suspensión en Andorra . Ahora se ven los resultado , como siempre voy dentro siento las mejoras.

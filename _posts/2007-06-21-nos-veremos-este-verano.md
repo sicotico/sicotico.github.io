@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Nos veremos este verano"
 date: "2007-06-21"
 categories: 

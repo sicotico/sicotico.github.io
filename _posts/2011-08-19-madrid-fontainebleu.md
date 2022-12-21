@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Madrid - Fontainebleu"
 date: "2011-08-19"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Sabiendo que teníamos 1400km debíamos de hacer paradas para no morir tanto en lo físico como en lo mental.

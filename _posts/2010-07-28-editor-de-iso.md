@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Editor de ISO"
 date: "2010-07-28"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Es una de los problemas que siempre he tenido en Linux y como llevo una agenda pues no me acuerdo de solucionarlo. Hoy me lo he encontrado de frente en unos minutos.

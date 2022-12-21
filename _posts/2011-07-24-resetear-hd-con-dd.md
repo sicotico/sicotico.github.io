@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Resetear HD con dd"
 date: "2011-07-24"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Siempre ocurre cuando necesitas algo no funciona. Casi casi es mi caso , tenia un disco con una tabla de particiones corruptas , pero funcionaba y puede hacer la copia de seguridad. Después de volcar 900gb por usb 2.0 , unas 15 horas podía trabajar con el e intentar arreglarlo. Se intento redefinir la tabla de particiones para evitar el solapamiento entre ellas pero fue imposible , una de ellas era extendida y no conseguí nada.Tras varios intentos y que el disco no reconociera algunos cambios. La caballería entro en acción y el equipo de limpieza llegó.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Lanzar Java desde PowerShell"
 date: "2012-07-28"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Este caso ha sido un dolor de cabeza   ,  ejecutando PowerShell en un servidor de aplicaciones  tienen muchos inconvenientes técnicos. Su pongo que tenga alguna ventaja  , no la he conocido ni utilizado.

@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Wordpress en un servidor"
 date: "2011-11-29"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Últimamente he entrado en este mundillo y al final he decidido prepararme mi propio "hosting" . Para servicios internos o propios. Haciendo mi primera instalación sobre Ubuntu Server empiezo a ver que de cosas tiene los hosting y el trabajo que conlleva. Esta frase es un guiño al administrador de mi hosting.

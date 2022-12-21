@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Compilacion en QT4"
 date: "2005-11-30"
 categories: 

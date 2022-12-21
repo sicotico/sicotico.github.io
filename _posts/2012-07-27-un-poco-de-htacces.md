@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Un poco de htacces"
 date: "2012-07-27"
-categories: 
-  - "sin-categoria"
+categories: dev linux
 ---
 
 Siguiendo el blog de [ayudawordpress](https://ayudawordpress.com/usa-htaccess-como-firewall/ "htaccess-como-firewall") veo una idea , usar este fichero como barrera para conexiones no estándar. Como si de un corta fuegos se tratase agregamos reglas para evitar que nuestra aplicación web las llegue a procesar.

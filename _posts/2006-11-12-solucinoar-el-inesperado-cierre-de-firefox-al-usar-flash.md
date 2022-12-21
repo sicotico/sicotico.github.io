@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Solucinoar el Inesperado cierre de Firefox al usar Flash"
 date: "2006-11-12"
 categories: 

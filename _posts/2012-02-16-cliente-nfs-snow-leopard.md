@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cliente NFS: Snow Leopard"
 date: "2012-02-16"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Simplemente unas notas de como conectar un OSX 10.6 a un servidor NFS y que tengamos auto montaje.

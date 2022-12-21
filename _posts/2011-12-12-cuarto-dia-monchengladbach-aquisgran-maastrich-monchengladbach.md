@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Cuarto Día: Monchengladbach – Aquisgrán – Maastrich – Monchengladbach"
 date: "2011-12-12"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Por fin lo he conseguido ,  he publicado las fotos de mi cuarto día por Europa. Si desde el verano ha llovido  pero el tiempo en la red no es una variable de impacto.

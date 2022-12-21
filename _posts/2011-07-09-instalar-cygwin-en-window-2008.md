@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Instalar cygwin en Window 2008"
 date: "2011-07-09"
-categories: 
-  - "sin-categoria"
+categories: windows linux
 ---
 
 Los paso básicos par al instalación , siguiendo como estándar a menos paquetes mejor , menos problemas.

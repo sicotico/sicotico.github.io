@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Desde Tarifa"
 date: "2009-06-25"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 El mejor clima de Andalucía , fresquito y mucho viento.

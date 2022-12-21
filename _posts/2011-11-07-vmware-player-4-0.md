@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "VMWare Player 4.0"
 date: "2011-11-07"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Vaya cambio de versión 3.1.4 a 4.0  no se si va más rápido o no  pero han tenido los huevos de hacer mal el paquete de instalación.

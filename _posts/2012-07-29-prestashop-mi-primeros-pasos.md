@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Prestashop mi primeros pasos"
 date: "2012-07-29"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Esa "cosas" que comentaba en el anterior post  , esas que deberíamos de saber cuando te enfrentas a una instalación si módulos

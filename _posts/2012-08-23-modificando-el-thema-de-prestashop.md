@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Modificando el thema de Prestashop"
 date: "2012-08-23"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Vamos a tomar notas de las modificaciones que estoy haciendo en el grobal.ccs de prestashop.

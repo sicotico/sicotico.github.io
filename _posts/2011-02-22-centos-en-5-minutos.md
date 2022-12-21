@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "CentOS en 5 minutos"
 date: "2011-02-22"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 **Versión instalada :**

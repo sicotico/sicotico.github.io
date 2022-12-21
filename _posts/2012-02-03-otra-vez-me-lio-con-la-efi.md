@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Otra vez me lio con la EFI"
 date: "2012-02-03"
-categories: 
-  - "sin-categoria"
+categories: mac linux
 ---
 
 Tras meses usando Xubuntu ya tocaba volver a un escritorio con todo tipo de recursos accesibles. Montaje de nfs remoto  , acceso por ssh desde el explorador , cosa que mejorar detalles.

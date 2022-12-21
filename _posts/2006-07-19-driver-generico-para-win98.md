@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "driver Generico para win98"
 date: "2006-07-19"
 categories: 

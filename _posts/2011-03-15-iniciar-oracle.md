@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Iniciar Oracle"
 date: "2011-03-15"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 \-> lsnrctl

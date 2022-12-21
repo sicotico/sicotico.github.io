@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "HDMI y Mac Mini"
 date: "2010-03-06"
-categories: 
-  - "sin-categoria"
+categories: mac
 ---
 
 Tengo que acostumbrarme a leer un poquito más . La conexión de mini-DiplayPort no posee audio de forma  nativa. Aun así existe converso a HDMI pero si el audio , lo cual me ha hecho la puñeta.

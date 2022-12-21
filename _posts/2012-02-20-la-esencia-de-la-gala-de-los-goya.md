@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "La esencia de la gala de los Goya"
 date: "2012-02-20"
 categories: 

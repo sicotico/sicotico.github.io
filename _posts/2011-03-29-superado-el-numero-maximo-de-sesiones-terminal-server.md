@@ -1,9 +1,8 @@
 ---
-
+layout: post
 title: "Superado el numero máximo de sesiones terminal server"
 date: "2011-03-29"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Odio este error:

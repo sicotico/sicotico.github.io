@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Explicación de mi aprendizaje"
 date: "2012-05-16"
 categories: 
