@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "nvidia settings can't save to conf file"
 date: "2010-02-21"
 categories: mac hardware

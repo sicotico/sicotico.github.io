@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Operador UNION"
 date: "2011-09-06"
 categories: viajes

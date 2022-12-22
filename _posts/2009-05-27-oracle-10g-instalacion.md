@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Oracle 10g instalación"
 date: "2009-05-27"
 categories: software

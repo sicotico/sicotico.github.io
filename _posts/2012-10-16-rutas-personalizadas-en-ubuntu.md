@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Rutas personalizadas en Ubuntu"
 date: "2012-10-16"
 categories: linux

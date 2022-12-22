@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Costillas para vagos"
 date: "2011-09-05"
 categories: recetas

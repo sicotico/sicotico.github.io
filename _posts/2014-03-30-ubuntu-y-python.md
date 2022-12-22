@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ubuntu y Python"
 date: "2014-03-30"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Pinta el editor de imagenes"
 date: "2012-06-13"
 categories: dev

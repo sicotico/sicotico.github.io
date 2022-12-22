@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Volviendo a los origines"
 date: "2011-09-18"
 categories: mac

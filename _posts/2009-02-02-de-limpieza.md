@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "De limpieza"
 date: "2009-02-02"
 categories: hardware

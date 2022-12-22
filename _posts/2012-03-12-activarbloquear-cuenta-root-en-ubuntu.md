@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Activar/Bloquear cuenta root en Ubuntu"
 date: "2012-03-12"
 categories: linux

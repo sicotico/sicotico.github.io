@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Recodificar pistas de audio con FFMPEG"
 date: "2018-05-08"
 categories: audio video

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Como buscar exclusivamente los ficheros y directorios ocultos con find"
 date: "2011-08-20"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Intrucciones para actualizar con Odin"
 date: "2010-12-31"
 categories: android

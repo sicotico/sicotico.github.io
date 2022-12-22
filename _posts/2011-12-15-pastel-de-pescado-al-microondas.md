@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Pastel de pescado al microondas"
 date: "2011-12-15"
 categories: receta

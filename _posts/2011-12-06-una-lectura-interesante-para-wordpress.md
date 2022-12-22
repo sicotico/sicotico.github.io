@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Una lectura interesante para Wordpress"
 date: "2011-12-06"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "GPT - Regenerar backup"
 date: "2013-12-30"
 categories: so hardware

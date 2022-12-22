@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "GPG y apt-get"
 date: "2005-08-21"
 categories: software

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Me gusta conducir , pero no que me roben"
 date: "2012-03-22"
 categories: viajes

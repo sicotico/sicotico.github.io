@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "export e impor de DB Oracle 11"
 date: "2011-04-13"
 categories: software

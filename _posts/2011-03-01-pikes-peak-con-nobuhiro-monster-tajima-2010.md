@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Pikes Peak con Nobuhiro \"Monster\" Tajima 2010"
 date: "2011-03-01"
 categories: coches

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Linux + Android"
 date: "2010-11-01"
 categories: android

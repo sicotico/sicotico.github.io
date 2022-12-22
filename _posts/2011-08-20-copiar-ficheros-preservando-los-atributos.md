@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Copiar ficheros preservando los atributos"
 date: "2011-08-20"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "HDMI y Mac Mini"
 date: "2010-03-06"
 categories: mac

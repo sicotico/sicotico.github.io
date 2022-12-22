@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Portatil INSPIRON 1501"
 date: "2008-07-22"
 categories: hardware

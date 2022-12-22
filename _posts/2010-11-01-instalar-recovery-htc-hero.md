@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Instalar recovery HTC Hero"
 date: "2010-11-01"
 categories: android

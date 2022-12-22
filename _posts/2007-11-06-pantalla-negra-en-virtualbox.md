@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Pantalla negra en VirtualBox"
 date: "2007-11-06"
 categories: vmware

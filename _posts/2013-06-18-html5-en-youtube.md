@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "HTML5 en Youtube"
 date: "2013-06-18"
 categories: dev

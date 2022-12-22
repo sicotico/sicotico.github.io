@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "El estilo de mi novia"
 date: "2012-01-16"
 categories: personal

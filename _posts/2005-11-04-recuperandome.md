@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Recuperandome"
 date: "2005-11-04"
 categories: hardware

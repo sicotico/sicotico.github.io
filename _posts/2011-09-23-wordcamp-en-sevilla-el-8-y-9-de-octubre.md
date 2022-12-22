@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "WordCamp en Sevilla el 8 y 9 de Octubre"
 date: "2011-09-23"
 categories: viajes

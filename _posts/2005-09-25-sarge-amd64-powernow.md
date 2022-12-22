@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Sarge AMD64 (Powernow)"
 date: "2005-09-25"
 categories: hardware

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Montecarlo y Recovery"
 date: "2013-07-31"
 categories: android

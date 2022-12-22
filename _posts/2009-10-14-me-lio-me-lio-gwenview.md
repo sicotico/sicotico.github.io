@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "me lio  , me lio Gwenview"
 date: "2009-10-14"
 categories: software

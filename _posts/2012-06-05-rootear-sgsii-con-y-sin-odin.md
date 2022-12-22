@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Rootear SGSII con y sin Odin"
 date: "2012-06-05"
 categories: android

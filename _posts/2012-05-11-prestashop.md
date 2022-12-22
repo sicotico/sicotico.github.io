@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Prestashop"
 date: "2012-05-11"
 categories: dev

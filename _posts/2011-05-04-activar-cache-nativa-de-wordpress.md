@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Activar cache nativa de Wordpress"
 date: "2011-05-04"
 categories: dev

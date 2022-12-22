@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Redondear esquinas de capas con CSS"
 date: "2010-01-04"
 categories: dev

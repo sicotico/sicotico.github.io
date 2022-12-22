@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mi server casero + USB"
 date: "2011-12-13"
 categories: hardware linux

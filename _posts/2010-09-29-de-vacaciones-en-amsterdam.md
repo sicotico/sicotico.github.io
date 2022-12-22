@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "De Vacaciones en Amsterdam"
 date: "2010-09-29"
 categories: viajes

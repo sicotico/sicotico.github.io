@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cliente NFS: Snow Leopard"
 date: "2012-02-16"
 categories: dev

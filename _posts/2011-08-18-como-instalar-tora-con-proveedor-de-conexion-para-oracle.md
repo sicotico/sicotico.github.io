@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Como instalar TOra con proveedor de conexion para oracle"
 date: "2011-08-18"
 categories: software

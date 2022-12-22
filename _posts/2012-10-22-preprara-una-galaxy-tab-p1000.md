@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Preprara una Galaxy Tab P1000"
 date: "2012-10-22"
 categories: android

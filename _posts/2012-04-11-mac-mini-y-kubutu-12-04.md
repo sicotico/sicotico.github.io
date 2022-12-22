@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mac Mini y Kubutu 12.04"
 date: "2012-04-11"
 categories: linux

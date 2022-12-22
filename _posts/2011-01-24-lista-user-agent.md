@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Lista de user-aget de moviles"
 date: "2011-01-24"
 categories: dev

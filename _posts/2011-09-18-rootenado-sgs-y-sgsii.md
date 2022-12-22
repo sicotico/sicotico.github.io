@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Rootenado SGS y SGSII"
 date: "2011-09-18"
 categories: android

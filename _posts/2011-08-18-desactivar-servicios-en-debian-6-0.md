@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Desactivar servicios en Debian 6.0"
 date: "2011-08-18"
 categories: linux

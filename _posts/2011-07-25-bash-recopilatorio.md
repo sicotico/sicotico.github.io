@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Bash recopilatorio"
 date: "2011-07-25"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "PowerShell renombrado de ficheros"
 date: "2018-05-09"
 categories: PowerShell 

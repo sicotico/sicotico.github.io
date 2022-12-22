@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Escribiendo \"zeros\""
 date: "2010-06-07"
 categories: windows linux

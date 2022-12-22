@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Como crear un lanzador para TOra"
 date: "2011-08-18"
 categories: software

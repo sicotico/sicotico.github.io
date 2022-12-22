@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Temas hijo en WP"
 date: "2011-12-11"
 categories: dev

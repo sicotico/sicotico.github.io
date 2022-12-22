@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Estrenamos galería de Imagenes"
 date: "2008-10-20"
 categories: dev

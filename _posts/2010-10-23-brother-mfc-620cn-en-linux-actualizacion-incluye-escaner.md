@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Brother MFC-620CN en Linux (Actualización incluye escaner)"
 date: "2010-10-23"
 categories: hardware linux

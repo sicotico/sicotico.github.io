@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Instarar servidor X y Gestor de venta Gnome"
 date: "2011-02-22"
 categories: windows linux

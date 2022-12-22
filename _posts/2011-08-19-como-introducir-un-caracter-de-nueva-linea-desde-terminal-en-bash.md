@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Como introducir un carácter de nueva linea desde terminal en bash"
 date: "2011-08-19"
 categories: linux

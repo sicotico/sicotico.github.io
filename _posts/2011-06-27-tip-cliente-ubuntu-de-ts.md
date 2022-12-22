@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Tip: Cliente ubuntu de TS"
 date: "2011-06-27"
 categories: linux

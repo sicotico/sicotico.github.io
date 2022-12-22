@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "De Pinchos por Bilbao"
 date: "2011-07-23"
 categories: viajes

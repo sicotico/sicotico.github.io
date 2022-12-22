@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cambiar hostname - CentOS"
 date: "2011-02-22"
 categories: linux

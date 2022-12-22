@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Un proyecto nuevo para estas fiestas"
 date: "2009-12-27"
 categories: dev

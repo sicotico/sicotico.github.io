@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Resetear password Deluge web"
 date: "2010-03-23"
 categories: software

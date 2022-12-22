@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Partimage"
 date: "2013-07-29"
 categories:  linux

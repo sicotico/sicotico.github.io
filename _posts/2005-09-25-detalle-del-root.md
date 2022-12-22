@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Detalle del root"
 date: "2005-09-25"
 categories: linux

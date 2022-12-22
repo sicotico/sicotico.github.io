@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Eclipse – Abrir un proyecto existente"
 date: "2012-09-12"
 categories: dev

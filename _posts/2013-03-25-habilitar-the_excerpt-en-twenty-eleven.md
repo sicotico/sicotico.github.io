@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Habilitar the_excerpt() en Twenty Eleven"
 date: "2013-03-25"
 categories: dev

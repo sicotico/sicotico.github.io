@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Lectura adicional para novatos Android"
 date: "2012-02-15"
 categories: android

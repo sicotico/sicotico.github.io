@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "VMWARE Player en Ubuntu 10.10"
 date: "2011-07-09"
 categories: vmware

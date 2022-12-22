@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "DHTML y CSS"
 date: "2009-05-07"
 categories: dev

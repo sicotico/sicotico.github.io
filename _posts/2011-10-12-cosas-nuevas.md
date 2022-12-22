@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cosas nuevas"
 date: "2011-10-12"
 categories: dev

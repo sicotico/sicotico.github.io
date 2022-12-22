@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "alta definicion en ATI"
 date: "2009-02-02"
 categories: hardware

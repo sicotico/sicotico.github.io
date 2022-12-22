@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Sidebar dinámico en Cherry"
 date: "2013-07-27"
 categories: dev

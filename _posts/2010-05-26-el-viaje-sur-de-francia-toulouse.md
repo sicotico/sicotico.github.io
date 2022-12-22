@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "El Viaje sur de Francia \"Toulouse\""
 date: "2010-05-26"
 categories: viajes

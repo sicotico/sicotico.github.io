@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Modificar ACL por consola"
 date: "2008-11-21"
 categories: windows

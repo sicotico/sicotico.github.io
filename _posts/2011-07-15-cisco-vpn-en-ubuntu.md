@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cisco VPN en Ubuntu"
 date: "2011-07-15"
 categories: software

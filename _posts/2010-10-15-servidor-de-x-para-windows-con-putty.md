@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Servidor de X para Windows con putty"
 date: "2010-10-15"
 categories: windows linux

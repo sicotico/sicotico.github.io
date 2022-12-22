@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Gears Of War 3"
 date: "2011-04-28"
 categories: personal

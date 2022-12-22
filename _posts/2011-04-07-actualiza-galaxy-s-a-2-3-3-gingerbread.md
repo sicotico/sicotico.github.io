@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Actualiza Galaxy S a 2.3.3 Gingerbread"
 date: "2011-04-07"
 categories: android

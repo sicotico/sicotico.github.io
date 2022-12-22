@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "El viajecito a Sevilla"
 date: "2011-11-22"
 categories: viajes

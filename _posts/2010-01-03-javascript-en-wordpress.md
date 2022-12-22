@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "JavaScript en WordPress"
 date: "2010-01-03"
 categories: dev

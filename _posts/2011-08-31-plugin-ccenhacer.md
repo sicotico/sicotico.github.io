@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Plugin CCEnhacer"
 date: "2011-08-31"
 categories: software

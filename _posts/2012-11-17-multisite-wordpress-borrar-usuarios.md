@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Multisite Wordpress - Borrar usuarios y sites"
 date: "2012-11-17"
 categories: dev

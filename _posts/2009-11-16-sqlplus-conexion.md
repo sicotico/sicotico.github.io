@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Sqlplus conexion"
 date: "2009-11-16"
 categories: software

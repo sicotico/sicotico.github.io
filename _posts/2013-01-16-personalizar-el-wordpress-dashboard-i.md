@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Personalizar el wordpress dashboard I"
 date: "2013-01-16"
 categories: dev

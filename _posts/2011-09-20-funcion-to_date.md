@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Función TO_DATE"
 date: "2011-09-20"
 categories: dev

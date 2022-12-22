@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Guia rapida MySQL"
 date: "2011-07-10"
 categories: mysql

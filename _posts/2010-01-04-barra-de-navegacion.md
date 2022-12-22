@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Barra de Navegación"
 date: "2010-01-04"
 categories: dev

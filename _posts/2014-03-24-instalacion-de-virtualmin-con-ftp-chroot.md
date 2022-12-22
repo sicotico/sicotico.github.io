@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Instalación de Virtualmin con FTP chroot"
 date: "2014-03-24"
 categories: linux

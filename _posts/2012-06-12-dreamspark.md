@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "DreamSpark"
 date: "2012-06-12"
 categories: windows

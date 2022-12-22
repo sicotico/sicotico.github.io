@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Nuevo Router"
 date: "2012-01-20"
 categories: hardware

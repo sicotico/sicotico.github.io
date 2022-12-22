@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Fechas y Oracle"
 date: "2011-09-02"
 categories: dev

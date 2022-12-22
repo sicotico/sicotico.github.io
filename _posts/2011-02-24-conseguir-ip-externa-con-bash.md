@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Conseguir ip externa con bash"
 date: "2011-02-24"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Restaurante Marino"
 date: "2011-04-11"
 categories: viajes

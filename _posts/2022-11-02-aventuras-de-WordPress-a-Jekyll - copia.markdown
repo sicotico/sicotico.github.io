@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Aventuras de WordPress a Jekyll"
 date:   2022-11-26 10:57:08 +0200
 categories: jekyll update

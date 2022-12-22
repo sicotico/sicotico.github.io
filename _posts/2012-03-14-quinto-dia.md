@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Quinto Día"
 date: "2012-03-14"
 categories: viajes

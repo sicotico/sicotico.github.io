@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Servicos Windows (sc.exe)"
 date: "2010-04-28"
 categories: windows

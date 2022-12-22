@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Backup de Flickr"
 date: "2012-06-09"
 categories: dev

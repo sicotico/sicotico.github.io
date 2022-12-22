@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Formatear en Linux"
 date: "2006-10-22"
 categories: linux

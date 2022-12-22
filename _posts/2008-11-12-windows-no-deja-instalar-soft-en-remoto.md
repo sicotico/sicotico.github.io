@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Windows no deja instalar Soft en remoto"
 date: "2008-11-12"
 categories: windows

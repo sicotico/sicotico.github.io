@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Vaya Navidades !!!!"
 date: "2096-01-07"
 categories: personal

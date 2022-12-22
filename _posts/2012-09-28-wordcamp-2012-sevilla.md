@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "WordCamp 2012 Sevilla"
 date: "2012-09-28"
 categories: dev

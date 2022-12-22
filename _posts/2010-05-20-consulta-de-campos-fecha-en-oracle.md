@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Consulta de campos fecha en Oracle"
 date: "2010-05-20"
 categories: software

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Dando caña al Ibiza"
 date: "2009-06-02"
 categories: coches

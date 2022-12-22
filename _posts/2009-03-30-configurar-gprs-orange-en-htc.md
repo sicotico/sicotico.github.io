@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Configurar GPRS Orange en HTC"
 date: "2009-03-30"
 categories: android

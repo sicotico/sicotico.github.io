@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Virtualbox ese gran desconocido"
 date: "2007-09-28"
 categories: vmware

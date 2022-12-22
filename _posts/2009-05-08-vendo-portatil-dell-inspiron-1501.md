@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Vendo Portatil Dell INSPIRON 1501"
 date: "2009-05-08"
 categories: hardware

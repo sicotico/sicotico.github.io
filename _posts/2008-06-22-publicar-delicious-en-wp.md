@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Publicar del.icio.us en WP"
 date: "2008-06-22"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Grabar juegos xbox por consola en Linux"
 date: "2009-10-17"
 categories: hardware

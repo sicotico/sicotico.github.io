@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Recursos WSH y VBS"
 date: "2012-06-15"
 categories: dev

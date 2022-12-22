@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Bendiciendo un disco de Mac"
 date: "2011-10-25"
 categories: mac hardware

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Win-SSHFs Montar FS sobre SSH (Windows)"
 date: "2013-08-03"
 categories: win linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Modificar servicios de windows"
 date: "2010-07-19"
 categories: windows

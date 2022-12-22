@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "El pequeño de la casa se actualiza"
 date: "2012-06-06"
 categories: hardware

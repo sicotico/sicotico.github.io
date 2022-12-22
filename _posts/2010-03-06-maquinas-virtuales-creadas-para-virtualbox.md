@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Maquinas virtuales creadas para virtualbox"
 date: "2010-03-06"
 categories: vmware

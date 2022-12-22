@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Shared Folder GNOME"
 date: "2010-12-29"
 categories: linmx

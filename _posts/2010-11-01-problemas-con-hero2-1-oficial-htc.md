@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Problemas con Hero+2.1 oficial HTC"
 date: "2010-11-01"
 categories: android

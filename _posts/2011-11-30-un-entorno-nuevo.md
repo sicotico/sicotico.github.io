@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Un entorno nuevo"
 date: "2011-11-30"
 categories: hardware

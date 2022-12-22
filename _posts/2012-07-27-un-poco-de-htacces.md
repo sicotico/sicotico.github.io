@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Un poco de htacces"
 date: "2012-07-27"
 categories: dev linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Permisos en la libreria"
 date: "2011-12-06"
 categories: dev

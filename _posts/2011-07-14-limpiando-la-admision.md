@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Limpiando la admisión"
 date: "2011-07-14"
 categories: coches

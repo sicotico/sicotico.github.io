@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Arranque y para de Oracle"
 date: "2010-04-08"
 categories: software

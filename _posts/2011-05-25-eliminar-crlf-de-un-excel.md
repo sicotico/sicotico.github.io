@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Eliminar \"CRLF\" de un Excel"
 date: "2011-05-25"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Escritorio remoto , cuentas registras"
 date: "2011-05-26"
 categories: windows

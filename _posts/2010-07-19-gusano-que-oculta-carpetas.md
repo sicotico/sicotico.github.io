@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Gusano que oculta carpetas"
 date: "2010-07-19"
 categories: windows

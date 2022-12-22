@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mis Custom Post"
 date: "2012-07-19"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Camino de la Rioja Party 2011"
 date: "2011-07-03"
 categories: viajes

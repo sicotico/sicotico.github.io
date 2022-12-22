@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Inspector de objetos de Firefox 10.0.2"
 date: "2012-03-16"
 categories: dev

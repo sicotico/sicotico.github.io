@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Lanzar aplicaciones graficas en equipos remotos por ssh"
 date: "2008-03-14"
 categories: linux

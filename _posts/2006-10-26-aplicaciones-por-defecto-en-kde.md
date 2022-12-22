@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aplicaciones por defecto en KDE"
 date: "2006-10-26"
 categories: linux

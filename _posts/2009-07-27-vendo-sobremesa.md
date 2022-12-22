@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Vendo sobremesa"
 date: "2009-07-27"
 categories: hardware

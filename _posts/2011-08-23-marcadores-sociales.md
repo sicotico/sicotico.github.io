@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Marcadores sociales"
 date: "2011-08-23"
 categories: software

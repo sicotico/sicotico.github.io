@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Virtualización de HP-UX"
 date: "2010-11-04"
 categories: linux

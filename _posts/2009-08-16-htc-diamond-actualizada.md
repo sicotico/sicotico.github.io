@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "HTC Diamond actualizada"
 date: "2009-08-16"
 categories: android

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "El superblock"
 date: "2011-11-06"
 categories: linux windows

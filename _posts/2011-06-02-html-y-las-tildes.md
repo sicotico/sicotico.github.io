@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "HTML y las tildes"
 date: "2011-06-02"
 categories: dev

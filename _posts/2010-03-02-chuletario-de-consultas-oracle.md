@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Chuletario de consultas Oracle"
 date: "2010-03-02"
 categories: software

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "A vueltas con las particiones"
 date: "2012-05-29"
 categories: linux

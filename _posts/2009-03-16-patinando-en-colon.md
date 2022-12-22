@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Patinando en Colon"
 date: "2009-03-16"
 categories: viajes

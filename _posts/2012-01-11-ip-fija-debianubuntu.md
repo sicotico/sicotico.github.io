@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "IP fija Debian/Ubuntu"
 date: "2012-01-11"
 categories: linux

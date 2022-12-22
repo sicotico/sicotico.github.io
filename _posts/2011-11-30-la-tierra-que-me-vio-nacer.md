@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "La tierra que me vio nacer"
 date: "2011-11-30"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Hoy es un dia null 'oracle'"
 date: "2010-01-13"
 categories: osoftware

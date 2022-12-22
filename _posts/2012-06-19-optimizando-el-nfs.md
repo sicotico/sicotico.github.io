@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Optimizando el NFSv4"
 date: "2012-06-19"
 categories: linux

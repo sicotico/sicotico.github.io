@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Redireccion .htaccess"
 date: "2009-08-28"
 categories: linux

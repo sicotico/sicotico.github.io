@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "VMWare Player 4.0"
 date: "2011-11-07"
 categories: vmware

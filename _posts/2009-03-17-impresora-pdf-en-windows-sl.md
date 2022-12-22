@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Impresora PDF en Windows SL"
 date: "2009-03-17"
 categories: windows

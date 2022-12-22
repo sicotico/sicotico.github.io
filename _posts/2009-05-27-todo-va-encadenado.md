@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Todo va encadenado"
 date: "2009-05-27"
 categories: dev

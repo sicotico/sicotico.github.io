@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: posts
 title: "VBS ejecución desde en recursos compartidos"
-date: "2008-11-11"dev
+date: "2008-11-11"
+categories: dev
 ---
 
 Estoy haciendo un script que des instale e instale software mediante capa WMI. Me he encontrado con el problema de las ejecuciones en red , Windows te pregunta si quieres ejecutarlo ya que esta en un localización no local . Yo quiero que sea autónomo resulta que hay dos métodos para realizar ejecuciones en VBS dependiendo de objetos o sin , claro esta no esta documentado porque es un lenguaje muy potente y maravilloso con el que puedes hacer casi de todo pero una "mierda de Microsoft" .

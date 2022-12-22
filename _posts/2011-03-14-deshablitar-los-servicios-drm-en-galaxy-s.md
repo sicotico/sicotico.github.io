@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Deshablitar los servicios DRM en Galaxy S"
 date: "2011-03-14"
 categories: android

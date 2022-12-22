@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "WordCamp Sevilla sábado"
 date: "2011-10-08"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Transporte pubico en android"
 date: "2011-07-12"
 categories: android

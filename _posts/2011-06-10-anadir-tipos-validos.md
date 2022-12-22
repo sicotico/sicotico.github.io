@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Añadir tipos validos a Wordpress 3.x"
 date: "2011-06-10"
 categories: dev

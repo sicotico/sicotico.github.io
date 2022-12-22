@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Doble monitor en Lubuntu"
 date: "2013-09-22"
 categories: linux

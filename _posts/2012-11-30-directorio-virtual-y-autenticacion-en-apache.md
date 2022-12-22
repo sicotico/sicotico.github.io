@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "directorio virtual y autenticación en Apache"
 date: "2012-11-30"
 categories: linux

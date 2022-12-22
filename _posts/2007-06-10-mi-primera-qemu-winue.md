@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mi Primera Qemu + WinUE"
 date: "2007-06-10"
 categories: vmware

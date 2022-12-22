@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "de BlackBerry a Galaxy Tab"
 date: "2011-08-30"
 categories: android

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Office hojas horizontales y verticales"
 date: "2011-09-14"
 categories: dev

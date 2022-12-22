@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Repositorios Ubuntu."
 date: "2006-08-17"
 categories: linux

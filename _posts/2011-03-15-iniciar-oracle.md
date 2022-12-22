@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Iniciar Oracle"
 date: "2011-03-15"
 categories: software

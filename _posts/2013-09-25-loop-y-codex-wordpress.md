@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Loop y Codex Wordpress"
 date: "2013-09-25"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Syspeek un monitor del sistema"
 date: "2013-02-07"
 categories: dev

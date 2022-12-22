@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Error error_APT::Default-Release"
 date: "2012-07-12"
 categories: linux

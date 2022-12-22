@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Explorador de disco HFS (File System Mac OS)"
 date: "2010-04-07"
 categories: mac

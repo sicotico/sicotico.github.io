@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Desde Berlin ...."
 date: "2008-09-05"
 categories: viajes

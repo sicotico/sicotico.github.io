@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Perfiles Wordpress"
 date: "2010-03-12"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Comandos VMWARE"
 date: "2008-01-10"
 categories: vmware

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Instalación de Transmission sin X"
 date: "2012-01-30"
 categories: linux 

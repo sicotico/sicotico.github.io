@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Con 2GB de RAM no es suficiente"
 date: "2011-11-01"
 categories: mac hardware

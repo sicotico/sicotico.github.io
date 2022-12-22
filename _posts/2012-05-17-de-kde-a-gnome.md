@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "de KDE a GNOME"
 date: "2012-05-17"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Samsung Sensation"
 date: "2008-12-30"
 categories: viajes

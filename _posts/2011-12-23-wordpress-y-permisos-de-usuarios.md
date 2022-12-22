@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Wordpress y permisos de usuarios"
 date: "2011-12-23"
 categories: dev

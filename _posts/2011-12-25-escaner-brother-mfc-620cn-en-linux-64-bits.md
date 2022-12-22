@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Escaner Brother MFC-620CN en Linux 64-bits"
 date: "2011-12-25"
 categories: linux hardware

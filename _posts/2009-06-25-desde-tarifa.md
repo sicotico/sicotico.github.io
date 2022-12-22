@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Desde Tarifa"
 date: "2009-06-25"
 categories: viajes

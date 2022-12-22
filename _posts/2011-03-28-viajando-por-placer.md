@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Viajando por placer"
 date: "2011-03-28"
 categories: viajes

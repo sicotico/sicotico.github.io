@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Servicios en HP-UX"
 date: "2011-01-21"
 categories: linux

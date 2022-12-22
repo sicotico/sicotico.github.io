@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Botonoes sociales"
 date: "2012-07-24"
 categories: dev

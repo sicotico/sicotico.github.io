@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "VBS Ficheros"
 date: "2010-05-24"
 categories: dev

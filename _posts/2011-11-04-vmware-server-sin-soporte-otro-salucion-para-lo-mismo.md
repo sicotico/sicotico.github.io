@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "VMware Server sin soporte, otro salución para lo mismo"
 date: "2011-11-04"
 categories: vmware

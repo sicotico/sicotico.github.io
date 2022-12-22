@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Otra vez me lio con la EFI"
 date: "2012-02-03"
 categories: mac linux

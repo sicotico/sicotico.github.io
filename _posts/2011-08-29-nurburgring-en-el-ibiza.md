@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Nurburgring en el Ibiza"
 date: "2011-08-29"
 categories: viajes

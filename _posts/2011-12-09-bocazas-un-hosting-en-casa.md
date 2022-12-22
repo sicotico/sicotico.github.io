@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Bocazas un hosting en casa"
 date: "2011-12-09"
 categories: hardware

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Recuperar Particiones Perdidas"
 date: "2008-06-21"
 categories: linux

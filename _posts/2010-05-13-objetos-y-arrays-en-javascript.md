@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Objetos y Arrays en JavaScript"
 date: "2010-05-13"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Repositorios Edgy"
 date: "2006-11-12"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Oracle en Linux"
 date: "2009-10-19"
 categories: software

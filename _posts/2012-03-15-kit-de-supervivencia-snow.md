@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Kit de supervivencia (Snow)"
 date: "2012-03-15"
 categories: viajes

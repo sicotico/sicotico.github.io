@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Ruby y windows"
 date:   2023-11-26 10:57:08 +0200
 categories: jekyll

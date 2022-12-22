@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Redirigir trafico web modRewrite"
 date: "2010-10-12"
 categories: linux

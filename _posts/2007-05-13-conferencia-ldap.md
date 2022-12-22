@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Conferencia LDAP"
 date: "2007-05-13"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Tarjeta de Sonido HDA intel"
 date: "2006-03-27"
 categories: hardware

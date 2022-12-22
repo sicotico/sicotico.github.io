@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Lo mas simple en desarrollar en VIM"
 date: "2009-12-28"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Una guia persona de León"
 date: "2013-02-25"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ultima ROM oficial de HTC para Diamond"
 date: "2009-08-27"
 categories: android

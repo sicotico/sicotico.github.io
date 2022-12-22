@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cine: El Capitán América"
 date: "2011-08-22"
 categories: personal

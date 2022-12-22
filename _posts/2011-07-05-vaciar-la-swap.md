@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Vaciar la swap"
 date: "2011-07-05"
 categories: linux

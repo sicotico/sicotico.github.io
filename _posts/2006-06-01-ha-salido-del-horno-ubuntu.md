@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ha salido del Horno (Ubuntu)"
 date: "2006-06-01"
 categories: linux

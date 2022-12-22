@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Particionador EASEUS gratuito"
 date: "2010-11-28"
 categories: software

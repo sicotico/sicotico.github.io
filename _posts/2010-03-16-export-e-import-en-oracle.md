@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Export e Import en Oracle"
 date: "2010-03-16"
 categories: software

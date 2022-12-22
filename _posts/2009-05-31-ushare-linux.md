@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "uShare Linux"
 date: "2009-05-31"
 categories: linux

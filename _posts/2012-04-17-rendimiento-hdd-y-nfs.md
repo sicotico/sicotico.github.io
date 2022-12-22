@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Rendimiento HDD y NFS"
 date: "2012-04-17"
 categories: linux

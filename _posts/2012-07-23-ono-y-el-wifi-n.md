@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ono y el Wifi N"
 date: "2012-07-23"
 categories: hardware

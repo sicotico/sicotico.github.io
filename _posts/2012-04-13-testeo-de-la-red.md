@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Testeo de la red"
 date: "2012-04-13"
 categories: linux windows

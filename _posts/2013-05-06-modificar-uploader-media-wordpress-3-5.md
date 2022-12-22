@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Modificar pestañas de Uploader Media WordPress +3.5"
 date: "2013-05-06"
 categories: dev

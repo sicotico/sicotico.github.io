@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ophcrack - recuperar claves de windows"
 date: "2011-06-14"
 categories: software windows

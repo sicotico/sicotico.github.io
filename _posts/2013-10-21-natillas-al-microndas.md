@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Natillas al Microndas"
 date: "2013-10-21"
 categories: cocina

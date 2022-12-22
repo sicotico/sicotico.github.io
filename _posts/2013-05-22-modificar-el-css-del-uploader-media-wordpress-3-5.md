@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Modificar el CSS del Uploader Media WordPress +3.5"
 date: "2013-05-22"
 categories: dev

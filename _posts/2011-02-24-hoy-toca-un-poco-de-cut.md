@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Hoy toca un poco de cut"
 date: "2011-02-24"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Posicionamiento CSS"
 date: "2012-07-25"
 categories: dev

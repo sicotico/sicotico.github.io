@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Receta: Kebab casero"
 date: "2009-07-30"
 categories: recetas

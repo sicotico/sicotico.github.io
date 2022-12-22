@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mi nueva Ubuntu"
 date: "2005-07-29"
 categories: linux

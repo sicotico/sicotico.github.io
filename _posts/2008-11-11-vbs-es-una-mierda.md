@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "VBS es una mierda"
 date: "2008-11-11"
 categories: dev

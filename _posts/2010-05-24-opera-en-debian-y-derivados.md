@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Opera en Debian y derivados"
 date: "2010-05-24"
 categories: linux

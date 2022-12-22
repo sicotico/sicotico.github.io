@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Permisos en la Libreria Multimedia de WP"
 date: "2011-10-12"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Recuperando contenido de archivos eliminados en Linux"
 date: "2011-09-12"
 categories: linux

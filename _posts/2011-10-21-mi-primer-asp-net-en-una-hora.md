@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mi primer ASP.NET en una hora"
 date: "2011-10-21"
 categories: dev

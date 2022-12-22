@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "SSH con cygwin"
 date: "2011-05-24"
 categories: windows linux

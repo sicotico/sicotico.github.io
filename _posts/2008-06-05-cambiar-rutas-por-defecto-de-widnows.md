@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cambiar rutas por defecto de Widnows"
 date: "2008-06-05"
 categories: windows

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Rallandome la cabeza"
 date: "2005-08-26"
 categories: personal

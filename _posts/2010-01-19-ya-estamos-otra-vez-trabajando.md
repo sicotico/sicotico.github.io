@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ya estamos otra vez trabajando"
 date: "2010-01-19"
 categories: linux

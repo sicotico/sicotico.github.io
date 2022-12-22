@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "El ultimo disco duro que me ha petado"
 date: "2009-12-26"
 categories: hardware

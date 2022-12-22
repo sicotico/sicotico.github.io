@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Extension Firefox https-everywhere"
 date: "2011-01-03"
 categories: software

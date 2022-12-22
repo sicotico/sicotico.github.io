@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Docking con Firewire 800"
 date: "2011-07-14"
 categories: hardware

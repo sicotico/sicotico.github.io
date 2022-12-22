@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "CyanogenMod 10.2 en Galaxy SII"
 date: "2013-08-26"
 categories: android

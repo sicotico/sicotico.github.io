@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Comprobar el estado de los tablespace en Oracle"
 date: "2009-12-02"
 categories: software

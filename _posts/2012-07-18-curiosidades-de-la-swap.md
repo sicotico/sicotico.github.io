@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Curiosidades de la swap"
 date: "2012-07-18"
 categories: dev

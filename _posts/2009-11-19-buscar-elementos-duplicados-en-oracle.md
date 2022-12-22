@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Buscar elementos duplicados en oracle"
 date: "2009-11-19"
 categories: software

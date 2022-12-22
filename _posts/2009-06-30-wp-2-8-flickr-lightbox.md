@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "WP 2.8 + Flickr + Lightbox 2"
 date: "2009-06-30"
 categories: dev

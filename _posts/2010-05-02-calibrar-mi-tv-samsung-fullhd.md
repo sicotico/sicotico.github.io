@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Calibrar mi TV Samsung FullHD"
 date: "2010-05-02"
 categories: hardware

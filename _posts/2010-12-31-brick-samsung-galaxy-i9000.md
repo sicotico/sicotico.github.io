@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Brick Samsung Galaxy I9000"
 date: "2010-12-31"
 categories: android

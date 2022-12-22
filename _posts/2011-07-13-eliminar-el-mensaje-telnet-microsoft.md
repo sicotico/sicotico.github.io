@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Eliminar el mensaje Telnet Microsoft"
 date: "2011-07-13"
 categories: windows

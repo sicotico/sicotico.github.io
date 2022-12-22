@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Eliminar el div de comentario en WP"
 date: "2012-06-17"
 categories: dev

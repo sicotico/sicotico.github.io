@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Flasheo con Odin de StockROM"
 date: "2013-01-28"
 categories: android

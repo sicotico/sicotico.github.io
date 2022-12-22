@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Panga , pescado al microondas"
 date: "2012-12-11"
 categories: receta

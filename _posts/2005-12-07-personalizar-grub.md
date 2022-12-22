@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Personalizar grub"
 date: "2005-12-07"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Seguimos cambiando , siempre hacia adelante"
 date: "2006-04-23"
 categories: personal

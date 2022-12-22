@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Estrenamos Theme FrameWork para Wordpress"
 date: "2009-07-29"
 categories: dev

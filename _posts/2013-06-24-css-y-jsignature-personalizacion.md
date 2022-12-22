@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "CSS y jSignature, personalización"
 date: "2013-06-24"
 categories: dev

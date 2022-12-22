@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Aceleración H.264 en Ubuntu"
 date: "2010-12-09"
 categories: linux

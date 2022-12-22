@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Limpiando el armario , el de los trastos"
 date: "2012-11-11"
 categories: hardware

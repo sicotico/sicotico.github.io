@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Cadenas en Batch"
 date: "2010-05-20"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Skate (ZTE) volver al estado de fábrica"
 date: "2012-11-12"
 categories: android

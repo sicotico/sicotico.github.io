@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Crear paquetes CAB"
 date: "2010-07-22"
 categories: software

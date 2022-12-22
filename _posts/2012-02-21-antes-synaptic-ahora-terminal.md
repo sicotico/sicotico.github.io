@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Antes Synaptic , ahora terminal"
 date: "2012-02-21"
 categories: linux

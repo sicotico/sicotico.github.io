@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Sharkoon ExpressCard USB3"
 date: "2012-11-28"
 categories: hardware

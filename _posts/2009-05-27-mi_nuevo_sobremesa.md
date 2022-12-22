@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Mi nuevo sobremesa"
 date: "2009-05-27"
 categories: hardware
