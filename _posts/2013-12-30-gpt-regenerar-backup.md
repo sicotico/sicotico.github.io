@@ -2,7 +2,7 @@
 layout: posts
 title: "GPT - Regenerar backup"
 date: "2013-12-30"
-categories: so hardware
+categories: linux hardware
 ---
 
 ## GPT ese gran desconocido

@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "Vibilidad en Wordpress"
+title: "Visibilidad en Wordpress"
 date: "2011-10-12"
-categories: wordpress
+categories: dev
 ---
 
 En wp-admin/includes está el fichero meta-boxes.php , la definición de visibilidad de los post esta ligada a la variable $visibility  , siendo el caso base para comprobar dicha variable. En la linea 123 podemos encontrar esta definición:
@@ -262,4 +262,4 @@ Fuente:
     ```
     
 
-Fuente: [Wordpress.org Foro](https://wordpress.org/support/topic/how-to-set-new-post-visibility-to-private-by-default?replies=14 "Vibility default wordpress")
+Fuente: [Wordpress.org Foro](https://wordpress.org/support/topic/how-to-set-new-post-visibility-to-private-by-default?replies=14 "Visibility default wordpress")
