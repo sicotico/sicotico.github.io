@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Descargar videos de Youtube"
-date: "2010-11-28"software
+date: "2010-11-28"
+categories: dev software
 ---
 
 Sin querer queriendo me he topado un script para greasemonkey  que crea un botón download en youtube , simplemente espectacular. Te muestra todos los formatos compatibles con dicho vídeo

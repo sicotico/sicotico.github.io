@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Objetos y Arrays en JavaScript"
-date: "2010-05-13"dev
+date: "2010-05-13"
+categories: dev
 ---
 
 Siguiendo con la programación de la API de Google Maps en JavaScript me he encontrado con mucho código y con unas ganas tremendas de convertirlo POO , es bueno practicar y no olvidar estos conocimientos.
