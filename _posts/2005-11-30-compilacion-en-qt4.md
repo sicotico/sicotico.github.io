@@ -2,8 +2,7 @@
 layout: post
 title: "Compilacion en QT4"
 date: "2005-11-30"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Lo primero es una  introdución al trabajo con proyectos en qt4 , valido para qt3 .

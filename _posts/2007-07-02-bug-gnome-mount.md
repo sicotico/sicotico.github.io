@@ -2,8 +2,7 @@
 layout: post
 title: "Bug Gnome-mount"
 date: "2007-07-02"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Con la nueva versión 7.04 se añadio funciones adicionales sobre auto montaje de unidades extraibles No se ha documentado bien y se ha generado un bug el [#107668 "Setting an invalid mount point can make a removeable media unaccessible"](https://bugs.launchpad.net/ubuntu/+source/gnome-mount/+bug/107668).

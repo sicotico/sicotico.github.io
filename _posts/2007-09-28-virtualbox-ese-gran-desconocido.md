@@ -2,8 +2,7 @@
 layout: post
 title: "Virtualbox ese gran desconocido"
 date: "2007-09-28"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Actualmente estoy trabajando en consultoría y claro terminas por necesitar maquinas virtuales. Yo he tenido que usar Windows XP , portátil de empresa , a mi alrededor todos usan VMware un software no libre y que presenta problemas de recursos , esto empieza a ser la tónica habitual , yo uso VirtualBox en Linux así que busque y lo hay para Windows y MacOS.

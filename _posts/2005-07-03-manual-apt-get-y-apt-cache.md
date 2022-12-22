@@ -2,11 +2,8 @@
 layout: post
 title: "Manual apt-get y apt-cache"
 date: "2005-07-03"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
-
-Sicotico WeBlog v1.0
 
 Sistema de paquetes Deb
 

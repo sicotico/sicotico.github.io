@@ -13,7 +13,7 @@ Turionx2 64 a 1,6Mhz por nucleo
 
 ChipSet ATI RS480 (Audio , SATA ,USB .. )
 
-Grafica integrada en plaza ATI Xpress 200m 128MB dedicados (PowerSave)
+Gráfica integrada en plaza ATI Xpress 200m 128MB dedicados (PowerSave)
 
 No me reproducía películas en alta definición.
 

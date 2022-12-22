@@ -2,8 +2,7 @@
 layout: post
 title: "Autenticación en redes cableadas e inalámbricas"
 date: "2007-10-30"
-categories: 
-  - "sin-categoria"
+categories: linux windows
 ---
 
 Para que no se me olvide , hoy me he encontrado con que una maquina windows no tenia pestaña de autenticación en la tarjeta de red por cable. Pregunte y me comentaron "eso es un servicio no iniciado". Buscando por google y la pagina del amigo Bill descubro este enlace :

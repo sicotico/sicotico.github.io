@@ -2,8 +2,7 @@
 layout: post
 title: "Tarjeta de Sonido HDA intel"
 date: "2006-03-27"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Bueno he leído muchos problemas sobre estas tarjeta como que usan un modulo raro llamado "snd-xnz" , nada mas lejos de la realidad es un timo , seamos serios , acudamos a la fuente de la información y la tendremos un su estadio mas puro www.alsa-project.org .

@@ -2,11 +2,8 @@
 layout: post
 title: "Mejoras Firefox"
 date: "2005-08-14"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
-
-Sicotico ...
 
 Con esto vamos a mejorar el rendimiento del firefox .....
 

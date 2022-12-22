@@ -2,8 +2,7 @@
 layout: post
 title: "Limpiar resultado del aMule"
 date: "2008-02-15"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 **Título: Conseguir una lista de servidores limpia y fiable de Gruk.org. Autor: torpon y dragoncelta Fecha: 17 de septiembre de 2006**

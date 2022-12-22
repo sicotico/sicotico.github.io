@@ -2,8 +2,7 @@
 layout: post
 title: "Comandos VMWARE"
 date: "2008-01-10"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Hay una serie de opciones de mantenimiento, optimización, etc, en vmware server, que hay que realizarlas desde la consola de comandos que nos ofrecen, los chicos de vmware. Voy a comentar los comandos que yo suelo usar, para realizar diversas tareas en las maquinas virtuales.

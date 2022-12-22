@@ -2,8 +2,7 @@
 layout: post
 title: "Reiniciar clave en Joomla"
 date: "2008-01-15"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Para la gente que se le olvida la clave , como yo , o simplemente quiere un script para cambiarla.

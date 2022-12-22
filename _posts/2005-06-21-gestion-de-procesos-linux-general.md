@@ -2,11 +2,10 @@
 layout: post
 title: "Gestion de procesos (Linux general)"
 date: "2005-06-21"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
-Un proceso es cualquier instrucción o programa que en ese momento se está ejecutando en nuestro sistema. Todo proceso tiene un PID (Process IDentifier), es decir, un número que le identifica y le diferencia de todos los demás. Una característa importante es que todo proceso tiene un estado: corriendo, durmiendo, zombie o parado.
+Un proceso es cualquier instrucción o programa que en ese momento se está ejecutando en nuestro sistema. Todo proceso tiene un PID (Process IDentifier), es decir, un número que le identifica y le diferencia de todos los demás. Una característica importante es que todo proceso tiene un estado: corriendo, durmiendo, zombie o parado.
 
 El comando kill
 
@@ -14,7 +13,7 @@ El comando kill nos permite interactuar con cualquier proceso mandando señales 
 
 También podemos utilizar el comando killall con el que podemos mandar señales a un proceso utilizando el nombre, en vez del PID.
 
-Entre los procesos diferenciamos los que se están ejecuntando en 1er o 2o plano. Los que se ejecutan en primer plano son los que interactúan con el usuario en ese momento, mientras que los procesos en segundo plano se ejecutan pero están ocultos, y muy posiblemente el usuario no tenga constancia de que se esté ejecutando. Sólo puede haber un proceso en primer plano por consola. Eso nos deja las manos atadas si no estamos en el entorno gráfico. Para poder ejecutar varios comandos, lo que podemos hacer es ejecutar los comandos en segundo plano. Para ello solo tenemos que añadir & al final del comando. Vamos a poner un ejemplo:
+Entre los procesos diferenciamos los que se están ejecutando en 1er o 2o plano. Los que se ejecutan en primer plano son los que interactúan con el usuario en ese momento, mientras que los procesos en segundo plano se ejecutan pero están ocultos, y muy posiblemente el usuario no tenga constancia de que se esté ejecutando. Sólo puede haber un proceso en primer plano por consola. Eso nos deja las manos atadas si no estamos en el entorno gráfico. Para poder ejecutar varios comandos, lo que podemos hacer es ejecutar los comandos en segundo plano. Para ello solo tenemos que añadir & al final del comando. Vamos a poner un ejemplo:
 
 $ls -R / > /dev/null &
 
@@ -42,7 +41,7 @@ $ps -aux faraox@menut:~/doc/glup\_0.6-1.1-html-1.1$ ps xau USER PID %CPU %MEM VS
 
 Los parámetros xau nos permiten ver todos los procesos que se están ejecutando. El parámetro a muestra lo que se está ejecutando en las tty conocidas, el parámetro x añade los procesos que no se conece la tty en la que se están ejecutando y u muestra los usuarios que están ejecutando esos procesos.
 
-Algunas partes de la salida le serán conocidas. La columna USER nos dice que usuario está ejecutando el proceso,PID es su número de proceso, %CPU es el porcentaje de CPU que está utilizando al igual que %MEM es el porcentaje de memoria. También incluye la cantidad de memoria en kylobytes que ha utilizado dicho proceso, se muestra en la columan RSS.La columna TTY muestra la consola desde la que se está ejecutando. STAT nos muestra el estado del proceso:S(drmiendo), R(corriendo), T(parado), Z(zombie). Las opciones W y N son especiales para procesos del kernel. La columna START muestra la hora a la que empezó el proceso, y la columna TIME muestra el tiempo de CPU que ha usado el proceso desde que se inició y COMMAND muestra el nombre del comando que se está ejecutando.
+Algunas partes de la salida le serán conocidas. La columna USER nos dice que usuario está ejecutando el proceso,PID es su número de proceso, %CPU es el porcentaje de CPU que está utilizando al igual que %MEM es el porcentaje de memoria. También incluye la cantidad de memoria en kylobytes que ha utilizado dicho proceso, se muestra en la columan RSS.La columna TTY muestra la consola desde la que se está ejecutando. STAT nos muestra el estado del proceso:S(durmiendo), R(corriendo), T(parado), Z(zombie). Las opciones W y N son especiales para procesos del kernel. La columna START muestra la hora a la que empezó el proceso, y la columna TIME muestra el tiempo de CPU que ha usado el proceso desde que se inició y COMMAND muestra el nombre del comando que se está ejecutando.
 
 El comando top
 

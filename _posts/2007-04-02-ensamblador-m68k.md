@@ -2,8 +2,7 @@
 layout: post
 title: "Ensamblador M68K"
 date: "2007-04-02"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Para todos los compañero que odian el edit de msdos , aqui he conseguido el archivo de [sintaxis](https://sicotico.googlepages.com/Sa.stx) de ensablador para [Editplus](https://www.editplus.com) 

@@ -2,8 +2,7 @@
 layout: post
 title: "Buscando un lugar para dormir en Granada…"
 date: "2006-02-06"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Pues como no sabia que hacer he dejado aqui puesto esete mensajito , por si alguien me comenta buenos lugares para granada . Iluso de mi creo que me leen el blog y todo , como esta la vida.

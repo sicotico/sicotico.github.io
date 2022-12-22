@@ -2,8 +2,7 @@
 layout: post
 title: "Aplicaciones por defecto en KDE"
 date: "2006-10-26"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Para modificar esas aplicaciones que KDE nos carga con las suyas predeterminadas , como son el ktorrent , kcontac , o basicamente cualquier programa que empiece por k.........

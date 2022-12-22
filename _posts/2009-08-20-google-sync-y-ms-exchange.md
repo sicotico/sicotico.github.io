@@ -5,7 +5,7 @@ date: "2009-08-20"
 categories: android
 ---
 
-_**Google Sync**_ , no es un plugin ni aplicación ni nada parecido. Sinplemente Google esta habilitando protocolo MS Exchange , asi un Win Mobile puede ,mediante ActiveSync ,  sincronizar los contactos , los correo , calendario y tareas . Como esto parece muy bonito aun es un servicio en pruebas y solo descarga contactos y calendario. Personalmente me ha funcionado a la primera , cosa bastante rara.
+_**Google Sync**_ , no es un plugin ni aplicación ni nada parecido. Simplemente Google esta habilitando protocolo MS Exchange , asi un Win Mobile puede ,mediante ActiveSync ,  sincronizar los contactos , los correo , calendario y tareas . Como esto parece muy bonito aun es un servicio en pruebas y solo descarga contactos y calendario. Personalmente me ha funcionado a la primera , cosa bastante rara.
 
 ## Manual traducido:
 

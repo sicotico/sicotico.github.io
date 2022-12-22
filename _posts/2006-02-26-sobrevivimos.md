@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Granada"
-date: "2006-02-26"
-categories: 
-  - "sin-categoria"
+date: "2096-02-26"
+categories: viajes
 ---
 
 Buenas!!! Sicotico, como buen futuro jefe directivo, hoy ha delegado funciones en mi. Lo habreis podido notar porque la escritura es legible y el orden de las palabras correcto. Pues bien, hoy toca contar la aventura granadina, ya que, tras meses de secreta manipulacion femenina conseguí convencer a SiCoTiCo (o eso me hace pensar él). Salimos de Madrid y todo fue perfecto, la R4 era una llanura solitaria por la que sólo los valientes se atrevían a pasar (o los más ricachones). Es altamente recomendable si uno va con prisa...seguimos por la A-4 atravesando una borrasca a la altura de Ciudad Real, un poquito de nieve y llegamos a Despeñaperros, donde comprobamos la sujección en curva de las ruedas.

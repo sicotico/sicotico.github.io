@@ -6,11 +6,10 @@ categories:
   - "sin-categoria"
 ---
 
-Sicotico ...
 
-Revisando la docuemtnacion de la resisntencia digital , una asociacion que conoci en la campus , pensado que podria aportar algo descubri que la mejor aportacion es ayudar la difusion de sus ideas . Un punto de vista sobre la sociedad de la "seguridad informatica" siempre viene bien . A si que dejo el enlace al web del director donde esta toda la informacion , leer nunca vino mal y la defensa de la privacidad tampoco...........
+Revisando la documentación de la resistencia digital , una asociación que conocí en la campus , pensado que podría aportar algo descubrí que la mejor aportación es ayudar la difusión de sus ideas . Un punto de vista sobre la sociedad de la "seguridad informática" siempre viene bien . A si que dejo el enlace al web del director donde esta toda la información , leer nunca vino mal y la defensa de la privacidad tampoco...........
 
-Como complemento revisar el manifiesto por la libre distribucionde la cultura , yo ya estoy adherido.
+Como complemento revisar el manifiesto por la libre distribución de la cultura , yo ya estoy adherido.
 
 [Cultura Libre](https://culturalibre.org)
 

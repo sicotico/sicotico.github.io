@@ -2,8 +2,7 @@
 layout: post
 title: "Activar usuarios en Cups Ubuntu 7.10"
 date: "2007-12-08"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Hace unos días que me puse a manejar mi servidor de cups en remoto y tuve mis problemillas . Al final se resumen en los usuarios que te piden para realizar determinadas operaciones.

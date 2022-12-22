@@ -2,8 +2,7 @@
 layout: post
 title: "Exportar/Importar Claves en Firefox"
 date: "2008-02-19"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Extensión para exportar e importar las claves guardadas en Firefox. Admite encriptación para mayor seguridad

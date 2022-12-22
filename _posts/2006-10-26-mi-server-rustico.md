@@ -2,8 +2,7 @@
 layout: post
 title: "Mi server “rustico”"
 date: "2006-10-26"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 He migrado todo a linux , mi maquina es:

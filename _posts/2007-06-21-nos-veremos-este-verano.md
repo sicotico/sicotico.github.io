@@ -2,8 +2,7 @@
 layout: post
 title: "Nos veremos este verano"
 date: "2007-06-21"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Buenos días , llevo tiempo sin actualizar el blog  por culpa de los exámenes , alguna escapadita de QEMU se me ha escapado . Pero hoy vamos a promover las actividades de este verano . Normalmente hago cursos en la Universidad de León , mi tierra natal , pero este año hemos dado un paso más , doy un curso para E-Verano.org 2007 en Sevilla .

@@ -10,7 +10,7 @@ Bienvenidos hoy no hay cosas "chungas" , va ser mucho pero con la administració
 
 Como todo el  mundo hasta que no necesitas algo no te mueves , pues bien yo necesitaba un volante del padrón. Para conseguirlo vas al Ayuntamiento , pero en la era de las tecnologías pues mire en Internet y bingo . Tenemos el portal de [munimadrid](https://www.munimadrid.es)
 
-Este portal dentro de este una seccion de oficina en la que podemos interaccionar con formularios para que nos manden los papeles a casa  o como hacerlo mediante fax , correo postal. La revisarlo un par de veces especifican que si tienes certificado puede obtener los papeles en el acto. Actualmente tenemos la coña de "define ..." y claro aplicable a este caso también "define certificado" .
+Este portal dentro de este una sección de oficina en la que podemos interaccionar con formularios para que nos manden los papeles a casa  o como hacerlo mediante fax , correo postal. La revisarlo un par de veces especifican que si tienes certificado puede obtener los papeles en el acto. Actualmente tenemos la coña de "define ..." y claro aplicable a este caso también "define certificado" .
 
 EL DNIe tiene un certificado de la policía nacional  firmado por **La Casa de la Moneda y Timbre** , este sistema es el método por el que dotan a todo ciudadano de una firma electrónica basado en el antiguo certificado de FNMT . Con antiguo me refiero a que en tiempo se distribuía desde antes , pero a tecnología es lo mismo , la policía ha servido de medio para masificar.
 

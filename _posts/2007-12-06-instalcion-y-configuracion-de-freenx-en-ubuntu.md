@@ -2,8 +2,7 @@
 layout: post
 title: "Instalación y Configuración de FreeNX en Ubuntu"
 date: "2007-12-06"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Para todos aquellos que pasan por aquí y usan Linux les brindo un mino HowTo para el control remoto de sus maquinas Linux.

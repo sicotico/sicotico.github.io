@@ -2,8 +2,7 @@
 layout: post
 title: "Una razon mas para usar Linux…."
 date: "2007-06-27"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Estoy instalando Ubuntu 7.04 en el portatil de mi novia ,  y como este proceso es muy aburrido utilizo instalación desde escritorio.

@@ -2,13 +2,10 @@
 layout: post
 title: "Utilidad practica"
 date: "2005-10-30"
-categories: 
-  - "sin-categoria"
+categories: software hardware
 ---
 
-Sicotico ...
-
-Ahora es momento de alavar a "San Google" , buscando un programa para leer ext3 desde windows he encotnrado una apliccacion que añade al kernel de windows el porder leer el sistemna de ficheros ext3 de forma nativa. Aqui os dejo el enlace:
+Ahora es momento de alabar a "San Google" , buscando un programa para leer ext3 desde windows he encontrado una aplicación que añade al kernel de windows el poder leer el sistema de ficheros ext3 de forma nativa. Aquí os dejo el enlace:
 
 Proyecto Oficial:
 

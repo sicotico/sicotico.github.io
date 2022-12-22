@@ -5,7 +5,7 @@ date: "2009-04-12"
 categories: viajes
 ---
 
-Buenos días , aqui estamos otra vez despues de las pujas de este años. Si señores soy un orgullosos "papon" , es te año en la procesión de "Los Pasos"  empezo a llover y se acorto el tramo final , toda una pena y un problema para el cuidado de la figuras.
+Buenos días , aquí estamos otra vez después de las pujas de este años. Si señores soy un orgullosos "papon" , es te año en la procesión de "Los Pasos"  empezó a llover y se acorto el tramo final , toda una pena y un problema para el cuidado de la figuras.
 
 Yo pujo la Oración en el Huerto como cofrade del [Dulce nombre de Jesús Nazareno](https://www.jhsleon.com/) y por la tarde soy un feliz titular de "El Descendimiento" de la [Real Cofradía del Santísimo sacramento de Minerva y de la Santa Vera Cruz](https://www.minervayveracruz.com/) , ambos conjuntos son obra de Victos de los Ríos.
 

@@ -2,8 +2,7 @@
 layout: post
 title: "Copias de DB en phpMyAdmin"
 date: "2007-07-03"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Bueno, voy a explicar como hago un respaldo de una base de datos. Específicamente del contenido , es requisito indispensable crearla a mano en blanco. Yo utilizare phpMyAdmin:
@@ -25,10 +24,10 @@ Bueno, voy a explicar como hago un respaldo de una base de datos. Específicamen
     1. Completar los INSERTS
     2. Usar hexadecimal para campos binarios Tipo de exportación
 
-1. Marcamos Enviar (generar un archivo descargable)
-2. Rellenamos "Plantilla del nombre del archivo" con el nombre de nuestro fichero
-3. En <b>Compression</b> especifica tu opción.(yo no comprimo)
-4. Pulsa Continuar.
+9. Marcamos Enviar (generar un archivo descargable)
+10. Rellenamos "Plantilla del nombre del archivo" con el nombre de nuestro fichero
+11. En <b>Compression</b> especifica tu opción.(yo no comprimo)
+12. Pulsa Continuar.
 
 **Como restaurar la Base de Datos usando phpMyAdmin.**
 

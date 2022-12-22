@@ -2,8 +2,7 @@
 layout: post
 title: "LAMP (Ubuntu , Apache2 , MySQL 4.1 , PHP4 )"
 date: "2006-08-17"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Buenso dias , como este tiempo he estado jugando con los CMS anotare como se intala los necesario para usarlo:

@@ -2,8 +2,7 @@
 layout: post
 title: "Obtener BlogRoll de Wordpress.com"
 date: "2008-01-11"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Explico como se exporta el blogroll de un blog alojado en wordpress.com.

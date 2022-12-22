@@ -2,8 +2,7 @@
 layout: post
 title: "VSFTPD Very Secure FTP"
 date: "2006-11-27"
-categories: 
-  - "sin-categoria"
+categories: software linux
 ---
 
 ## "Obra adaptada a Ubuntu/Debian"

@@ -2,8 +2,7 @@
 layout: post
 title: "Cómo convertir un volumen FAT o FAT32 en NTFS"
 date: "2007-11-06"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 ### 

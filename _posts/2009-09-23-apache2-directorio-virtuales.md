@@ -5,7 +5,7 @@ date: "2009-09-23"
 categories: linux
 ---
 
-Como compartir caprpetas disjuntas en tu disco , en un solo servidor web sin dominios ni enlaces.
+Como compartir carpetas disjuntas en tu disco , en un solo servidor web sin dominios ni enlaces.
 
 Con una instancia de Apache , varios directorios virtuales y tantos alias como sean necesarios.
 

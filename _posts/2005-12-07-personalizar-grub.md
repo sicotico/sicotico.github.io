@@ -2,8 +2,7 @@
 layout: post
 title: "Personalizar grub"
 date: "2005-12-07"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Como estaba aburrido a las 3 de la mañana pues nada dije voy a poner bonito el horrible grub azul , qu epor defecto viene en debian. Lo primero es saber como demonios son las particiones en grub , (hdx,y) donde "x" es NumBios y la "y" NúmParticion . Ejemplo

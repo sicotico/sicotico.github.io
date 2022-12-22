@@ -2,8 +2,7 @@
 layout: post
 title: "Detalle del root"
 date: "2005-09-25"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Sicotico ...

@@ -2,8 +2,7 @@
 layout: post
 title: "Biodiesel Casero TCO (Turbo Colza)"
 date: "2006-03-15"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Hace tiempo que mi padre tuvo un skoda en el que indicaban que soportaba sin ninguna modificacion un 10% de aceite vegetal , de esta hace ya 7 años , como ahora to tengo coche , es diesel y poco tecnologico un 1.9 TD , he investigado sobre reduccion de consumo del coche y esas cosas que nos preocupan solo cuando vamos a la gasolinera o tenemos que hacer un viaje. El resultado ha sido abrumador como ejemplo barrpaunto hace dos años saco la noticia de coches en italia usando aceite de colza y sin peros motores TDI sin modificaciones , respaldados por al [Confederación Italiana de Talleres de Reparación](https://www.confartigianato.it/minisiti/categorie/autoriparazione/autoriparazione.jsp) italiana desmintiendo cualquir degradacion en el motor (bomba de inyección , turbo .... etc).

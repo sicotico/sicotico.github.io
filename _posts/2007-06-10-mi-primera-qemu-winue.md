@@ -2,8 +2,7 @@
 layout: post
 title: "Mi Primera Qemu + WinUE"
 date: "2007-06-10"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Por ahora el kqemu no tiene permisos correctos , pero eso es lo de menos (chmod 666 /dev/kqem) .

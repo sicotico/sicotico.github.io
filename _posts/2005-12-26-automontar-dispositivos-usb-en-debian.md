@@ -2,8 +2,7 @@
 layout: post
 title: "Automontar dispositivos usb en Debian"
 date: "2005-12-26"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Esto es para vagos , que a mi no me gusta el "mount" arriba abajo todo el dia , esun poco cansino ,y visto k hay un monton de chapuzas de scripts pues mejor dar la opcion oficial de debian.

@@ -2,8 +2,7 @@
 layout: post
 title: "Limpiado un sistema"
 date: "2006-03-22"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Por si alguien no lo sabia aparte de esas "mi...." de progrmas de windows que te acelran el equipo y te limpia de archivos el sistema y que tan necesario son si quieres que todo vaya perfecto , pues en linux tenemos otro parecido para cuando pasa de version en distro mu veriable socmo fedora o ubuntu , en esta ultima lo he probado yo y funcioan realmente bien.

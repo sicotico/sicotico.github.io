@@ -2,8 +2,7 @@
 layout: post
 title: "Instalar Driver nVidia en Debian"
 date: "2005-12-26"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Pues vamos a usar el paquete module-assistant , asi que hay que instalarlo:

@@ -2,8 +2,7 @@
 layout: post
 title: "Wget , parametros"
 date: "2007-07-11"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Esta herramienta es una aplicación en consola para la descarga de archivos , de forma no interactiva.

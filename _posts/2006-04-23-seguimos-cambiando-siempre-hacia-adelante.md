@@ -2,8 +2,7 @@
 layout: post
 title: "Seguimos cambiando , siempre hacia adelante"
 date: "2006-04-23"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Tras unas pequeñas actualizaciones ya tengo dominio https://www.luispuente.net , en breve activaremos las nuevas cuentas de contactos vinculadas al dominio.

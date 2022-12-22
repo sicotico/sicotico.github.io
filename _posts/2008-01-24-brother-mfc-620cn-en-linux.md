@@ -2,8 +2,7 @@
 layout: post
 title: "Brother MFC-620CN en Linux"
 date: "2008-01-24"
-categories: 
-  - "sin-categoria"
+categories: linux hardware
 ---
 
 Maravilloso multifunción con mil cosas y "cachibaches" pero altamente compatible con Linux . Entremos en faena , necesitaremos un parche para LPR y algo que llaman wrapper los de Brother. Especifico las paginas de los drivers en las que encontrareis para todos los modelos , eso si todos los comando u ordenes estarán pensados para mi modelo .

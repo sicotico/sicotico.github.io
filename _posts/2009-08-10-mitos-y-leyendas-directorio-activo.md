@@ -5,7 +5,7 @@ date: "2009-08-10"
 categories: windows
 ---
 
-Me he encontrado estos articulos , de cusioso nombre en hispasec , yo ya he tenido que lidia run poco con esta "tecnologia" (protoc0lo LDAP remarcado) y un poco más de información no viene mal
+Me he encontrado estos artículos , de curioso nombre en hispasec , yo ya he tenido que lidia run poco con esta "tecnología" (protocolo LDAP remarcado) y un poco más de información no viene mal
 
 ## [25/06/2009 Mitos y leyendas: El Directorio Activo (I) (Conceptos)](https://www.hispasec.com/unaaldia/3897)
 

@@ -2,8 +2,7 @@
 layout: post
 title: "Mi nueva Ubuntu"
 date: "2005-07-29"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Sicotico WeBlog v2.0

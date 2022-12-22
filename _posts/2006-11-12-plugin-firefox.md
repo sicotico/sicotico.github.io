@@ -2,8 +2,7 @@
 layout: post
 title: "Plugin Firefox"
 date: "2006-11-12"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Hace unas semanas que descubrí [NoScript](https://www.noscript.net "https://www.noscript.net") , como plugin de Firefox . Su función es controlar el código JavaScript que se ejecuta en tu navegador evitando un alto porcentaje de Malware. Sigue una política 100% restrictiva , ya que en la situación social de Internet  es la mejor opción a mi parecer

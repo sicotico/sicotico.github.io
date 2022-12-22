@@ -2,8 +2,7 @@
 layout: post
 title: "Lanzar aplicaciones graficas en equipos remotos por ssh"
 date: "2008-03-14"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Lo que queremos hacer implica escribir en el display de la máquina destino. Eso se hace de la siguiente manera.

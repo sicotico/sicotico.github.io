@@ -2,8 +2,7 @@
 layout: post
 title: "Recuperar HDD"
 date: "2008-01-09"
-categories: 
-  - "sin-categoria"
+categories: hardware linux
 ---
 
 Buenos Días:

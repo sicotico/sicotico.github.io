@@ -2,8 +2,7 @@
 layout: post
 title: "Linux gana frente a Mac OS y Vista en un concurso de “crackeo”"
 date: "2008-04-01"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 De los tres sistemas operativos, Linux -instalado en un Vaio de Sony- fue el único que resistió a los ataques en una competición celebrada en Vancouver.

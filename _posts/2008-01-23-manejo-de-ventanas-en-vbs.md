@@ -2,8 +2,7 @@
 layout: post
 title: "Manejo de ventanas en VBS"
 date: "2008-01-23"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Mi codigo comentado:

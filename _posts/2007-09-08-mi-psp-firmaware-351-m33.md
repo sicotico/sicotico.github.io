@@ -2,8 +2,7 @@
 layout: post
 title: "Mi PSP Firmaware 3.51 M33"
 date: "2007-09-08"
-categories: 
-  - "sin-categoria"
+categories: psp
 ---
 
 Buenas otra vez he vuelto con la temática un poco cambiada. Es importante echarse unas partidinas de vez en cuando es maravilloso , pero claro siempre te que d ala vena de "bichear" con cualquier aparatito. Asi que dejo los pasos que segui para actualizar el firmware de mi PSP. La verdad es que soy un poco vago y no quería hacerla un "downgrade" 1.5 y ponerle un Custom Firmaware mas nuevo. Así que yo busque la forma de pasarlo automáticamente a una versión más nueva , la que encontré fue la de unos rusos que están haciendo furor en este mundillo, y que han continuado al estela de Dark Alex.

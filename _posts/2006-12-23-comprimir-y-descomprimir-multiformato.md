@@ -2,8 +2,7 @@
 layout: post
 title: "Comprimir y descomprimir (multiformato)"
 date: "2006-12-23"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 OJO: tar empaqueta varios archivos en uno solo, pero no comprime.

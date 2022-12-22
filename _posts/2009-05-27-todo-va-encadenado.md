@@ -15,4 +15,4 @@ Pantalla plana panorámica de 21,6" y tecnología HP BrightView
 
 Como mola las ultra brillantes  !!!!!!
 
-Camino de ser corporativo .............. (raton y teclado logitech , todo no iba ser )
+Camino de ser corporativo .............. (ratón y teclado logitech , todo no iba ser )

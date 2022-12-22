@@ -2,8 +2,7 @@
 layout: post
 title: "Impresora PDF"
 date: "2006-12-15"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Bueno acostumbrado a KDE viene implementada de serie y en gnome no , o por lo menos en mi Ubuntu 6.06.1 LST Dapper Drake. Vamos añadirla , pero directamente a cups.

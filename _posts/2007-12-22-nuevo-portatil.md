@@ -2,8 +2,7 @@
 layout: post
 title: "Nuevo Portatil"
 date: "2007-12-22"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 _Actualización:_

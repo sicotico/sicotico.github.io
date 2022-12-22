@@ -2,8 +2,7 @@
 layout: post
 title: "Ultimos radares para TomTom"
 date: "2007-07-12"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Los últimos radares son de fecha:

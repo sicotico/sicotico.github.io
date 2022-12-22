@@ -7,6 +7,6 @@ categories: windows
 
 Mensaje de error: `No se puede abrir la base de datos de usuario predeterminada`
 
-La solucion:
+La solución:
 
 `sp_defaultdb [ @loginame= ] 'login', [ @defdb= ] 'database'`

@@ -2,8 +2,7 @@
 layout: post
 title: "Ubuntu apunto de salir del horno."
 date: "2006-05-31"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Aun que dentro de mi entrono no hay mucho usuarios de ubuntu , a mi me encanta esta distribución por lo fácil que se instala y bueno también porque fue la primera en tener versión a 64 final , y desde entonces la uso para 64bits y 32bits ya que en mi portátil Fujitsu-Siemens no se puede instalar otra cosa .

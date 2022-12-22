@@ -5,7 +5,7 @@ date: "2009-08-28"
 categories: linux
 ---
 
-He cambiado la redirección , estaba con un sistema de HTML estatico y no me generaba correctamente el sitemap ,asi que evolucionamos a modRewrite , he ganado caracter profesional
+He cambiado la redirección , estaba con un sistema de HTML estático y no me generaba correctamente el sitemap ,asi que evolucionamos a modRewrite , he ganado carácter profesional
 
 [html-redirigir-una-pagina](https://luispuente.net/2007/12/06/html-redirigir-una-pagina/)
 

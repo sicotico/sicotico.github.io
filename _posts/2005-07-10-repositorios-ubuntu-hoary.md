@@ -2,8 +2,7 @@
 layout: post
 title: "Repositorios Ubuntu Hoary"
 date: "2005-07-10"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Sicotico WeBlog v2.0

@@ -2,8 +2,7 @@
 layout: post
 title: "Bluetooth Sharp gx25 y Debian AMD64"
 date: "2005-12-28"
-categories: 
-  - "sin-categoria"
+categories: hardware linux
 ---
 
 Yupi ....... el bluetooth me funcioan mejor en linux que en windows , que cosas tiene la vida.

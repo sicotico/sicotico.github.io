@@ -2,8 +2,7 @@
 layout: post
 title: "Red de Virtualbox"
 date: "2007-09-26"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Teniendo varias maquinas virtuales podemos unirlas en una red. Solo necesitamos que se les asignen ip de nuestra red , no esas de tipo [10.0.2.15](https://10.0.2.15/) .

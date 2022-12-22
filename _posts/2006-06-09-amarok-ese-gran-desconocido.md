@@ -2,8 +2,7 @@
 layout: post
 title: "Amarok ese gran desconocido…………."
 date: "2006-06-09"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Desconocido en su funcionamiento ya que es el reproductor  predeterminado de KDE. Siendo así no es es mas que un front-end muy bonito en qt el que necesita un motor multimedia y unos codecs. En una distro como Kubuntu vienen todos instalados pero para una debian o gentoo es interesante saber que paquetes son los "buenos". No hay ninguna razón para comentar que es si es malo sino que el motor multimedia que usa no es bueno o como dicen por google hay que ver cual va mejor a nuestro equipo.

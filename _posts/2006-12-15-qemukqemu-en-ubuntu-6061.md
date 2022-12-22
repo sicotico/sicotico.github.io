@@ -2,8 +2,7 @@
 layout: post
 title: "QEMU+KQEMU en Ubuntu 6.0.6.1"
 date: "2006-12-15"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Bueno en su día intente qemu y me casco instalado un winxp , si es que es malo hasta par a maquinas virtuales , nadie lo ha confirmado pero siemrpe lees "se me peta la instalación de winxpSP2" y otro dice  "a mi también pero probé uno con SP2 y funciono". Como esto lo lei ahora y no cuando lo intente yo , pues me desilusione. Mientras tanto como una mosca cojonera andaba mi  amigo Diego diciendo "yo la uso en mac y la usaba en Debian y va de lujo" . Así que con la moda de vmware tras la liberar vmware-player , vmware server y vmware-tools he decidió volverlo a intentar.

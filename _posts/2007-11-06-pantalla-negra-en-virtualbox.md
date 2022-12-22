@@ -2,8 +2,7 @@
 layout: post
 title: "Pantalla negra en VirtualBox"
 date: "2007-11-06"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Esto me ha ocurrido por despistado , al actualizar el VirtualBox a al version 1.5.2 borre todas las maquinas virtuales pero no los discos.Cree una nueva maquina virtual y le asigne un disco con un Windows 2003 Server y no me arrancaba, esta es la captura:

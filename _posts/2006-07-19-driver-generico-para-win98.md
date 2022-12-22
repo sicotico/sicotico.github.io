@@ -2,15 +2,14 @@
 layout: post
 title: "driver Generico para win98"
 date: "2006-07-19"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Como hay mucha gente que les falla los pinchos usb , o como quiera que se llamen he probado este driver genérico que a mi personalmente me ha funcionado en un pentiumII con win98 . La ventaja es que ahora me coje desde un pincho de 128mb hasta el disco externo de 300gb.
 
 Actualización:
 
-Instrucciones de instalción
+Instrucciones de instalación
 
 1\. si el archivo no baja al darle clik, cliakeamos le botond derecho y "guardar destino como" 2. El archivo esta comprimido en .zip, lo descomprimen con un descompresor (winzip, powearchiver, winrar, 7zip) le pueden dar clik derecho y le dan extraer aqui. o donde lo quieran guardar.
 

@@ -2,8 +2,7 @@
 layout: post
 title: "Repositorios Ubuntu."
 date: "2006-08-17"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 La explicacion para que podais seleccionarlos de forma optima , seria no usar los españoles , y que se estructuran en servidores nacional , internacional , de seguridad y novedosdo comercial. Dentro de ellso exiten las divisioens normales de universe , multiverse restricted y main , pero bueno eso son pijadas de programas mantenidos por ubuntu o por la comunidad.

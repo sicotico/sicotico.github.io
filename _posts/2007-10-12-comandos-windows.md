@@ -2,8 +2,7 @@
 layout: post
 title: "Comandos Windows"
 date: "2007-10-12"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Ya empeiza hacer mella en mi un trabajo basado en windows , asi que hay que me he puesto a conocer los secretos de este SO muy confidencial. Cada vez hablo con mas razon sobre las ventajas y la reducción de incovenientes de usar Linux. Cuesta horrores configurar un DHCP con PXE , porsupuesto hay que pasar por la "consola" de windows para activar las opciones secretas u ocultas como mas guste.

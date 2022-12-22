@@ -2,8 +2,7 @@
 layout: post
 title: "QEMU perfeccionamiento"
 date: "2007-06-19"
-categories: 
-  - "sin-categoria"
+categories: vmware
 ---
 
 Me he dado cuenta que no he configurado ninguna opcion de Qemu para activar internet en la MV.

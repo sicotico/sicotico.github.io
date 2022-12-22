@@ -2,8 +2,7 @@
 layout: post
 title: "Administración Remota"
 date: "2007-04-02"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Hoy ha tocado añadir nuevos contenidos , así que he unificado todo lo que he hecho yo para manejar mi server de forma remota. Hay que tener en cuenta los estudios y no perder tiempo en nimiedades.

@@ -2,21 +2,19 @@
 layout: post
 title: "Sarge AMD64 (Powernow)"
 date: "2005-09-25"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
-icotico ...
 
-Despues de investigar sobre los rumores de versiones de debian para amd64 , nos encontramos con que existen versiones sarge y sid , pero que estas son "unofficial" bueno o en mayo rparte ya que como dice el archivo de README.html del cd net-install-sarge-amd64 :
+Después de investigar sobre los rumores de versiones de debian para amd64 , nos encontramos con que existen versiones sarge y sid , pero que estas son "unofficial" bueno o en mayo parte ya que como dice el archivo de README.html del cd net-install-sarge-amd64 :
 
 About This CD This CD-ROM is labeled Debian GNU/Linux 3.1 r0a "Sarge" - Official amd64 Binary-1
 
 Así que nos encontramos con una versión oficial y no oficial .
 
-Despues de estos lios burocráticos vamso a ver la forma de optimizar un amd64 con una debian personal , es como queda el acabado mas bonito .
+Después de estos líos burocráticos vamos a ver la forma de optimizar un amd64 con una debian personal , es como queda el acabado mas bonito .
 
-Mi sources.list (/etc/apt/sources.list) solo tiene un repositorio y aque casi todos los mirror me han dado algun fallo.
+Mi sources.list (/etc/apt/sources.list) solo tiene un repositorio y que casi todos los mirror me han dado algún fallo.
 
 deb ftp://ftp.es.debian.org/debian sid main contrib non-free deb ftp://ftp.es.debian.org/debian sarge main contrib non-free
 
@@ -34,6 +32,6 @@ powernowd va a ser el interface para modificar la velocidad de nuestro micro cua
 
 #powernowd -s 2200000 (en KHZ)
 
-equivale a 2,2GHZ o 2200MHZ consulatar el man
+equivale a 2,2GHZ o 2200MHZ consultar el man
 
 #man powernowd

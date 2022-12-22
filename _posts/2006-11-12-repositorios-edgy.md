@@ -2,8 +2,7 @@
 layout: post
 title: "Repositorios Edgy"
 date: "2006-11-12"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Aunq ue yo no actualice mi sistema , por ahora Dapper desde la priemra release candidate ,hay otro tipo de personas que ya habran migrado desde la priemra beta a Edgy. Para ellos el shago esta lista de sources recopilados de internet. ################### UBUNTU ###################

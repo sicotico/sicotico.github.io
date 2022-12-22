@@ -2,8 +2,7 @@
 layout: post
 title: "Actualización de equipo"
 date: "2006-02-26"
-categories: 
-  - "sin-categoria"
+categories: hardware
 ---
 
 Pues despues de una pequeña reprimenda de Drinus , bueno no es que fuera importante pero habra que poner esto  en marcha otra vez.

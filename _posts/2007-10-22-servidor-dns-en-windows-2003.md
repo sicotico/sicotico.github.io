@@ -2,8 +2,7 @@
 layout: post
 title: "Servidor DNS en Windows 2003"
 date: "2007-10-22"
-categories: 
-  - "sin-categoria"
+categories: windows
 ---
 
 Se instala desde

@@ -5,7 +5,7 @@ date: "2009-02-02"
 categories: hardware
 ---
 
-Con tantras pruebas de HD mi pobre portátil se calentaba como una vitroceramica. Así que a desmontar el portátil . Ha sido relativamente sencillo , pero la paciencia ha de estar cargada al 100% porque mis 26 tornillos han sido desquician tes. Si alguno tiene le mismo portátil que sepa que hay que desmontar el disco duro y la ram para poder abrirlo del todo.
+Con tantas pruebas de HD mi pobre portátil se calentaba como una vitrocerámica. Así que a desmontar el portátil . Ha sido relativamente sencillo , pero la paciencia ha de estar cargada al 100% porque mis 26 tornillos han sido desquician tes. Si alguno tiene le mismo portátil que sepa que hay que desmontar el disco duro y la ram para poder abrirlo del todo.
 
 Por partes y para que otra vez no se me olvide hay que tumbar la pantalla , quitar el plástico longitudinal del botón de encendido y quitar los tornillos del teclado.
 

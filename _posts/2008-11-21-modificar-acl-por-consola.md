@@ -13,7 +13,7 @@ SetACL.exe Aplicación Software Libre
 
 subinacl.exe aplicación oficial del  [Soporte Microsoft](https://support.microsoft.com)
 
-Existe desde Windows NT una herramienta que se llama Regini , oficialmente no forma parte de Windows XP , pero probé en todas las versiones que tenia a mano y si existia . Para ser exactos la aplicación existía había borrado la ayuda y su salida por pantalla , asi queno podias ver si tiene error o no. Forma de crear sistemas operativos , creo recordar que esta herramienta es de Resourcers Kit de Windows 2000.
+Existe desde Windows NT una herramienta que se llama Regini , oficialmente no forma parte de Windows XP , pero probé en todas las versiones que tenia a mano y si existía . Para ser exactos la aplicación existía había borrado la ayuda y su salida por pantalla , asi que no podías ver si tiene error o no. Forma de crear sistemas operativos , creo recordar que esta herramienta es de Resourcers Kit de Windows 2000.
 
 Esta herramienta se utiliza pasando como parámetro un fichero .ini , para hacer un fichero correcto en formato yo me baje el regdmp.exe (Reg Dump)  y añadí en la linea correspondiente a la Clave (no se pude aplicar permiso solo a un valor)
 

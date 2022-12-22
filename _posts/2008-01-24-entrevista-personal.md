@@ -3,7 +3,6 @@ layout: post
 title: "Entrevista personal"
 date: "2008-01-24"
 categories: 
-  - "sin-categoria"
 ---
 
 ## BIO

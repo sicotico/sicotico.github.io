@@ -2,8 +2,7 @@
 layout: post
 title: "Configurar wpa_suplicant+NdisWrapper"
 date: "2007-07-24"
-categories: 
-  - "sin-categoria"
+categories: linux hardware
 ---
 
 Software que tengo instalado.

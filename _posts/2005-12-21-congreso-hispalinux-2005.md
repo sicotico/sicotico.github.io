@@ -2,8 +2,7 @@
 layout: post
 title: "Congreso  Hispalinux 2005"
 date: "2005-12-21"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Pos eso que estamos en el congreso apoyando al proyecto marabunta , despues de todo hay que promocionar la idea , recordad , que todo esta explicado en www.laotracara.com , proyecto marabunta.

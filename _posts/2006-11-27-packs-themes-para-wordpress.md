@@ -2,8 +2,7 @@
 layout: post
 title: "Packs Themes para WordPress"
 date: "2006-11-27"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 este blog se aloja en un servicio automatizado de wordpress , llevo ya 3 años usando este tipo de motores siempre con algun tipo de probema ya que la filosofia es contar cosas y no subir ficheros adjuntos lo que genera algún problema.

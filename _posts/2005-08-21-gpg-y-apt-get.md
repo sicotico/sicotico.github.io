@@ -2,8 +2,7 @@
 layout: post
 title: "GPG y apt-get"
 date: "2005-08-21"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 Solucionar errore de GPG en apt:

@@ -5,7 +5,7 @@ date: "2009-03-09"
 categories: dev
 ---
 
-Utilizo el mismo objeto en VBS y VBA , existe mejore smaneras en VBA ( utilizando la API ) , pero el nivel empresarial requiere de un rendimiento más alto.
+Utilizo el mismo objeto en VBS y VBA , existe mejores maneras en VBA ( utilizando la API ) , pero el nivel empresarial requiere de un rendimiento más alto.
 
 Existencia de fichero
 

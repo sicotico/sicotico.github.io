@@ -2,8 +2,7 @@
 layout: post
 title: "Actualizar BlackBerry"
 date: "2007-10-20"
-categories: 
-  - "sin-categoria"
+categories: android
 ---
 
 Esta disposición de los usuarios actualizaciones de software para las Blackberry , modificados para cada operador.

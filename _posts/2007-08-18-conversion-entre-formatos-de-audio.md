@@ -2,8 +2,7 @@
 layout: post
 title: "Conversión entre formatos de audio"
 date: "2007-08-18"
-categories: 
-  - "sin-categoria"
+categories: software linux
 ---
 
 **Monkey's Audio --> wav**
