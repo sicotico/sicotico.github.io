@@ -2,8 +2,7 @@
 layout: post
 title: "Trabajando en Abast System"
 date: "2057-08-18"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Hace un par de semanas que no escribo nada , bueno tengo una escusa , o mejor dicho dos , he empezado a trabajar y hay que estudiar para septiembre.

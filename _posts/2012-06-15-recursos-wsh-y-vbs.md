@@ -2,8 +2,7 @@
 layout: post
 title: "Recursos WSH y VBS"
 date: "2012-06-15"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Guía principal de WSH

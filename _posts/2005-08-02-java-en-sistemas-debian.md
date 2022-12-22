@@ -2,8 +2,7 @@
 layout: post
 title: "Java en sistemas Debian"
 date: "2005-08-02"
-categories: 
-  - "sin-categoria"
+categories: dev linux
 ---
 
 

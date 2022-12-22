@@ -2,8 +2,7 @@
 layout: post
 title: "NVL Oracle"
 date: "2011-11-26"
-categories: 
-  - "sin-categoria"
+categories: software
 ---
 
 # Sintaxis.bases\_datos\_ora\_11g

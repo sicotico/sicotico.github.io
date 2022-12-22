@@ -2,8 +2,7 @@
 layout: post
 title: "Explicación de mi aprendizaje"
 date: "2012-05-16"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 En el colegio aprendí los fundamentos de la Física , más adelante en la etapa adolescentes descubrí que se llamaba "Física clásica". Este adjetivo sería importante para determinar que temas de segundo bachiller tenía que estudiar para el primer examen.Lo básico este concepto lo puedes ver en [Wikipedia Física clásica](https://es.wikipedia.org/wiki/F%C3%ADsica_cl%C3%A1sica "Física Clásica"). Ahora tocaba la [Física cuántica](https://es.wikipedia.org/wiki/F%C3%ADsica_moderna "Fisica cuantica") , ídem en Wikipedia hay de todo. Con esta breve introducción podemos trabajar sobre la idea principal , como aprendí a ser un manitas.

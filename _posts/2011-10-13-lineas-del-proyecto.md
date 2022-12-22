@@ -2,8 +2,7 @@
 layout: post
 title: "Lineas del proyecto"
 date: "2011-10-13"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 # **Servicio de gestión de armarios**

@@ -2,8 +2,7 @@
 layout: post
 title: "Error en prolog de WDSL"
 date: "2011-05-25"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Muchas veces los Web Service son la solución a la integración de herramientas , más bien la herramienta para que te fabriques tu propia integración. No es mi caso , pero no diré de este agua no beberé .  Teniendo dos herramientas que se comunican vía WDSL , la que recibe la conexión devuelve un error un poco criptico.

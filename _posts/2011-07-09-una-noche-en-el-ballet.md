@@ -2,8 +2,7 @@
 layout: post
 title: "Una noche en el Ballet"
 date: "2011-07-09"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 No es ninguna película nueva de los Hermanos Marx. Con todos los espectáculos que pone Madrid en verano con la campaña "los veranos de la villa" merece atender a toda la oferta. Mi novia encontró al Ballet Imperial Ruso con un fantástico programa. Nosotros fuimos a ver

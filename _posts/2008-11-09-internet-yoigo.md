@@ -2,8 +2,7 @@
 
 title: "Internet Yoigo"
 date: "2008-11-09"
-categories: 
-  - "sin-categoria"
+categories: linux hardware
 ---
 
 Necesitas tener instalado el vdial y configurado en /etc/vdial con este fichero . Yo solo he usado conexión por cable , el BT que da de asignatura pendiente.

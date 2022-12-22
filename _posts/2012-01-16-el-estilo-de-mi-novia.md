@@ -2,8 +2,7 @@
 layout: post
 title: "El estilo de mi novia"
 date: "2012-01-16"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Nunca suelo comentar estos temas ,pero hoy merece una mención especial. Tras los muchos años juntos han acontecido sus correspondientes cumpleaños , la parte consumista de esta fecha son los regalos. Y ahí es donde hacemos inca pie hoy.

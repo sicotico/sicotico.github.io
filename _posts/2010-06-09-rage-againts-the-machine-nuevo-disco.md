@@ -2,8 +2,7 @@
 layout: post
 title: "Rage Againts the Machine , ¿nuevo disco?"
 date: "2010-06-09"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 De casualidad me he topado con esta [noticia](https://www.nme.com/news/nme/51385) ,  siendo uno de los grupos con los que me inicié en la música me hace mucha ilusión . Este viernes les voy a ver en Rock In Rio , si el tiempo lo permite . Si suena alli estaremos llueva o nieve.

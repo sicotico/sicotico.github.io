@@ -2,8 +2,7 @@
 layout: post
 title: "Kit de supervivencia (Snow)"
 date: "2012-03-15"
-categories: 
-  - "sin-categoria"
+categories: viajes
 ---
 
 Esta temporada de snow en Formigal ha requerido un equipamiento especial. En el aspecto textil es altamente recomendable  una cazadora y guantes extras por si te rebozas en la nieve más de lo normal. Teniendo mi casco inseparable , un regalo de navidad muy pero que muy acertado en mi juventud de "cabra" , se añadió una protección de espalada y un destornillador para todos esos ajustes. [![Formigal_2012](images/6908849961_e5f30d24c5.jpg)](https://farm8.staticflickr.com/7047/6908849961_e5f30d24c5_b.jpg)

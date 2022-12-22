@@ -2,8 +2,7 @@
 layout: post
 title: "Un semana intensa"
 date: "2012-09-22"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Tras la resaca de la WordCamp 2012 en Sevilla ha tocado trabajar duramente en mi vida profesional  "HP Software". Un poco de todo y sobre todo interesante , HP Operation Orchestration está siendo parte de mi  y como siempre he creído "con cariño todo sale mejor" y me lo han recordado esta semana , más gente opina como yo.

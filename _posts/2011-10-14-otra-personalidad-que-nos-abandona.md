@@ -2,8 +2,7 @@
 layout: post
 title: "Otra personalidad que nos abandona"
 date: "2011-10-14"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 [https://www.elotrolado.net/noticia\_muere-dennis-ritchie-creador-del-lenguaje-c\_19830](https://www.elotrolado.net/noticia_muere-dennis-ritchie-creador-del-lenguaje-c_19830)  

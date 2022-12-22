@@ -2,8 +2,7 @@
 layout: post
 title: "Oficialmente soy un manitas"
 date: "2012-05-13"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Si el que lee esto me conoce sabe que siempre intento desaparecer de estas tareas y que es difícil que atornille a la primera algo bien. TODO ESTO HA CAMBIADO , y no se como. Mis primeros indicios se remontan a tan solo un mes.  Había que fabricar un maniquí con las medidas de una persona y toma yá!!! me salio _niquelao_. Sorprendido mi entorno más cercano , pero no más que yo , deje correr el tiempo sin volver a probar suerte.

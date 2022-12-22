@@ -2,8 +2,7 @@
 
 title: "HTC en Linux"
 date: "2009-02-02"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Visto que este domingo estoy hiperactivo nos hemos pegado también con el móvil . En Windows XP necesitas obligatoriamente el ActiveSync y en Windows Vista lo coge como unidad de disco. Con este vario pinto percal analizando la forma de actuar de casa sistema no ayuda. He encontrado varias soluciones , una dependes de tener instalado synce en linux y la otra w5storage en la htc.

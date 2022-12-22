@@ -2,15 +2,14 @@
 layout: post
 title: "Crear un zip desdes el JRE.exe"
 date: "2011-06-08"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
-No fui capaz de obtenerlo de la web  , para la plataforma Windows x64 , así que con el ejecutable jre-1\_5\_0\_22-windows-amd64.exe , [Universal Extractor](https://www.legroom.net/software/uniextract "U niversal Extractor") y msiexec me he creado mi propio zip.
+No fui capaz de obtenerlo de la web  , para la plataforma Windows x64 , así que con el ejecutable jre-1\_5\_0\_22-windows-amd64.exe , [Universal Extractor](https://www.legroom.net/software/uniextract "Universal Extractor") y msiexec me he creado mi propio zip.
 
 La base para currar tanto para una estupidez como esta , es para tener dos jre corriendo en el mismo servidor windows. Esto en linux es bastante normal y sencillo , en Windows la dificulta es conseguir el paquete portable de java.
 
-Con el ejecutable descargado utilizamos el Universal Extractor y te ofrece tres opciones de extracción, para la versión de 64 utilice "isxunpack extacción". Genero una carpeta con un MSI. Utilizando las herrmaientas estandar de esta paqueticación , "msiexec" puedes descomprimirlo fácilmente .
+Con el ejecutable descargado utilizamos el Universal Extractor y te ofrece tres opciones de extracción, para la versión de 64 utilice "isxunpack extacción". Genero una carpeta con un MSI. Utilizando las herramientas estándar de esta mapaquetizaciónquetación , "msiexec" puedes descomprimirlo fácilmente .
 
 _msiexec /a RutaAlMSI /qb TARGETDIR=DirectorioExtraer_
 

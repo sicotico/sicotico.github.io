@@ -2,8 +2,7 @@
 
 title: "Cusriosidades de la swap"
 date: "2012-07-18"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Un par de conceptos básico que siempre que instalo el sistema s eme olvida como se configura.

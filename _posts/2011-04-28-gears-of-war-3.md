@@ -2,8 +2,7 @@
 layout: post
 title: "Gears Of War 3"
 date: "2011-04-28"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 La fuente original de este post es [xboxgo.es](https://xboxgo.es/23518/impresiones-beta-multijugador-de-gears-of-war-3/ "Impresiones beta multijuagador de Gear Of War 3")

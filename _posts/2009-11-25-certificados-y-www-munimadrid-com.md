@@ -2,8 +2,7 @@
 layout: post
 title: "Certificados y www.munimadrid.com"
 date: "2009-11-25"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Bienvenidos hoy no hay cosas "chungas" , va ser mucho pero con la administración hemos topado.

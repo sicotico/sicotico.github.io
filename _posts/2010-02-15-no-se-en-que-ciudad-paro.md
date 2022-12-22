@@ -2,8 +2,7 @@
 layout: post
 title: "No se en que ciudad paro"
 date: "2010-02-15"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 En una semanita he pasado por 4 capitales de provincia , de esta nuestra España. Pocas cosas me dejan probar e investigar , mientras tanto evolucionamos como técnicos de HP Service Manager. La certificación  de ITIL v3 la vamos a sacar partido de forma entretenida.

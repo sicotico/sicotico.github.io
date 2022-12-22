@@ -2,8 +2,7 @@
 layout: post
 title: "Cultura Fisico Musical"
 date: "2012-10-15"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Hoy un compañero de profesión me ha pasado este programa , un contenido más que original y sobre todo entretenido. No todo son las noticias sensacionalista .

@@ -2,8 +2,7 @@
 layout: post
 title: "Historia de Barreiros - Diesel"
 date: "2012-01-28"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Impresionante documental sobre una persona Eduardo Barreiros , mecánico de profesión y un creador nato. "El motor diésel español"  ademas de hacerlo en la posguerra española.

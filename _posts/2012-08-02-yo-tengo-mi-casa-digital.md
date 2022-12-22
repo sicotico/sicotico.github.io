@@ -2,8 +2,7 @@
 layout: post
 title: "Yo tengo mi casa digital"
 date: "2012-08-02"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Leyendo el [blog de Ramón Ramón](https://ramonramon.org/blog/2012/02/13/sin-un-blog-te-conviertes-en-un-homeless-digital/ "Ramon Ramon") ,un viejo amigo, me encuentro con un par de conceptos curiosos.

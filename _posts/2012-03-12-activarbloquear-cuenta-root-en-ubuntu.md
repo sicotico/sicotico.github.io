@@ -2,8 +2,8 @@
 layout: post
 title: "Activar/Bloquear cuenta root en Ubuntu"
 date: "2012-03-12"
-categories: 
-  - "sin-categorialinux---
+categories: linux
+---
 
 He necesitado realizar esta operación en mi trabajo y me he dado cuenta de las pocas veces que se indican los contras , así que hoy los voy a poner y.
 

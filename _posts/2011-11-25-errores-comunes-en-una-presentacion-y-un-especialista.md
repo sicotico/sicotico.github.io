@@ -2,8 +2,7 @@
 layout: post
 title: "Errores comunes en una presentación y un especialista"
 date: "2011-11-25"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Esto es un par de consejos para realizar una buena presentación. Un compañero se dedica trasmitir sus hallazgos en  este ámbito y con el típico humor que le caracteriza lo ha titulado

@@ -2,8 +2,7 @@
 
 title: "UNetbootin"
 date: "2008-12-25"
-categories: 
-  - "sin-categoria"
+categories: linux
 ---
 
 Solo para vagos , si eres [duro usaras syslinux](https://kounch-mac.blogspot.com.es/2010/06/como-crear-un-dispositivo-usb-de-inicio_18.html#more "Como-crear-un-dispositivo-usb-de-inicio")

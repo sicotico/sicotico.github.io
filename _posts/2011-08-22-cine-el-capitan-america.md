@@ -2,8 +2,7 @@
 layout: post
 title: "Cine: El Capitán América"
 date: "2011-08-22"
-categories: 
-  - "sin-categoria"
+categories: personal
 ---
 
 Lo primero es decir que hay "huevo de pascual" después del logotipo de Disney al final final de los créditos. Un prueba dura para los espectadores.

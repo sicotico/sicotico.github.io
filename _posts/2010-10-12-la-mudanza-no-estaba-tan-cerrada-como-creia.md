@@ -2,8 +2,7 @@
 layout: post
 title: "La mudanza no estaba tan cerrada como creía"
 date: "2010-10-12"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Llevo un par de post en el nuevo servidor y he descubierto cosas un poco raras. El fichero htaccess de mi antiguo servidor tenia unas reglas un poco raras.

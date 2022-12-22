@@ -2,8 +2,7 @@
 layout: post
 title: "HTML y las tildes"
 date: "2011-06-02"
-categories: 
-  - "sin-categoria"
+categories: dev
 ---
 
 Bueno , aun se le olvidan las cosas y más cuando no las practica. Eso si reconozco que no me acordaba de nada nada nada del charset ,tildes , eñes , etc ....
