@@ -2,7 +2,7 @@
 layout: posts
 title: "Shared Folder GNOME"
 date: "2010-12-29"
-categories: linmx
+categories: linux
 ---
 
 Desde hace varias versiones GNOME posee un sistema para compartir carpetas que se configura de forma automática al iniciarlo la primera vez. Muy al estilo de windows utiliza el botón derecho para compartir un recurso , si falta el paquete de samba el mismo te lo instala.

@@ -2,7 +2,7 @@
 layout: posts
 title: "Win-SSHFs Montar FS sobre SSH (Windows)"
 date: "2013-08-03"
-categories: win linux
+categories: windows linux
 ---
 
 ## [Win-SSHFs](https://code.google.com/p/win-sshfs/ "win-sshfs")

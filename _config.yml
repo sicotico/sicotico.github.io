@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Luis"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-lofi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Notas tech y no tech, <br>aficionado al cloud,<br>AWS Solution Architect Associate,<br>Azure Architect Tecnologies,<br>Terraform Associate."
   location         : "Spain/España"
   email            :

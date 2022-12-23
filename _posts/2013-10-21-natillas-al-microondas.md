@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "Natillas al Microndas"
+title: "Natillas al Microondas"
 date: "2013-10-21"
-categories: cocina
+categories: recetas
 ---
 
 # Natillas al microondas con un toque personal.
