@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mostrar números de lineas con vi"
 date: "2011-08-16"
 categories: linux

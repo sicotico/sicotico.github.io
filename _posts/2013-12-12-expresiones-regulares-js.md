@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Expresiones regulares JS"
 date: "2013-12-12"
 categories: dev

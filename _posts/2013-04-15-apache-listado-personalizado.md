@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Apache Listado personalizado"
 date: "2013-04-15"
 categories: linux

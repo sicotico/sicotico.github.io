@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Preparando contenido"
 date: "2011-08-20"
 categories: dev

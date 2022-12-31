@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Cuarto Día: Monchengladbach – Aquisgrán – Maastrich – Monchengladbach"
 date: "2011-12-12"
 categories: viajes

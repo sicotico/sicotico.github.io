@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "NVL Oracle"
 date: "2011-11-26"
 categories: software

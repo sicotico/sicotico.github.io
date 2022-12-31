@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Modificar campos de Uploader Media WordPress +3.5"
 date: "2013-05-20"
 categories: dev

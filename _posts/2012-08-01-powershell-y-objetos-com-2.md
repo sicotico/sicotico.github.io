@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "PowerShell y objetos COM"
 date: "2012-08-01"
 categories: dev

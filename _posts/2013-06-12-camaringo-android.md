@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Camaringo Android"
 date: "2013-06-12"
 categories: android

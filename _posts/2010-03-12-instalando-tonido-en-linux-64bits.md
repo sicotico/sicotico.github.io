@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Instalando Tonido en Linux 64bits"
 date: "2010-03-12"
 categories: software

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Rediseñando mi casa"
 date: "2011-08-22"
 categories: hardware

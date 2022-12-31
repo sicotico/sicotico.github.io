@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Editor de imagenes Wordpress 3.3"
 date: "2011-12-23"
 categories: dev

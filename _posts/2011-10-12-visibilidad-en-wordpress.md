@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Visibilidad en Wordpress"
 date: "2011-10-12"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Java SE Floating Point Updater"
 date: "2012-07-17"
 categories: dev

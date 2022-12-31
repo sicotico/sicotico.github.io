@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Una de Android SGSII"
 date: "2011-11-24"
 categories: android

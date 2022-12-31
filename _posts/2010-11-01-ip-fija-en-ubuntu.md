@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "IP fija en Ubuntu"
 date: "2010-11-01"
 categories: linux

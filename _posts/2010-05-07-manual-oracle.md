@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Manual Oracle"
 date: "2010-05-07"
 categories: software

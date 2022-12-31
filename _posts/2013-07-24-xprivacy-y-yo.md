@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "XPrivacy y yo"
 date: "2013-07-24"
 categories: android

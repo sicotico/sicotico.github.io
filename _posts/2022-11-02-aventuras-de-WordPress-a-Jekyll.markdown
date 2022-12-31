@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Aventuras de WordPress a Jekyll"
 date:   2022-11-26 10:57:08 +0200
 categories: jekyll update
@@ -19,7 +19,7 @@ Ahora la recomendación es un bundler y tampoco sabía lo que era ni lo que hac�
 
 __Conceptos:__
 * Ruby es un interprete
-* Sus dependecias se llaman gemas
+* Sus dependencias se llaman gemas
 * Jekyll es una gema, el generado de sitios estáticos usado por Git-Pages
 * bundle es una gema, gestor de dependencias
 

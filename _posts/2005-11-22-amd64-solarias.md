@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "AMD64+Solaris 10"
 date: "2005-11-22"
 categories: hardware

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Plantilla HTML5 y CSS Responsive"
 date: "2013-08-21"
 categories: dev

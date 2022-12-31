@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Exportar/Importar Claves en Firefox"
 date: "2008-02-19"
 categories: software

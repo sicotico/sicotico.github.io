@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Comprimir y descomprimir"
 date: "2005-08-01"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Descargar videos de Youtube"
 date: "2010-11-28"
 categories: dev software

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Time out en conexion por AJP"
 date: "2010-01-26"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Crear un LiveCD basado en Debian Sid"
 date: "2009-06-29"
 categories: linux

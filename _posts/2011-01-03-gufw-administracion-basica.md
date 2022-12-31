@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "GUFW Administración básica"
 date: "2011-01-03"
 categories: linux

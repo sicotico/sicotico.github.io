@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "HP MicroServer Proliant"
 date: "2011-12-10"
 categories: hardware

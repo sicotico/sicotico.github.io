@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tethering: Ubuntu + Android"
 date: "2010-09-17"
 categories: android

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Reducir el uso de swap"
 date: "2010-01-04"
 categories: linux

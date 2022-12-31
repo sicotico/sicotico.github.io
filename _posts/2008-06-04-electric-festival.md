@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Electric Festival"
 date: "2008-06-04"
 categories: viajes

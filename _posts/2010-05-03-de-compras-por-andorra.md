@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "De compras por Andorra"
 date: "2010-05-03"
 categories: viajes

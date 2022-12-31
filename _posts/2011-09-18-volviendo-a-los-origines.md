@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Volviendo a los origines"
 date: "2011-09-18"
 categories: mac

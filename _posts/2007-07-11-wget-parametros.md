@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Wget , parametros"
 date: "2007-07-11"
 categories: linux

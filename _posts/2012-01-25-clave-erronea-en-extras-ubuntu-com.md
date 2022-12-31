@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Clave erronea en extras.ubuntu.com"
 date: "2012-01-25"
 categories: linux

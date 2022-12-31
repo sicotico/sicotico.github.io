@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Para vagos"
 date: "2011-12-06"
 categories: dev

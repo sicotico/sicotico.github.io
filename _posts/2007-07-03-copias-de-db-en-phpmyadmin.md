@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Copias de DB en phpMyAdmin"
 date: "2007-07-03"
 categories: dev

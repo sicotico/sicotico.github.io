@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mac OS X , a ratitos"
 date: "2012-02-14"
 categories: mac

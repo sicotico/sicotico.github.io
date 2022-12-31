@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mi nuevo Mac Mini"
 date: "2010-02-28"
 categories: mac

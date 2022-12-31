@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Crear ficheros fake"
 date: "2010-12-28"
 categories: linux

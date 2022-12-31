@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tip: w2K8 deshabilita firewall"
 date: "2011-11-15"
 categories: windows

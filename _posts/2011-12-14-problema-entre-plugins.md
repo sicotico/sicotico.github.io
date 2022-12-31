@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Problema entre plugins"
 date: "2011-12-14"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Consultas oracle a fichero de texto"
 date: "2009-11-18"
 categories: software

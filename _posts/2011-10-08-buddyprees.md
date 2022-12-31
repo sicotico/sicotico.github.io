@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "BuddyPrees"
 date: "2011-10-08"
 categories: dev

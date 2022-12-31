@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Probando Conky"
 date: "2012-07-22"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Incrementando la famila (de DD)"
 date: "2010-06-06"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "PowerShell, un lugar por donde empezar"
 date: "2012-07-14"
 categories: dev windows

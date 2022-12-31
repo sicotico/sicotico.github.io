@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Configurar la red en Ubuntu Server"
 date: "2010-11-01"
 categories: linux

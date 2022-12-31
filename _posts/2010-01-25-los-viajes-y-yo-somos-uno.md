@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Los viajes y yo somos uno"
 date: "2010-01-25"
 categories: viajes

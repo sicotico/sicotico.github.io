@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Wordpress en un servidor"
 date: "2011-11-29"
 categories: dev

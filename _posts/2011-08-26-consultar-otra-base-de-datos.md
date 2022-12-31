@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Consultar otra base de datos"
 date: "2011-08-26"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Eliminar Certificados en Windows 7"
 date: "2011-01-17"
 categories: windows

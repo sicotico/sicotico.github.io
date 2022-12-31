@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "DreamSpark"
 date: "2012-06-12"
 categories: windows

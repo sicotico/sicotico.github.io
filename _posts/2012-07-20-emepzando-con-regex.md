@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Emepzando con RegEx"
 date: "2012-07-20"
 categories: dev

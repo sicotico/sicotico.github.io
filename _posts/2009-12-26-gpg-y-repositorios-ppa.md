@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "GPG y repositorios PPA"
 date: "2009-12-26"
 categories: dev

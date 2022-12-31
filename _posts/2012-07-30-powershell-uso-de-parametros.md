@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "PowerShell Uso de parametros"
 date: "2012-07-30"
 categories: dev

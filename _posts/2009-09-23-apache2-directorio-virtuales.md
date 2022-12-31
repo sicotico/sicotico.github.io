@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Apache2: Directorio Virtuales"
 date: "2009-09-23"
 categories: linux

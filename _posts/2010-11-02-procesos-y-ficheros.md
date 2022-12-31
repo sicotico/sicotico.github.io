@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Procesos y ficheros"
 date: "2010-11-02"
 categories: linux

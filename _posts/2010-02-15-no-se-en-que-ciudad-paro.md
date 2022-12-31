@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "No se en que ciudad paro"
 date: "2010-02-15"
 categories: personal

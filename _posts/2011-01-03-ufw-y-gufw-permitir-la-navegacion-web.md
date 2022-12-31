@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "UFW y GUFW permitir la navegación web"
 date: "2011-01-03"
 categories: linux

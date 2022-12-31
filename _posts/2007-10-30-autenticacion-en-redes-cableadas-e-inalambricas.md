@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Autenticación en redes cableadas e inalámbricas"
 date: "2007-10-30"
 categories: linux windows

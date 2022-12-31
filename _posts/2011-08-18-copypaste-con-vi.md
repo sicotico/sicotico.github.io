@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Copy/Paste con vi"
 date: "2011-08-18"
 categories: linux

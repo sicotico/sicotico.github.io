@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "El Viaje sur de Francia \"Monte Perdido\""
 date: "2010-05-26"
 categories: viajes

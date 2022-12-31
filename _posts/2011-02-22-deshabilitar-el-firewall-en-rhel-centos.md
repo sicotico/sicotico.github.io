@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Deshabilitar el firewall en RHEL / CentOS"
 date: "2011-02-22"
 categories: linux

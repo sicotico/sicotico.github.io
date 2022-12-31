@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Amarok ese gran desconocido…………."
 date: "2006-06-09"
 categories: linux

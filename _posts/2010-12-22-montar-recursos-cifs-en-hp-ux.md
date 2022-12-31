@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Montar recursos CIFS en HP-UX"
 date: "2010-12-22"
 categories: linux

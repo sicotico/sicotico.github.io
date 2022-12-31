@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mis primeras expresiones regulares"
 date: "2012-07-21"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Obtener el Flickr User ID"
 date: "2010-05-13"
 categories: dev

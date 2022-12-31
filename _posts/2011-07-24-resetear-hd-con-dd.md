@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Resetear HD con dd"
 date: "2011-07-24"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Notificacion mail usuarios"
 date: "2011-05-18"
 categories: dev 

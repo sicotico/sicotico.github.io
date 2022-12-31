@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Madrid - Fontainebleu"
 date: "2011-08-19"
 categories: viajes

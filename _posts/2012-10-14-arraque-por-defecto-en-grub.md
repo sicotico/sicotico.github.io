@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Arraque por defecto en Grub"
 date: "2012-10-14"
 categories: linux

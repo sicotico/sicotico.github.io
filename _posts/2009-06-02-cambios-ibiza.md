@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Dando caña al Ibiza"
 date: "2009-06-02"
 categories: coches

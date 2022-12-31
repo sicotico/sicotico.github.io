@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Comprobar si existe un fichero o un directorio (VBA y VBS)"
 date: "2009-03-09"
 categories: dev

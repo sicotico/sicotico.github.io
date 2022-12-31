@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Servidor X para windows"
 date: "2010-10-08"
 categories: windows linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "ZTE Skate / Orange MonteCarlo"
 date: "2012-09-16"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Manual apt-get y apt-cache"
 date: "2005-07-03"
 categories: linux

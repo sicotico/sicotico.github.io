@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Explicación de la falla de la creación de fichero md5sums para paquetes deb"
 date: "2011-08-16"
 categories: linux

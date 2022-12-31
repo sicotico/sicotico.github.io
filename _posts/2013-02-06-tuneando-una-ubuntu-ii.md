@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tuneando una Ubuntu II"
 date: "2013-02-06"
 categories: linux

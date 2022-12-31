@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Nokia C3 y gmail"
 date: "2012-05-28"
 categories: android

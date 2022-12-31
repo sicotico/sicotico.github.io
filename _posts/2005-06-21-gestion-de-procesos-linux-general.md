@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Gestion de procesos (Linux general)"
 date: "2005-06-21"
 categories: linux

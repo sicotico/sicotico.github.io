@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Biodiesel Casero TCO (Turbo Colza)"
 date: "2006-03-15"
 categories: personal

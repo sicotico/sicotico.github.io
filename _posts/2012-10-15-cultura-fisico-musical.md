@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Cultura Fisico Musical"
 date: "2012-10-15"
 categories: personal

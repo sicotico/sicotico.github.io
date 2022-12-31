@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Raspberry Pi - La moda"
 date: "2013-01-06"
 categories: raspberry

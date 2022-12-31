@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Como hacer port forwarding a través de un tunel ssh"
 date: "2011-09-10"
 categories: linux

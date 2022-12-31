@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "VBS ejecución desde en recursos compartidos"
 date: "2008-11-11"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Samba Swat"
 date: "2005-08-10"
 categories: linux

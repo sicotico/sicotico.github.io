@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mitos y Leyendas : Directorio Activo"
 date: "2009-08-10"
 categories: windows

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Ultimos radares para TomTom"
 date: "2007-07-12"
 categories: software

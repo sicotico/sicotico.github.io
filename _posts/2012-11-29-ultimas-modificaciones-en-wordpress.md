@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Ultimas modificaciones en WordPress"
 date: "2012-11-29"
 categories: dev

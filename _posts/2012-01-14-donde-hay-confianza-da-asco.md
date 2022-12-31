@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Donde hay confianza da asco"
 date: "2012-01-14"
 categories: personal

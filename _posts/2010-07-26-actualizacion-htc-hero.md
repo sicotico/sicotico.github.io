@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Actualización HTC Hero"
 date: "2010-07-26"
 categories: android

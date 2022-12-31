@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Lanzar Java desde PowerShell"
 date: "2012-07-28"
 categories: dev

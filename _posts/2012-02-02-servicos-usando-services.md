@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Servicos usando services"
 date: "2012-02-02"
 categories: linux

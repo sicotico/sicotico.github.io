@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Buscando un lugar para dormir en Granada…"
 date: "2006-02-06"
 categories: viajes

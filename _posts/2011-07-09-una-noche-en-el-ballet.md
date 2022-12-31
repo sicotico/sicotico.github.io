@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Una noche en el Ballet"
 date: "2011-07-09"
 categories: personal

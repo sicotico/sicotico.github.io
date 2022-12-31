@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "WordCamp Sevilla domingo"
 date: "2011-10-09"
 categories: viajes

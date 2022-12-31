@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Truco vmnetcfg en Linux"
 date: "2012-11-20"
 categories: linux vmware

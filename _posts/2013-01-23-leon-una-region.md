@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "León una region en el mundo"
 date: "2013-01-23"
 categories: viajes

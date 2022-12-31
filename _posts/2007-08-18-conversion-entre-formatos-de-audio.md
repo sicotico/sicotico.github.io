@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Conversión entre formatos de audio"
 date: "2007-08-18"
 categories: software linux

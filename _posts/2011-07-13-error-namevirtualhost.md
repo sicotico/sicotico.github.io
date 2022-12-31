@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Apache: Error NameVirtualHost"
 date: "2011-07-13"
 categories: linux

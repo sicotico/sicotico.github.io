@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Segundo Día: Fontainebleu - Monchengladbach"
 date: "2011-08-30"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tabla RACI"
 date: "2010-04-01"
 categories: dev

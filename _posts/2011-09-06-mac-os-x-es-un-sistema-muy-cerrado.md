@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mac OS X es un sistema muy cerrado"
 date: "2011-09-06"
 categories: mac

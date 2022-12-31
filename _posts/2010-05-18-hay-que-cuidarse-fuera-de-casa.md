@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Hay que cuidarse fuera de casa"
 date: "2010-05-18"
 categories: viajes

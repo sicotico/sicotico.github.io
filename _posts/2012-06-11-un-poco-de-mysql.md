@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Un poco de MySQL"
 date: "2012-06-11"
 categories: mysql

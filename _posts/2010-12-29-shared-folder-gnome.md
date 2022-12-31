@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Shared Folder GNOME"
 date: "2010-12-29"
 categories: linux

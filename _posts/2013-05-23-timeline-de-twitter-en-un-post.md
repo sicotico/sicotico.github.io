@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Timeline de Twitter en un post"
 date: "2013-05-23"
 categories: dev

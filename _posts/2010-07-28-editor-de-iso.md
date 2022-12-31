@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Editor de ISO"
 date: "2010-07-28"
 categories: software

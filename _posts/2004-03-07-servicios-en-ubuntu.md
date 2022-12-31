@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Servicios en Ubuntu"
 date: "2004-03-07"
 categories: linux

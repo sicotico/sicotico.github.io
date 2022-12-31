@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "TinyMCE y WordPress"
 date: "2013-02-27"
 categories: dev

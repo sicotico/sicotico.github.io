@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Registro de windows y su peculiar registro"
 date: "2011-11-27"
 categories: windows

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Parametros para nuestra JVM"
 date: "2009-12-10"
 categories: dev

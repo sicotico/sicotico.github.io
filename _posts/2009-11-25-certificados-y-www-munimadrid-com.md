@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Certificados y www.munimadrid.com"
 date: "2009-11-25"
 categories: personal

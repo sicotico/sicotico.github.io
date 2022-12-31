@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "FlickrEdit - backup de Flickr"
 date: "2012-11-14"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Controlador DB en Windows 2003 64bits"
 date: "2010-02-18"
 categories: windows

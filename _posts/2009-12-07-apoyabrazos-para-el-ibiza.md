@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Apoyabrazos para el Ibiza"
 date: "2009-12-07"
 categories: coches

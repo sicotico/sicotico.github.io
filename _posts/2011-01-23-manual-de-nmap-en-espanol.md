@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Manual de NMap en Español"
 date: "2011-01-23"
 categories: software

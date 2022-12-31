@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "IE7 en Linux con winetricks"
 date: "2010-01-27"
 categories: windows linux

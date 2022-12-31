@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Liberar memoria en windows"
 date: "2011-03-28"
 categories: windows

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Otra personalidad que nos abandona"
 date: "2011-10-14"
 categories: dev

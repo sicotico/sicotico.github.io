@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Preparando los recursos"
 date: "2011-12-16"
 categories: linux hardware

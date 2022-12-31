@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Truco: Apache"
 date: "2011-09-20"
 categories: linux

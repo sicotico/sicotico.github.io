@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Shrink discos VMWare"
 date: "2011-07-15"
 categories: vmware

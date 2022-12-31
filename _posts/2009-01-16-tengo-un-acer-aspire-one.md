@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tengo un Acer aspire One"
 date: "2009-01-16"
 categories: hardware

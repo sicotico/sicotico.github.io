@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Recuperar HDD"
 date: "2008-01-09"
 categories: hardware linux

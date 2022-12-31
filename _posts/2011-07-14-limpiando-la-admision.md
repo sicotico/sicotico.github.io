@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Limpiando la admisión"
 date: "2011-07-14"
 categories: coches

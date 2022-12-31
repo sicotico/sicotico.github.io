@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Instalación SQLExpress con acceso TCP/IP y ODBC"
 date: "2011-06-09"
 categories: software

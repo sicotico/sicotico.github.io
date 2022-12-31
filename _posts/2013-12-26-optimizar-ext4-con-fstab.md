@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "optimizar Ext4 con fstab"
 date: "2013-12-26"
 categories: linux

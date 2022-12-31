@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "VSFTPD Very Secure FTP"
 date: "2006-11-27"
 categories: software linux

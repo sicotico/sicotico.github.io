@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mejoras Firefox"
 date: "2005-08-14"
 categories: software

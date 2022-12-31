@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Montar un share folder de virtualbox en debian"
 date: "2011-08-16"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "CentOS en 5 minutos"
 date: "2011-02-22"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Prestashop mi primeros pasos"
 date: "2012-07-29"
 categories: dev

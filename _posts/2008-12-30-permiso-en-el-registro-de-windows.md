@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Permiso en el Registro de Windows"
 date: "2008-12-30"
 categories: windows

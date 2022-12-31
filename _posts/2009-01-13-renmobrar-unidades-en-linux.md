@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Renmobrar unidades en Linux"
 date: "2009-01-13"
 categories: linux

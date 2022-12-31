@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Recursos WSH y VBS"
 date: "2012-06-15"
 categories: dev

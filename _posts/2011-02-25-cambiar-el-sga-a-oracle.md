@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Cambiar el SGA a Oracle"
 date: "2011-02-25"
 categories: software

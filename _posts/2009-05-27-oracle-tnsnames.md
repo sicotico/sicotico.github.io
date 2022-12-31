@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Oracle TNSnames"
 date: "2009-05-27"
 categories: software

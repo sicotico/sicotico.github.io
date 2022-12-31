@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Problema con el serial en Windows XP Pro con SP3"
 date: "2010-01-02"
 categories: windows

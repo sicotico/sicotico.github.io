@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "TouchWizUX en Galaxy SII"
 date: "2012-06-07"
 categories: android

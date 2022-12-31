@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Themes para el proyecto"
 date: "2011-12-06"
 categories: dev

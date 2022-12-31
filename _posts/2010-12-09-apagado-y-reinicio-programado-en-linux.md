@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Apagado y reinicio programado en Linux"
 date: "2010-12-09"
 categories: linux

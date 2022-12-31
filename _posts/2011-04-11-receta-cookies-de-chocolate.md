@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Receta: Cookies de chocolate"
 date: "2011-04-11"
 categories: recetas

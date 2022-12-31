@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "App Google Task"
 date: "2012-04-27"
 categories: dev

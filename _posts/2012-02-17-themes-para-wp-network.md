@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "themes para WP network"
 date: "2012-02-17"
 categories: dev

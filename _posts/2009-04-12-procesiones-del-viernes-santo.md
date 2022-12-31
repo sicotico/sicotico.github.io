@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Procesiones del Viernes Santo"
 date: "2009-04-12"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Visor On-Line (PDF,PostScript,Word)"
 date: "2008-04-03"
 categories: software

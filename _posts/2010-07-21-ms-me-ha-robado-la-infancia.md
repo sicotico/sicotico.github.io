@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "MS me ha robado la infancia"
 date: "2010-07-21"
 categories: personal

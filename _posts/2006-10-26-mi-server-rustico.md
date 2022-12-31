@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mi server “rustico”"
 date: "2006-10-26"
 categories: hardware

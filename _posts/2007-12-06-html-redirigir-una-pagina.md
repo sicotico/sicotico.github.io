@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "HTML redirigir una pagina"
 date: "2007-12-06"
 categories: dev

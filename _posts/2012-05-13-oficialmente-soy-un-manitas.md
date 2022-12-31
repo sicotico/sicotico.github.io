@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Oficialmente soy un manitas"
 date: "2012-05-13"
 categories: personal

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Repositorios Ubuntu Hoary"
 date: "2005-07-10"
 categories: linux

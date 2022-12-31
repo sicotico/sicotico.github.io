@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Instalar cygwin en Window 2008"
 date: "2011-07-09"
 categories: windows linux

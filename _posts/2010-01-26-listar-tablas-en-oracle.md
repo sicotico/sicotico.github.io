@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Listar tablas en Oracle"
 date: "2010-01-26"
 categories: software

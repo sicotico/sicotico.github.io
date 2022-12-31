@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Pitivi o avidemux"
 date: "2011-06-20"
 categories: software

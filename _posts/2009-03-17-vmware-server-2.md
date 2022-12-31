@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Vmware Server 2"
 date: "2009-03-17"
 categories: vmware

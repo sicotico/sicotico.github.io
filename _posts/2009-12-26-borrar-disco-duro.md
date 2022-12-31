@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Borrar disco duro"
 date: "2009-12-26"
 categories: linux

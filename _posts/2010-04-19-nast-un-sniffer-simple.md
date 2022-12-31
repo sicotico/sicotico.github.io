@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Nast , un sniffer simple"
 date: "2010-04-19"
 categories: software

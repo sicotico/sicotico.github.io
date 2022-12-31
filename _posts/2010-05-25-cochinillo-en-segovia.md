@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Cochinillo en Segovia"
 date: "2010-05-25"
 categories: viajes

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Compartir archivos por Bluetooth"
 date: "2011-05-10"
 categories: android

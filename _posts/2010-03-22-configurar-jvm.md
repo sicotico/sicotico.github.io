@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Configurar JVM"
 date: "2010-03-22"
 categories: dev

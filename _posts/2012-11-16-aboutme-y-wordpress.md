@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Aboutme y Wordpress"
 date: "2012-11-16"
 categories: dev

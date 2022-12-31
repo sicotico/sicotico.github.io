@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Trabajando en Abast System"
 date: "2057-08-18"
 categories: personal

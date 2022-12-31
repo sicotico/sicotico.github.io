@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "LAMP (Ubuntu , Apache2 , MySQL 4.1 , PHP4 )"
 date: "2006-08-17"
 categories: linux

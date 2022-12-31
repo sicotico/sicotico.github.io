@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tip: ESXi 4 (maquians a 64Bits)"
 date: "2011-12-07"
 categories: linux

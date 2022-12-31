@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Como redimensionar la swap en Debian 6"
 date: "2011-08-26"
 categories: linux

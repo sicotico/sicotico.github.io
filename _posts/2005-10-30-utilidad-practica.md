@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Utilidad practica"
 date: "2005-10-30"
 categories: software hardware

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Flickr Gallery"
 date: "2011-07-13"
 categories: software

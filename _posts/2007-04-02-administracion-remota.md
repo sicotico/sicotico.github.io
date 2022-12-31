@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Administración Remota"
 date: "2007-04-02"
 categories: software

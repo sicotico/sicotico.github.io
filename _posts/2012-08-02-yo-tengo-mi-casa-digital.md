@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Yo tengo mi casa digital"
 date: "2012-08-02"
 categories: personal

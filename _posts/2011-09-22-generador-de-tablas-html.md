@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Generador de tablas HTML"
 date: "2011-09-22"
 categories: dev

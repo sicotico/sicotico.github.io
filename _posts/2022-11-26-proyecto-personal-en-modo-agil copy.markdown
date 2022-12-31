@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Proyecto personal en modo ágil"
 date:   2023-11-26 10:57:08 +0200
 categories: jekyll

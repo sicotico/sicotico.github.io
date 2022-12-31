@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Adobe regala la Suite CS2"
 date: "2013-01-11"
 categories: dev

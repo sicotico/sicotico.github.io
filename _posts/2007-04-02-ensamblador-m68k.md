@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Ensamblador M68K"
 date: "2007-04-02"
 categories: dev

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Ubuntu apunto de salir del horno."
 date: "2006-05-31"
 categories: linux

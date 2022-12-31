@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Configurar SELinux para Apache"
 date: "2011-02-24"
 categories: linux

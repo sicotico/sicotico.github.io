@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Como redimensionar una partición ext4 sin perdida de datos"
 date: "2011-08-19"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Flashear sin PC un ZTE Skate"
 date: "2012-10-24"
 categories: android

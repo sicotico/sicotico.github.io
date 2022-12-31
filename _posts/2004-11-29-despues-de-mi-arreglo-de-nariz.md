@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Despues de mi arreglo de nariz ..."
 date: "2004-11-29"
 categories: linux

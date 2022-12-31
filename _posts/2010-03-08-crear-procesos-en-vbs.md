@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Crear procesos en VBS"
 date: "2010-03-08"
 categories: dev

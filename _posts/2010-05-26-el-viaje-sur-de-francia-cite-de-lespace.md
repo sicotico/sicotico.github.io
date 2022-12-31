@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "El Viaje sur de Francia \"Cité de l'Espace\""
 date: "2010-05-26"
 categories: viajes

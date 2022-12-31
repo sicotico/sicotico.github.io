@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Parar las X en Fedora"
 date: "2009-10-19"
 categories: linux

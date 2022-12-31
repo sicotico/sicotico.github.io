@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "La mudanza ha concluido"
 date: "2010-09-14"
 categories: linux

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Red en Linux"
 date: "2005-08-09"
 categories: linux

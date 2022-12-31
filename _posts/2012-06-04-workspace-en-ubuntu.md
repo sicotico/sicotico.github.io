@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "WorkSpace en Ubuntu"
 date: "2012-06-04"
 categories: linux

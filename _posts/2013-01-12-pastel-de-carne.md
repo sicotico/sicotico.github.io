@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Pastel de carne"
 date: "2013-01-12"
 categories: recetas

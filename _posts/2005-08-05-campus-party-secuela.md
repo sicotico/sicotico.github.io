@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Campus party secuela ….."
 date: "2005-08-05"
 categories: viajes

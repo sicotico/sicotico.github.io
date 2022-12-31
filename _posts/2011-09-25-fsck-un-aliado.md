@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "FSCK un aliado"
 date: "2011-09-25"
 categories: linux

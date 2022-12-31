@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "PowerShell y comandos del sistema"
 date: "2012-07-16"
 categories: dev windows

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "LC_TYPE mal configurado"
 date: "2012-09-03"
 categories: linux

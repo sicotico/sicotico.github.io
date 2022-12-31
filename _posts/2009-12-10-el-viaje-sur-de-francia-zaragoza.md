@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "El Viaje sur de Francia \"Zaragoza\""
 date: "2009-12-10"
 categories: viajes

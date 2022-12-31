@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Packs Themes para WordPress"
 date: "2006-11-27"
 categories: dev

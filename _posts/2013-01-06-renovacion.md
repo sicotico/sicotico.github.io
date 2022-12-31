@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Renovación"
 date: "2013-01-06"
 categories: dev

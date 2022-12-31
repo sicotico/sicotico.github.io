@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Recurso interesante"
 date: "2011-10-14"
 categories: dev

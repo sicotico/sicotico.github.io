@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Natillas al Microondas"
 date: "2013-10-21"
 categories: recetas

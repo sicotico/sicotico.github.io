@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Cambiar la pagina de login"
 date: "2011-11-30"
 categories: dev

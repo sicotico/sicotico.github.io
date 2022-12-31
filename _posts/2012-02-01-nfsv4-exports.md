@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "NFSv4 exports"
 date: "2012-02-01"
 categories: linux

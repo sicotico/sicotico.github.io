@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Nürburgring Nordschleife"
 date: "2011-04-20"
 categories: viajes

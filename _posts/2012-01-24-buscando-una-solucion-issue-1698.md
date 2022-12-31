@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Buscando una solución Issue 1698"
 date: "2012-01-24"
 categories: linux hardware

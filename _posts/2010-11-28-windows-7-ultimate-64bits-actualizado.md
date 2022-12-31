@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Windows 7 Ultimate 64bits (Actualizado)"
 date: "2010-11-28"
 categories: windows

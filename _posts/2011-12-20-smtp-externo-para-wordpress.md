@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "SMTP externo para Wordpress"
 date: "2011-12-20"
 categories: dev

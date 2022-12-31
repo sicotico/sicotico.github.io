@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "El Brutus de Zaragoza"
 date: "2010-04-13"
 categories: viajes

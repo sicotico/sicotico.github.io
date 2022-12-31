@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Granada"
 date: "2096-02-26"
 categories: viajes

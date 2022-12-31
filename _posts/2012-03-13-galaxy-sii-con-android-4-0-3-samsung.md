@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Galaxy SII con Android 4.0.3 Samsung"
 date: "2012-03-13"
 categories: android

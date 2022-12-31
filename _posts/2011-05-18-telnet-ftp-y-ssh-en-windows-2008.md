@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Telnet , FTP y SSH en Windows 2008"
 date: "2011-05-18"
 categories: windows

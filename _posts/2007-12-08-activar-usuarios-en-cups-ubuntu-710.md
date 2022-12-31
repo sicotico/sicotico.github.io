@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Activar usuarios en Cups Ubuntu 7.10"
 date: "2007-12-08"
 categories: linux

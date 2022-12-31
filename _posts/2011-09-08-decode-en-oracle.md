@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "DECODE en Oracle"
 date: "2011-09-08"
 categories: viajes

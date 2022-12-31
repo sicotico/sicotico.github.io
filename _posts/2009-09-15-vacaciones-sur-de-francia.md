@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Vacaciones Sur de Francia"
 date: "2009-09-15"
 categories: viajes

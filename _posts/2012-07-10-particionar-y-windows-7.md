@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Particionar y Windows 7"
 date: "2012-07-10"
 categories: windows linux

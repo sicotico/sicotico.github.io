@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Firewall Ubuntu 10"
 date: "2011-01-03"
 categories: linux

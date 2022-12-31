@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Apache symfony"
 date: "2010-11-10"
 categories: dev

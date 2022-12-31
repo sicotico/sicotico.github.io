@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Crear un zip desdes el JRE.exe"
 date: "2011-06-08"
 categories: dev

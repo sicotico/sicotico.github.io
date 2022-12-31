@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Migrar de Notes a MBOX"
 date: "2011-03-23"
 categories: software

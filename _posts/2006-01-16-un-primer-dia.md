@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Un primer dia"
 date: "20p6-01-16"
 categories: personal

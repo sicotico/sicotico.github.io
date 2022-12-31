@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Historia de Barreiros - Diesel"
 date: "2012-01-28"
 categories: personal

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Hoy Jerez de La Frontera"
 date: "2011-12-13"
 categories: viajes

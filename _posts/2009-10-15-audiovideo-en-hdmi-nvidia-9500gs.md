@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Audio+Video en HDMI Nvidia 9500gs"
 date: "2009-10-15"
 categories: hardware

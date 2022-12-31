@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Oracle-XE en Debian-6-64bits"
 date: "2011-08-25"
 categories: software

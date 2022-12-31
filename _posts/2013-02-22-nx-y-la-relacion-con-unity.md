@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "NX y la relación con Unity"
 date: "2013-02-22"
 categories: dev

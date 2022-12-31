@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Plugin Firefox"
 date: "2006-11-12"
 categories: software

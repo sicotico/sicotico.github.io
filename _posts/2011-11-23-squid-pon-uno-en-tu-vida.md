@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "squid , pon uno en tu vida"
 date: "2011-11-23"
 categories: linux

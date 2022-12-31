@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Ext2/3 en Mac OS X"
 date: "2010-03-23"
 categories: mac

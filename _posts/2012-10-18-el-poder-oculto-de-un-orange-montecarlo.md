@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "El poder oculto de un Orange MonteCarlo"
 date: "2012-10-18"
 categories: android

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tercer Día: Monchengladbach - Bonn - Colonia - Monchengladbach"
 date: "2011-10-13"
 categories: viajes

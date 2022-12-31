@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Headers HTTP sin informacion"
 date: "2012-12-04"
 categories: linux

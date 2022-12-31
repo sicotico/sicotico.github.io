@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Actualizacion a WP 2.8"
 date: "2009-06-29"
 categories: dev

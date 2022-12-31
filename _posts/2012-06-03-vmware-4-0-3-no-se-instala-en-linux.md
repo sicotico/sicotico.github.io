@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "VMWare 4.0.3 no se instala en Linux"
 date: "2012-06-03"
 categories: vmware

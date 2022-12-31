@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Truco: VMware Player"
 date: "2012-06-16"
 categories: vmware

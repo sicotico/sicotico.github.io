@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Ubuntu 10.04 beta2 en Mac mini"
 date: "2010-04-28"
 categories: linux

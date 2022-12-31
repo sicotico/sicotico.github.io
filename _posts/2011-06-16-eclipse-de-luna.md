@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Eclipse de luna"
 date: "2011-06-16"
 categories: viajes

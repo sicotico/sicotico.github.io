@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Cómo convertir un volumen FAT o FAT32 en NTFS"
 date: "2007-11-06"
 categories: windows

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Symfony y SVN"
 date: "2011-04-28"
 categories: dev

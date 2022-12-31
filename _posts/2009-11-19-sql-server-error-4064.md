@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "SQL Server error 4064"
 date: "2009-11-19"
 categories: windows

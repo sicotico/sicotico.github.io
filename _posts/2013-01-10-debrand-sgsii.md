@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Debrand SGSII"
 date: "2013-01-10"
 categories: android

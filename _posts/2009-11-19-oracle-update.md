@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Oracle update"
 date: "2009-11-19"
 categories: software

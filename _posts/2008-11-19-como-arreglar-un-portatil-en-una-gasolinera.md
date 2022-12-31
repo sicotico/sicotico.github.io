@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Como arreglar un portatil en una gasolinera"
 date: "2008-11-19"
 categories: hardware

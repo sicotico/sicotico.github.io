@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Como averiguar la ip externa desde la linea de comandos"
 date: "2011-08-19"
 categories: dev

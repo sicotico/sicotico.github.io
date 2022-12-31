@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "ZTE MonteCarlo modificar la MAC"
 date: "2014-01-01"
 categories: android

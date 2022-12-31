@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Configurar router Telefónica"
 date: "2012-10-17"
 categories: hardware

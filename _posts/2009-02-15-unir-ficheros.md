@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Unir ficheros"
 date: "2009-02-15"
 categories: software

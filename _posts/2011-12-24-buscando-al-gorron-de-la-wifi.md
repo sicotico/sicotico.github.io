@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Buscando al gorron de la wifi"
 date: "2011-12-24"
 categories: hardware

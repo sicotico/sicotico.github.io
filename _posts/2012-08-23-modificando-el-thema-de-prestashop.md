@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Modificando el thema de Prestashop"
 date: "2012-08-23"
 categories: dev

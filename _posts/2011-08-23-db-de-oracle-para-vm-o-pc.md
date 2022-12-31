@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "DB de Oracle para VM o PC"
 date: "2011-08-23"
 categories: software

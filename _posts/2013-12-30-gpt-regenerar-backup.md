@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "GPT - Regenerar backup"
 date: "2013-12-30"
 categories: linux hardware

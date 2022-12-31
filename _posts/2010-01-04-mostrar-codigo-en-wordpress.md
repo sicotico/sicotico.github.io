@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Mostrar codigo en WordPress"
 date: "2010-01-04"
 categories: dev

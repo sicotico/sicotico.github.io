@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Autenticar recurso en windows"
 date: "2010-05-26"
 categories: windows

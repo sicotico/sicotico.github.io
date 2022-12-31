@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Custom Post Types , Fields y Metabox"
 date: "2012-09-24"
 categories: dev

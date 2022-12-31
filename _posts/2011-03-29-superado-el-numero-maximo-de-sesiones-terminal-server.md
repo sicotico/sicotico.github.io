@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Superado el numero máximo de sesiones terminal server"
 date: "2011-03-29"
 categories: windows

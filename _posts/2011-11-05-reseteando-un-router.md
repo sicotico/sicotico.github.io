@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Reseteando un router"
 date: "2011-11-05"
 categories: hardware

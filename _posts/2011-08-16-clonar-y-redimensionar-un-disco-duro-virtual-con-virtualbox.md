@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Clonar y redimensionar un disco duro virtual con virtualbox"
 date: "2011-08-16"
 categories: linux

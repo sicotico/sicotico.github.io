@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Version de instalada de Ubuntu"
 date: "2010-05-21"
 categories: linux

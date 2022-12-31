@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Google Sync y MS Exchange"
 date: "2009-08-20"
 categories: android

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Esto es tipo de arte"
 date: "2011-09-06"
 categories: linux

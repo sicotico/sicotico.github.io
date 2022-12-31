@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Nurburgring en el Ibiza"
 date: "2011-08-29"
 categories: viajes

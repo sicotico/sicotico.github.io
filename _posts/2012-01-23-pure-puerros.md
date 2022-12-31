@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Puré puerros"
 date: "2012-01-23"
 categories: recetas
