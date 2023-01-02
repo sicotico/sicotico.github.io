@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "es-ES"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Luis"
   avatar           : "/assets/images/bio-lofi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Notas tech y no tech, <br>aficionado al cloud,<br>AWS Solution Architect Associate,<br>Azure Architect Tecnologies,<br>Terraform Associate."
+  bio              : "Notas tech y no tech, <br>aficionado al cloud,<br>AWS Architect,<br>Azure,<br>Terraform Associate."
   location         : "Spain/España"
   email            :
   links:

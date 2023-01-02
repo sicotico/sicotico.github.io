@@ -92,11 +92,20 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick"
 ```
 
+
+
 Como siempre se me olvida, este el comando para levantar un servidor de jekyll en la carpeta donde tengas el contenido
+
 
 ```sh
  bundle exec jekyll serve --incremental
 ```  
+
+Limpias caches del servidor
+
+```sh
+ bundle exec jekyll clean
+``` 
 
 Referencias: 
 
@@ -107,4 +116,4 @@ Referencias:
 4.1. [Instalar Bundler](https://jekyllrb.com/docs/step-by-step/01-setup/)  
 4.2. [La documentación de la gema bundler](https://bundler.io/docs.html)  
 4.3. [Manejo-de-dependencias-en-ruby-con-bundler)](https://blog.makeitreal.camp/manejo-de-dependencias-en-ruby-con-bundler/)  
-5. Método alternativo de tener [Jekyll y bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
+1. Método alternativo de tener [Jekyll y bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
