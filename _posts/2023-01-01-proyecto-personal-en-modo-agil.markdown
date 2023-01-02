@@ -115,3 +115,8 @@ gemspec
 gem 'faraday-retry'
 gem "wdm", ">= 0.1.0"
 ```
+
+
+Referencias: 
+
+1. [sintaxis Gemfile](https://tosbourn.com/what-is-the-gemfile/)
