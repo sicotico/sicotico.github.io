@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Certificacion Az-204 , desarrollador de azure"
-date:   2024-02-01 10:57:08 +0200
+date:   2028-02-01 10:57:08 +0200
 categories: cloud
 ---
 
