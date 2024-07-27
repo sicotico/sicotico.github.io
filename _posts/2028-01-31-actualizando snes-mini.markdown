@@ -3,7 +3,6 @@ layout: post
 title: Actualizando SNES Mini
 subtitle: 
 tags: [jekyll]
-comments: false
 ---
 
 ## __Sprint 1__  
