@@ -2,7 +2,7 @@
 layout: single
 title:  "Mi experiencia con la virtualización en un Mac M2"
 date:   2024-08-30 10:57:08 +0200
-tags: mac
+tags: [mac]
 ---
 
 # Mi experiencia con la virtualización en un Mac M2
