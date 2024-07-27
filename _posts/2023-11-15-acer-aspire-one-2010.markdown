@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Acer Aspire One D255
-subtitle: 
 tags: [hardware]
-comments: false
 ---
 
 Encontrado este portatil por casa de los abuelos:
