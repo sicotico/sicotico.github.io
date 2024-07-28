@@ -1,0 +1,35 @@
+---
+layout: single
+title:  "Podman Desktop"
+date:   2024-09-15 10:57:08 +0200
+tags: [contenedores]
+---
+
+Podman Desktop
+
+Repositorio MS
+https://mcr.microsoft.com
+Imagen: mcr.microsoft.com/azure-cli
+
+Repositorio docker
+https://hub.docker.com
+Imagen: mcr.microsoft.com/azure-cli
+
+Dd donde se obtien:
+
+Docker pull mcr.microsoft.com/azure-cli
+Lo que hay despues del pull
+
+# Mi experiencia con la virtualización en un Mac M2
+
+Recientemente, me cambié al ecosistema Apple con un Mac M2 y decidí hacer un backup de mi SNES Mini. Para lograrlo, necesitaba encontrar un software de virtualización que se adaptara a mis necesidades.
+
+## Opciones de virtualización
+
+Después de investigar, encontré varias opciones de virtualización para Mac M2:
+
+### UTM
+
+* Me gustó porque es de código abierto y no requiere una suscripción.
+
+
