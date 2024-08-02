@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Modificar variables sin permisos de admin"
+date:   2024-08-05 10:57:08 +0200
+tags: [windows]
+---
+
+Ejecutar aplicaciones sin instalar en Windows: Modificando variables de usuario
+====================================================================
+
+Cuando se trata de probar nuevas aplicaciones o herramientas, muchos de nosotros hemos experimentado la frustración de tener que instalar software que puede ensuciar y ralentizar nuestro sistema operativo. Sin embargo, hay una forma de ejecutar aplicaciones sin instalarlas en Windows, y es modificando las variables de usuario.
+
+La solución
+------------
+
+Una de las formas más sencillas de ejecutar aplicaciones sin instalar es modificar la variable de usuario `PATH`. Esta variable indica a Windows dónde buscar los ejecutables de las aplicaciones. Al agregar una carpeta personalizada a la variable `PATH`, podemos ejecutar aplicaciones sin necesidad de instalarlas.
+
+### Cómo modificar la variable `PATH` con permisos de administrador
+
+Para modificar la variable `PATH`, sigue estos pasos:
+
+1. Haz clic con el botón derecho en "Computadora" o "Este equipo" y selecciona "Propiedades".
+2. Haz clic en "Configuración avanzada del sistema" en el lado izquierdo.
+3. Haz clic en "Variables de entorno".
+4. En la sección "Variables de usuario", haz clic en "Nueva" y crea una nueva variable llamada `PATH`.
+5. En el valor de la variable, agrega la ruta de la carpeta que contiene los ejecutables de la aplicación que deseas ejecutar, separada por punto y coma (`;`) de cualquier otra ruta que ya esté en la variable. Por ejemplo, si deseas agregar la carpeta `%USERPROFILE%\AppData\NodeJS`, el valor de la variable sería `%USERPROFILE%\AppData\NodeJS;%SystemRoot%\system32;%SystemRoot%;...`.
+
+### Cómo modificar la variable `PATH` sin permisos de administrador
+
+Si no tienes permisos de administrador, no podrás modificar la variable `PATH` de sistema. Sin embargo, puedes crear una variable `PATH` de usuario que solo afecte a tu cuenta de usuario. Para hacer esto, sigue estos pasos:
+
+1. Haz clic en "Inicio" y busca "Variables de entorno" en el menú de inicio.
+2. Haz clic en "__Variables de entorno de esta cuenta__" para abrir la ventana de variables de entorno.
+3. En la sección "Variables de usuario", haz clic en "Nueva" y crea una nueva variable llamada `PATH`.
+4. En el valor de la variable, agrega la ruta de la carpeta que contiene los ejecutables de la aplicación que deseas ejecutar, separada por punto y coma (`;`) de cualquier otra ruta que ya esté en la variable. Por ejemplo, si deseas agregar la carpeta `%USERPROFILE%\AppData\NodeJS`, el valor de la variable sería `%USERPROFILE%\AppData\NodeJS;%USERPROFILE%\AppData;%USERPROFILE%;...`.
+
+O usando el terminal 
+
+1. Abrimos el cmd
+2. Ejecutamos:
+  ```
+    C:\> rundll32 sysdm.cpl,EditEnvironmentVariables
+  ```
+3. En el valor de la variable, agrega la ruta de la carpeta que contiene los ejecutables de la aplicación que deseas ejecutar, separada por punto y coma (`;`) de cualquier otra ruta que ya esté en la variable. Por ejemplo, si deseas agregar la carpeta `%USERPROFILE%\AppData\NodeJS`, el valor de la variable sería `%USERPROFILE%\AppData\NodeJS;%USERPROFILE%\AppData;%USERPROFILE%;...`.
+
+
+Ejemplo con NodeJS
+-------------------
+
+Por ejemplo, supongamos que queremos ejecutar NodeJS sin instalarlo en nuestro sistema. Primero, descargamos los binarios de NodeJS y los colocamos en la carpeta `%USERPROFILE%\AppData\NodeJS`. Luego, modificamos la variable `PATH` de usuario para agregar esta carpeta.
+
+Ventajas
+----------
+
+Modificar la variable `PATH` de usuario ofrece varias ventajas. En primer lugar, no necesitamos instalar aplicaciones en nuestro sistema, lo que evita ensuciar y ralentizar nuestro Windows. En segundo lugar, podemos ejecutar aplicaciones sin necesidad de derechos de administrador. Finalmente, podemos eliminar fácilmente las aplicaciones sin dejar rastro en nuestro sistema.
+
+Conclusión
+----------
+
+En resumen, modificar la variable `PATH` de usuario es una forma sencilla y segura de ejecutar aplicaciones sin instalar en Windows. Al seguir los pasos descritos anteriormente, podemos ejecutar NodeJS y otras aplicaciones sin ensuciar nuestro sistema, incluso sin permisos de administrador. ¡Prueba esta técnica y descubre las ventajas de ejecutar aplicaciones sin instalar!
