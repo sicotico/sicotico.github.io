@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modificar variables sin permisos de admin"
-date:   2024-08-05 10:57:08 +0200
+date:   2024-09-02 10:57:08 +0200
 tags: [windows]
 ---
 
