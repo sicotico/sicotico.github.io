@@ -24,6 +24,7 @@ author: Luis Puente
 navbar-links:
   About Me: "aboutme"
   CV: "CV_LuisPuente"
+  CV Eng: "CV_LuisPuente_ENG"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
