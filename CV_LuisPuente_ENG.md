@@ -3,8 +3,8 @@
 **Ubicación:** XXXXXX, España  
 **Teléfono:** +34 XXXXXXXXX  
 **Correo Electrónico:** luis@luispuente.net  
-**LinkedIn:** [linkedin.com/in/luispuente](https://www.linkedin.com/in/luispuente)
-**CV:** [CV LuisPuente](https://luispuente.net/CV_LuisPuente/)  
+**LinkedIn:** [linkedin.com/in/luispuente](https://www.linkedin.com/in/luispuente)  
+**CV:** [CV LuisPuente](https://luispuente.net/CV_LuisPuente/)   
 **CV Eng:** [CV LuisPuente Eng](https://luispuente.net/CV_LuisPuente_ENG/)  
 
 ---
