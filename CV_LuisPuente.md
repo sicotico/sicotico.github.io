@@ -3,7 +3,8 @@
 **Ubicación:** XXXXXX, España  
 **Teléfono:** +34 XXXXXXXXX  
 **Correo Electrónico:** luis@luispuente.net  
-**LinkedIn:** [linkedin.com/in/luispuente](https://www.linkedin.com/in/luispuente)  
+**LinkedIn:** [linkedin.com/in/luispuente](https://www.linkedin.com/in/luispuente)
+**LinkedIn:** https://luispuente.net/CV_LuisPuente/
 
 ---
 
@@ -43,4 +44,15 @@ A lo largo de mis 21 años de carrera profesional, he cambiado de ámbito cuando
 - **Consultoría Especializada:** Inicié como consultor de HP Software, especializándome en Radia, Configuration Management, NNM y OVO.
 - **Automatización de Redes y Servidores:** Trabajé con Server y Network Automation para mejorar la eficiencia y reducir el tiempo de despliegue.
 - **Liderazgo de Proyectos:** Gestioné equipos, realicé actividades de preventa y brindé apoyo a la fuerza comercial, impulsando el éxito de proyectos y ventas.
+
+---
+
+## Certificaciones
+
+- **Microsoft Azure Solutions Architect Expert.**
+- **Microsoft Azure Architect Technologies.**
+- **HashiCorp Certified: Terraform Associate (002).**
+- **AWS Certified Solutions Architect - Associate.**
+- **Professional Scrum Master™ I (Scrum.org).**
+- **Professional Scrum Product Owner™ I (Scrum.org).**
 
