@@ -47,7 +47,7 @@ A pesar de mis esfuerzos en la virtualización, terminé dándome cuenta de que 
 
 ### Experiencia con ChatGPT y Dev Containers en VSCode
 
-Utilicé ChatGPT para generar un archivo `.devcontainer.json`, pero contenía configuraciones incorrectas. Finalmente, recurrí al video de ReturnGIS y usé la opción integrada de VSCode para generar el archivo automáticamente. Esto me permitió obtener una configuración funcional sin tantas complicaciones.
+Utilicé ChatGPT para generar un archivo `.devcontainer.json`, pero contenía configuraciones incorrectas. Finalmente, recurrí al video de [ReturnGIS](https://youtu.be/DkKs29etRis?feature=shared) y usé la opción integrada de VSCode para generar el archivo automáticamente. Esto me permitió obtener una configuración funcional sin tantas complicaciones.
 
 ## PowerShell en macOS: ¿Realmente lo Necesitaba?
 
