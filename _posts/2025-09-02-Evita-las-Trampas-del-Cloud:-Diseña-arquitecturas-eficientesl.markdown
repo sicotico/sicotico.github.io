@@ -5,13 +5,13 @@ date:   2025-01-20 10:57:08 +0200
 tags: [arquitectura]
 ---
 
-# Evita las Trampas del Cloud: Diseña Arquitecturas Eficientes
+# Evita las trampas del cloud: Diseña arquitecturas eficientes
 
 Imagina que estás diseñando una autopista. ¿Construirías 10 carriles para un tráfico que quizá nunca llegue? ¿Invertirías millones en infraestructura que podría quedarse vacía si los patrones de transporte cambian? Ahora, traslada esa pregunta al mundo de la tecnología: ¿Por qué hacemos lo mismo con nuestras arquitecturas? Al igual que con las autopistas, construir una infraestructura tecnológica sin tener en cuenta la demanda real puede resultar en altos costos, infrautilización y una inversión desperdiciada. En este artículo exploraremos cómo este error se ha repetido, desde las infraestructuras on-premises hasta el cloud, y cómo podemos aprender a construir "carreteras tecnológicas" que realmente conduzcan al éxito.
 
 ---
 
-### Infraestructura On-Premises: La Autopista Sobredimensionada
+### Infraestructura On-Premises: La autopista sobredimensionada
 
 En el mundo on-premises, se seguía el mismo enfoque: construir para una demanda futura que rara vez llegaba. Los costos reales quedaban camuflados, repartidos en una gran bolsa de infraestructura que incluía energía, espacio físico y recursos que no siempre se utilizaban de manera eficiente.
 
@@ -21,7 +21,7 @@ Sin embargo, este enfoque tenía sentido en el contexto de las limitaciones tecn
 
 --- 
 
-## El Salto al Cloud: ¿Nueva Autopista o Viejas Costumbres?
+## El salto al cloud: ¿Nueva vutopista o viejas costumbres?
 
 Cuando migramos al cloud, muchas empresas repiten el error de trasladar infraestructuras sobredimensionadas. Este fenómeno se conoce como **"Lift and Shift"**, y aunque es una forma rápida de iniciar una transición, suele replicar los problemas del pasado: costos altos y falta de optimización.
 
@@ -33,7 +33,7 @@ Incluso después de completar este trabajo exhaustivo, el uso de infraestructura
 
 ---
 
-## Arquitecturas Aspiracionales: Construyendo para un Futuro que No Ha Llegado
+## Arquitecturas aspiracionales: Construyendo para un futuro que "No Ha Llegado"
 
 Las **arquitecturas aspiracionales** son un claro ejemplo de cómo planificar para un futuro incierto puede llevar a gastos innecesarios. Estas arquitecturas se diseñan para soportar un crecimiento que aún no se ha materializado, generando costos desde el primer día sin ofrecer beneficios inmediatos. Este enfoque complica la medición del retorno de inversión (ROI) y puede comprometer los presupuestos de forma significativa.
 
@@ -49,7 +49,7 @@ En lugar de apostar por estas arquitecturas sobredimensionadas, es mucho más ef
 
 ---
 
-## La Landing Zone: El Punto de Partida
+## La landing zone: El punto de partida
 
 La **Landing Zone** representa el punto de partida en la infraestructura en la nube. Es una configuración inicial que incluye los elementos esenciales: seguridad, redes, acceso y otros componentes básicos que permiten construir de manera organizada. Es como empezar con una carretera sencilla, diseñada para crecer según las necesidades, evitando grandes inversiones desde el inicio.
 
@@ -61,7 +61,7 @@ En resumen, adoptar una landing zone no nos hace automáticamente mejores en té
 
 ---
 
-### **Optimización y Buenas Prácticas en el Cloud**
+### **Optimización y buenas prácticas en el cloud**
 
 La nube es una herramienta poderosa que permite optimizar costos y recursos, pero solo si se utiliza con un enfoque estratégico. Para maximizar los beneficios y evitar caer en las trampas del pasado, es esencial adoptar buenas prácticas que alineen la infraestructura con las necesidades reales del negocio:
 
@@ -79,7 +79,7 @@ Al aplicar estas prácticas, puedes garantizar que la nube se convierta en un fa
 
 ---
 
-### **Conclusión: Diseña para el Ahora, Escala para el Mañana**
+### **Conclusión: Diseña para el ahora, escala para el mañana**
 
 En el diseño de arquitecturas en la nube, el tamaño no es el problema: el verdadero desafío está en los criterios de diseño. Construir infraestructuras sobredimensionadas o basadas en proyecciones inciertas es un error que se ha repetido desde los días del on-premises, y que muchas organizaciones han trasladado al cloud.
 
