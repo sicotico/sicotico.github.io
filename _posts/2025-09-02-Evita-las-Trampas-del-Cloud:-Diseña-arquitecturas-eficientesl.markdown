@@ -21,7 +21,7 @@ Sin embargo, este enfoque tenía sentido en el contexto de las limitaciones tecn
 
 --- 
 
-## El salto al cloud: ¿Nueva vutopista o viejas costumbres?
+## El salto al cloud: ¿Nueva autopista o viejas costumbres?
 
 Cuando migramos al cloud, muchas empresas repiten el error de trasladar infraestructuras sobredimensionadas. Este fenómeno se conoce como **"Lift and Shift"**, y aunque es una forma rápida de iniciar una transición, suele replicar los problemas del pasado: costos altos y falta de optimización.
 
