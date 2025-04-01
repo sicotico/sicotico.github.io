@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "LM Studio: Probando RAG y API Server en Local"
-date:   2025-02-20 10:57:08 +0200
+date:   2025-04-01 11:00:00 +0200
 tags: [IA]
 ---
-
 
 # LM Studio: Probando RAG y API Server en Local
 
