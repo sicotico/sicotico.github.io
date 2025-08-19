@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Integración de Ollama con GitHub Copilot en Visual Studio Code: Guía Completa"
-date:   2025-10-01 12:00:00 -0500
+date:   2025-09-15 12:00:00 -0500
 categories: desarrollo ia github-copilot ollama
 ---
 
