@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuantización y Modelos de Lenguaje Local: Cómo la IA está Llegando a tus Dispositivos"
-date: 2025-10-15 09:00:00 +0000
+date: 2025-10-01 09:00:00 +0000
 categories: [IA, Tecnología, Privacidad]
 ---
 
