@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De Synology a Immich: Guía Maestra de Migración con NFS y Aceleración GPU"
-date: 2026-02-09 12:00:00 -0000
+date: 2026-03-10 12:00:00 -0000
 categories: self-hosting nas
 tags: [immich, esxi, nfs, docker, intel-quicksync]
 image: /assets/images/posts/portada-immich.png
