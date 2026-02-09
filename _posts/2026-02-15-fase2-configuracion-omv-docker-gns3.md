@@ -6,6 +6,8 @@ categories: [Homelab, Networking, Storage]
 tags: [OMV, NFS, SMB, GNS3, Portainer]
 ---
 
+# Artículo 2: HomeLab
+
 ## Introducción: Del "Hierro" al Servicio
 
 En los artículos anteriores, definimos la arquitectura (ESXi sobre Proxmox) y resolvimos los problemas de despliegue (certificados SSL y versiones de Ubuntu). Ahora tenemos un hipervisor estable y dos máquinas virtuales (VMs) funcionando: **NasVirtual** (OpenMediaVault) y **DockerMV** (Ubuntu Server).
