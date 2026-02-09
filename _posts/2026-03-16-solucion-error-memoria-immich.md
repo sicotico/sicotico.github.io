@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Immich: Diagnóstico y Resolución del error 'Machine Learning Unhealthy' en Entornos Virtualizados"
-date: 2026-02-09
+date: 2026-03-16
 categories: [Self-Hosting, Docker]
 tags: [Immich, ESXi, Intel-OpenVINO, DevOps, Troubleshooting]
 description: "Guía técnica para solucionar cierres por falta de memoria (OOM) y optimizar la aceleración por hardware en Immich bajo VMware ESXi."
