@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fase 2: Orquestando el Lab. Permisos en OMV, Volúmenes Docker y el reto de GNS3"
+title: "Permisos en OMV y Volúmenes Docker"
 date: 2026-02-15 11:00:00 +0100
 categories: [Homelab, Networking, Storage]
 tags: [OMV, NFS, SMB, GNS3, Portainer]
