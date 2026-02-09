@@ -1,12 +1,12 @@
-### Artículo 3: Enfoque "Lecciones Aprendidas" (Troubleshooting)
-
 ---
 layout: post
-title: "De 'Funciona' a 'Producción': 3 Obstáculos invisibles al profesionalizar un Homelab"
+title: "Obstáculos invisibles en un Homelab"
 date: 2026-03-02 12:00:00 +0100
 categories: [Troubleshooting, SysAdmin]
 tags: [VMware, Certificados, Seguridad, Linux]
 ---
+
+# Artículo 4: HomeLab
 
 ## Introducción: Cuando el tutorial se termina
 
