@@ -1,12 +1,9 @@
 ### Artículo 3: Enfoque "Lecciones Aprendidas" (Troubleshooting)
 
-**Nombre de archivo sugerido:** `_posts/2025-12-21-lecciones-criticas-homelab-esxi.md`
-
-```markdown
 ---
 layout: post
 title: "De 'Funciona' a 'Producción': 3 Obstáculos invisibles al profesionalizar un Homelab"
-date: 2026-02-03 12:00:00 +0100
+date: 2026-03-02 12:00:00 +0100
 categories: [Troubleshooting, SysAdmin]
 tags: [VMware, Certificados, Seguridad, Linux]
 ---
@@ -70,16 +67,3 @@ Para el resto de máquinas (como Docker), utilicé **Thin Provisioning**. Esto p
 ### Conclusión
 
 Este laboratorio no es solo un servidor de archivos o de aplicaciones; es un entorno de aprendizaje. Resolver la cadena de confianza SSL, entender las dependencias de las VMware Tools y arquitecturar el almacenamiento para la recuperación de desastres son las habilidades reales que se ganan construyéndolo.
-
-```
-
----
-
-### ¿Por qué este tercer artículo complementa a los otros?
-1.  **Artículo 1:** Habla del **"Qué" y "Por qué"** (Estrategia).
-2.  **Artículo 2:** Habla del **"Cómo"** (Guía paso a paso).
-3.  **Artículo 3:** Habla del **"Qué salió mal"** (Experiencia real).
-
-Este último suele ser el que genera más *engagement* en redes profesionales porque otros usuarios se sienten identificados con esos errores. ¿Qué te parece este enfoque?
-
-```
