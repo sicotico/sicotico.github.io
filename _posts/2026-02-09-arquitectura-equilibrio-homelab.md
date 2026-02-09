@@ -5,6 +5,7 @@ date: 2026-01-08 10:00:00 +0100
 categories: [Homelab, Virtualización]
 tags: [ESXi, Docker, Arquitectura, OMV]
 ---
+# Artículo 1: HomeLab
 
 ## Introducción: Definiendo la Arquitectura Real
 
