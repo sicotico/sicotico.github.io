@@ -1,9 +1,17 @@
 ---
 layout: post
 title: "La Arquitectura como Equilibrio: Por qué elegí ESXi y Docker sobre Proxmox"
-date: 2026-01-08 10:00:00 +0100
+date: 2026-02-09 10:00:00 +0100
 categories: [Homelab, Virtualización]
 tags: [ESXi, Docker, Arquitectura, OMV]
+---
+
+**Un giro inesperado en el Black Friday**
+
+Todo comenzó como cualquier otro Black Friday: una lista de deseos, un presupuesto ajustado y la firme intención de adquirir un NAS para centralizar mis archivos y respaldos. Mientras navegaba entre ofertas, un anuncio llamó mi atención: una caja JSSON de 8 bahías. En un primer vistazo parecía solo un chasis robusto, pero al leer sus especificaciones descubrí que podía albergar no solo discos duros, sino también una potente placa madre, una tarjeta gráfica y todo lo necesario para montar un PC de escritorio completo.
+La decisión fue rápida. En lugar de limitarme a un simple servidor de almacenamiento, opté por transformar esa caja en una máquina versátil que combinaría lo mejor de ambos mundos: la capacidad de un NAS y el rendimiento de un PC de alto nivel. Así, entre luces parpadeantes y el bullicio de las tiendas, mi carrito pasó de contener un modesto NAS a un PC con caja JSSON de 8 bahías, listo para convertirse en el corazón de mi nuevo ecosistema digital.
+Y es aquí donde arranca la historia: cómo una compra impulsiva se convirtió en el proyecto más ambicioso de mi año, y cómo cada una de esas ocho bahías encontró su propósito, desde almacenamiento masivo hasta gaming, renderizado y servidores caseros.
+
 ---
 # Artículo 1: HomeLab
 
