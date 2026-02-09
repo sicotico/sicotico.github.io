@@ -10,7 +10,7 @@ tags: [ESXi, Docker, Arquitectura, OMV]
 
 A menudo, en el mundo de TI, caemos en la trampa de definir la "mejor arquitectura" basándonos únicamente en las características técnicas más novedosas. Sin embargo, la arquitectura es el equilibrio entre el conocimiento del equipo y la capacidad de cubrir las necesidades solicitadas.
 
-Tras años desplegando infraestructuras, renové mi *Home Lab* (CPU i5-6500, 32 GB RAM, 8 discos). Aunque **Proxmox VE** era la opción "moderna", elegí **VMware ESXi 8**. Aquí explico por qué el coste de uso no es solo RAM, sino carga cognitiva.
+Tras años desplegando infraestructuras, renové mi *Home Lab* (CPU i5-6500t, 16 GB RAM, 8 discos). Aunque **Proxmox VE** era la opción "moderna", elegí **VMware ESXi 8**. Aquí explico por qué el coste de uso no es solo RAM, sino carga cognitiva.
 
 ### El Dilema del Hipervisor: La inercia del conocimiento
 
