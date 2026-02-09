@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ingeniería del Homelab: Desplegando ESXi 8, OMV y Docker con Calidad Empresarial"
-date: 2026-01-20 11:00:00 +0100
+date: 2026-02-20 11:00:00 +0100
 categories: [Tutorial, DevOps]
 tags: [Ubuntu, SSL, Networking, ESXi]
 ---
