@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De Synology a Proxmox y el Espejismo de la IA: Una Reflexión sobre la Eficiencia, el Tiempo y la Tecnología"
-date: 2026-03-16
+date: 2026-03-23
 categories: [Self-Hosting, Docker]
 tags: [Immich, ESXi, Intel-OpenVINO, DevOps, Troubleshooting]
 description: "Guía técnica para solucionar cierres por falta de memoria (OOM) y optimizar la aceleración por hardware en Immich bajo VMware ESXi."
