@@ -6,6 +6,8 @@ categories: [Homelab, Networking, Storage]
 tags: [OMV, NFS, SMB, GNS3, Portainer]
 ---
 
+En esta "Fase 2", abordaremos la configuración lógica: cómo gestionar los permisos de nuestros datos en OMV, cómo conectar esos datos con nuestros contenedores Docker y cómo preparar el terreno para la joya de la corona del laboratorio de redes: GNS3
+
 # Artículo 2: HomeLab
 
 ## Introducción: Del "Hierro" al Servicio
