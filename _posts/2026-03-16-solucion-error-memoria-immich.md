@@ -7,9 +7,9 @@ tags: [Immich, ESXi, Intel-OpenVINO, DevOps, Troubleshooting]
 description: "Guía técnica para solucionar cierres por falta de memoria (OOM) y optimizar la aceleración por hardware en Immich bajo VMware ESXi."
 ---
 
-# Articulo 6: Homelab
-
 En el despliegue de soluciones de auto-hospedaje como **Immich**, la estabilidad del motor de Machine Learning (ML) es crítica. Un síntoma común en servidores domésticos es el estado `unhealthy` del contenedor de IA, acompañado de errores de red tipo `fetch failed`. Estos errores impiden que funciones clave como la búsqueda inteligente, el reconocimiento facial y el OCR funcionen correctamente.
+
+# Articulo 6: Homelab
 
 Este artículo técnico analiza las causas raíz de estos fallos, centrándose en el error de "Worker SIGKILL" y la optimización para hardware específico como el **Intel Core i5-6500T** bajo **VMware ESXi**.
 
