@@ -5,12 +5,11 @@ date: 2026-03-02 12:00:00 +0100
 categories: [Troubleshooting, SysAdmin]
 tags: [VMware, Certificados, Seguridad, Linux]
 ---
+Cualquiera puede instalar un hipervisor siguiendo "Siguiente > Siguiente". Pero la diferencia entre un experimento casero y una infraestructura fiable (aunque sea doméstica) reside en los detalles que surgen el "Día 2".
 
 # Artículo 4: HomeLab
 
 ## Introducción: Cuando el tutorial se termina
-
-Cualquiera puede instalar un hipervisor siguiendo "Siguiente > Siguiente". Pero la diferencia entre un experimento casero y una infraestructura fiable (aunque sea doméstica) reside en los detalles que surgen el "Día 2".
 
 En el proceso de desplegar mi nueva infraestructura sobre **VMware ESXi 8** con un hardware modesto (i5-6500, 32GB RAM), me encontré con tres barreras técnicas que rara vez se documentan, pero que son críticas para la operabilidad del sistema. Este post disecciona esos problemas y sus soluciones definitivas.
 
