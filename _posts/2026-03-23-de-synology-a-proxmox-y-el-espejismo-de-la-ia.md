@@ -7,11 +7,11 @@ tags: [Immich, ESXi, Intel-OpenVINO, DevOps, Troubleshooting]
 description: "Guía técnica para solucionar cierres por falta de memoria (OOM) y optimizar la aceleración por hardware en Immich bajo VMware ESXi."
 ---
 
+Durante los últimos meses me he embarcado en una misión que muchos apasionados de la tecnología conocerán bien: la construcción del servidor doméstico definitivo. Lo que comenzó como una necesidad técnica, ha terminado convirtiéndose en una profunda reflexión sobre el valor del tiempo, la arquitectura de sistemas y el vertiginoso pero caótico mundo de la Inteligencia Artificial.
+
 # Articulo 7: Homelab
 
 ## De Synology a Proxmox y el Espejismo de la IA: Una Reflexión sobre la Eficiencia, el Tiempo y la Tecnología
-
-Durante los últimos meses me he embarcado en una misión que muchos apasionados de la tecnología conocerán bien: la construcción del servidor doméstico definitivo. Lo que comenzó como una necesidad técnica, ha terminado convirtiéndose en una profunda reflexión sobre el valor del tiempo, la arquitectura de sistemas y el vertiginoso pero caótico mundo de la Inteligencia Artificial.
 
 Si lees mi historial, verás que mi camino no ha sido lineal. Pasé de considerar TrueNAS como mi primera opción, a coquetear con Unraid, hasta que finalmente construí un entorno complejo en VMware ESXi con máquinas virtuales corriendo OpenMediaVault (OMV) y Ubuntu con Docker. Sin embargo, hoy mi laboratorio está en pleno apogeo bajo Proxmox, exprimiendo al máximo los contenedores LXC.
 
