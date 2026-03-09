@@ -8,9 +8,9 @@ image: /assets/images/posts/portada-immich.png
 description: "Aprende a migrar 300GB de fotos, configurar un NFS resiliente y activar el Passthrough de GPU en ESXi para Immich."
 ---
 
-# Articulo 5: HomeLab
-
 Migrar tu fototeca desde un NAS tradicional a **Immich** es un cambio radical en privacidad y velocidad. Sin embargo, mover +300GB y configurar la IA para que no colapse el sistema requiere precisión técnica. En esta guía detallamos el proceso real de mudanza, optimización de hardware en ESXi y configuración de red resiliente.
+
+# Articulo 5: HomeLab
 
 ## 1. Mudanza masiva de datos con Rsync
 
