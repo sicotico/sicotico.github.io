@@ -1,59 +1,75 @@
-# CV de Luis Puente
+# CV de Luis Puente Bayón
 
-**Ubicación:** XXXXXX, España  
-**Teléfono:** +34 XXXXXXXXX  
+**Ubicación:** Madrid, España  
 **Correo Electrónico:** luis@luispuente.net  
+**Sitio Web:** [luispuente.net](https://luispuente.net)  
 **LinkedIn:** [linkedin.com/in/luispuente](https://www.linkedin.com/in/luispuente)  
-**CV:** [CV LuisPuente](https://luispuente.net/CV_LuisPuente/)  
-**CV Eng:** [CV LuisPuente Eng](https://luispuente.net/CV_LuisPuente_ENG/)  
+**CV Web:** [luispuente.net/CV_LuisPuente/](https://luispuente.net/CV_LuisPuente/)  
+**CV Eng:** [luispuente.net/CV_LuisPuente_ENG/](https://luispuente.net/CV_LuisPuente_ENG/)  
 
 ---
 
 ## Sobre Mí
-Soy un profesional inquieto y analista, centrado en el negocio, con una fuerte orientación hacia las metodologías ágiles. Tengo un gran interés en la transformación digital y en cómo esta puede ser utilizada para optimizar procesos y aumentar la eficiencia operativa en las organizaciones. Como arquitecto de soluciones, asesor de CTO y CIO, tengo experiencia en la transformación bancaria y optimización de soluciones cloud. Lidero equipos multidisciplinares y estoy especializado en la implementación de tecnologías de mejorar la eficiencia operativa y reducción costo
+Soy un **Director Solutions Architect** y **Asesor de CTO / CIO** centrado en el negocio y la estrategia tecnológica, con una sólida orientación hacia las metodologías ágiles y la innovación. Con más de **21 años de experiencia**, especializo mi trabajo en conectar los objetivos del negocio con soluciones tecnológicas escalables, eficientes y seguras. 
+
+Tengo una amplia trayectoria liderando proyectos de **transformación digital en entornos regulados y banca**, así como en la modernización de **arquitecturas de datos e infraestructura Cloud/Híbrida**. Lidero equipos multidisciplinares de alto rendimiento y estoy enfocado en la optimización de procesos, reducción de costes y gobierno tecnológico.
 
 ---
 
 ## Resumen Profesional  
-A lo largo de mis 21 años de carrera profesional, he cambiado de ámbito cuando sentía la necesidad de obtener nuevas habilidades. Comencé en la automatización de baremetal, Xen y VMWare. La complejidad de gestionar estos proyectos me llevó a especializarme en ITIL y en la implementación de herramientas de HP Software. Posteriormente, pasé a la automatización RPA, y la integración con la nube ha sido el enfoque principal de esta última etapa de mi carrera.
+A lo largo de mis 21 años de carrera profesional, he evolucionado de manera continua para dominar cada capa del ciclo de vida tecnológico:
+- **Infraestructura & Bare-metal:** Inicios en virtualización (VMware, Xen) y automatización de servidores.
+- **Gobierno & ITIL:** Gestión de operaciones complejas y consultoría especializada en herramientas corporativas de HP Software.
+- **Automatización & Cloud:** Especialización en orquestación, Infraestructura como Código (IaC), plataformas híbridas (Azure, AWS) e hiperautomatización.
+- **Data Platforms & AI:** Diseño e implementación de arquitecturas de datos de alto rendimiento en **Databricks**, gobernanza unificada con **Unity Catalog** y definición del **Dato como Producto**.
 
 ---
 
 ## Experiencia Laboral
 
-**NTT Data | Asesoramiento CTO y Arquitectura de Soluciones**  
+### **NTT Data | Asesoramiento CTO y Arquitectura de Soluciones**  
 *Septiembre 2021 - Actualidad*
 
-- **Transformación Digital:** Convertí necesidades de negocio en productos reutilizables y transformé soluciones OnPrem en productos personalizados en Azure y AWS.
-- **Diseño y Coordinación:** Realicé diseños de soluciones para la banca y coordiné a los arquitectos de seguridad, comunicaciones e infraestructura.
-- **Optimización de Servicios Legacy:** Lideré la transformación de servicios Legacy a cloud, defendiendo diseños en diversas unidades de negocio y países.
-- **Infraestructura de Telecomunicaciones:** Diseñé la LandingZone en Azure región Spain Central e implementé sistemas de comunicación mediante POP, POP Privado y Azure Virtual WAN.
-- **Normas y Buenas Prácticas:** Establecí normas de desarrollo y apoyé al equipo de datos en arquitectura y buenas prácticas, adaptando las necesidades de negocio al entorno híbrido.
+- **Transformación Digital & Banca:** Diseño e implementación de arquitecturas de soluciones corporativas para entidades financieras reguladas, coordinando de forma transversal a equipos de arquitectura de seguridad, comunicaciones, datos e infraestructura.
+- **Arquitectura de Datos Avanzada (Databricks & Data Product):**
+  - Diseño y despliegue integral de plataformas Databricks definiendo el **Dato como Producto** (*Data Product*) y optimizando la arquitectura de ejecución.
+  - Liderazgo en la adopción y migración a **Unity Catalog**, reestructurando el modelo de gobernanza del dato desde el origen.
+  - Ajuste y optimización fina de los *engines* de cómputo en Databricks, reduciendo significativamente los costes operativos y maximizando el rendimiento técnico.
+- **Infraestructura Cloud & Telecomunicaciones:** Diseño de la *Landing Zone* en Azure (región Spain Central), conectividad híbrida mediante Azure Virtual WAN, POPs privados y arquitecturas SD-WAN para plataformas OT/distribuidas.
+- **Gobierno y Normativas:** Establecimiento de normas de desarrollo y apoyo estratégico al equipo de datos en arquitectura y buenas prácticas para entornos híbridos.
+- **Defensa de Diseños:** Presentación y defensa de soluciones técnicas en comités directivos y unidades de negocio multinacionales.
 
-**Prakmatic | Project Leader de Ingeniería y Optimización Cloud**  
+### **Prakmatic | Project Leader de Ingeniería y Optimización Cloud**  
 *Septiembre 2013 - Agosto 2021*
 
-- **Liderazgo de Equipos:** Gestioné con éxito un equipo de 16 personas utilizando metodología Scrum, mejorando la productividad y la colaboración.
-- **Desarrollo de Soluciones Cloud:** Diseñé e implementé despliegues de soluciones PaaS y SaaS sobre nubes híbridas, participando en el desarrollo de Cloud Garden, la nube híbrida de Telefónica e IBM.
-- **Automatización y Orquestación:** Optimicé soluciones en producción mediante desarrollos a medida en Python, PowerShell, bash/ksh y NodeJS, utilizando herramientas de orquestación como HP/Micro Focus Orchestration y Server Automation.
-- **Infraestructura como Código:** Implementé infraestructura como código con AWS CloudFormation, Azure Resource Manager, Puppet y Ansible Tower, mejorando la eficiencia y la reutilización de soluciones.
-- **Integración y Mejora Continua:** Trabajé con vCloud VMWare como nube privada y facilitamos la integración con nubes públicas, llevando la mejora continua a toda la plataforma mediante CI/CD.
+- **Liderazgo de Equipos:** Dirección de un equipo técnico de 16 personas bajo metodología Scrum, incrementando la velocidad de entrega y la colaboración intercultural en 7 países.
+- **Plataformas Cloud Híbridas:** Co-diseño e ingeniería del despliegue de *Cloud Garden* (nube híbrida corporativa de Telefónica e IBM) e integración de servicios AWS hibridados con VMware (vCloud).
+- **Automatización e Infraestructura como Código (IaC):** Implementación de orquestación a medida con Terraform, AWS CloudFormation, Azure Resource Manager (ARM), Puppet, Ansible Tower, Python, PowerShell, Bash y Node.js.
+- **CI/CD e Integración:** Implementación de pipelines de integración y despliegue continuo (CI/CD) para la automatización de la provisión de infraestructura y bases de datos Oracle.
 
-**Abast Grup | Consultor y Project Leader de HP Software**  
+### **Abast Grup | Consultor y Project Leader de HP Software**  
 *Septiembre 2007 - Agosto 2013*
 
-- **Consultoría Especializada:** Inicié como consultor de HP Software, especializándome en Radia, Configuration Management, NNM y OVO.
-- **Automatización de Redes y Servidores:** Trabajé con Server y Network Automation para mejorar la eficiencia y reducir el tiempo de despliegue.
-- **Liderazgo de Proyectos:** Gestioné equipos, realicé actividades de preventa y brindé apoyo a la fuerza comercial, impulsando el éxito de proyectos y ventas.
+- **Consultoría Especializada:** Implementación de soluciones de gestión de infraestructura de HP Software (Radia, Configuration Management, NNM, OVO).
+- **Automatización de Redes y Servidores:** Despliegue de herramientas de *Server and Network Automation* para la optimización de procesos operativos.
+- **Liderazgo y Preventa:** Gestión de equipos técnicos, apoyo a la fuerza comercial y liderazgo de la línea de negocio de gestión automatizada de infraestructura.
 
 ---
 
 ## Certificaciones
 
-- **Microsoft Azure Solutions Architect Expert.**
-- **Microsoft Azure Architect Technologies.**
-- **HashiCorp Certified: Terraform Associate (002).**
-- **AWS Certified Solutions Architect - Associate.**
-- **Professional Scrum Master™ I (Scrum.org).**
-- **Professional Scrum Product Owner™ I (Scrum.org).**
+- **Microsoft Certified: Azure Solutions Architect Expert**
+- **Microsoft Certified: Azure Architect Technologies**
+- **HashiCorp Certified: Terraform Associate (002)**
+- **AWS Certified Solutions Architect - Associate**
+- **Professional Scrum Master™ I (PSM I - Scrum.org)**
+- **Professional Scrum Product Owner™ I (PSPO I - Scrum.org)**
+- **Microsoft Certified: Azure AI Fundamentals**
 
+---
+
+## Formación y Voluntariado
+
+- **Grado Oficial en Ingeniería Informática** | Universidad Isabel I *(En curso)*
+- **Máster en Informática Aplicada a la Empresa** | Instituto Cibernos *(2000 - 2003)*
+- **Coach STEM (Voluntariado Corporativo):** Fundación Exit *(2022 - Presente)* – Mentoring a jóvenes en vulnerabilidad social.
