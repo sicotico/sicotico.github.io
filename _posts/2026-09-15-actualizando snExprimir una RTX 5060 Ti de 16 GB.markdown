@@ -169,26 +169,32 @@ Centrando el análisis en el apartado eléctrico y térmico, el sensor maestro r
 
 A pesar de que el indicador de uso gráfico avala la robustez de la parametrización, la verdadera prueba de fuego para un nodo destinado a asistir herramientas complejas no es su velocidad de impresión lineal, sino la eficiencia al digerir inyecciones masivas de texto. Al auditar un servidor que debe parsear historiales kilométricos de agentes de desarrollo, la velocidad de escritura pura cede toda la relevancia frente a la eficacia de la ingesta inicial.
 
-```bash
-Resultados principales:
+---
 
-Gemma4 26B.A4B Q4_0
-Backend: CUDA
-ngl: 999
-KV: q8_0/q8_0
-Flash Attention: on
-batch: 1024
-ubatch: 256
-threads: 8
+## Resultados del Benchmark Sintético
 
-Bench:
-pp512          2689.81 ± 19.55 t/s
-tg128           121.26 ±  0.50 t/s
-pp512+tg128     503.62 ±  1.24 t/s
-pp2048+tg128   1142.60 ±  3.60 t/s
-pp4096+tg256   1141.69 ±  1.08 t/s
+### Plataforma
+Gemma4 26B.A4B Q4_0  
+Backend: CUDA  
+ngl: 999  
+KV: q8_0/q8_0  
+Flash Attention: on  
+batch: 1024  
+ubatch: 256  
+threads: 8  
 
-```
+
+La verdadera medida no es la velocidad de impresión, sino la eficacia de la ingesta (preprocesamiento).
+
+| Métrica | Resultado (Gemma4 26B Q4_0) |
+| :--- | :--- |
+| **Preprocesamiento (pp512)** | `2689.81 ± 19.55 t/s` |
+| **Generación (tg128)** | `121.26 ± 0.50 t/s` |
+| **Carga Mixta (pp512+tg128)** | `503.62 ± 1.24 t/s` |
+| **Contexto Largo (pp2048+tg128)** | `1142.60 ± 3.60 t/s` |
+| **Carga Extrema (pp4096+tg256)** | `1141.69 ± 1.08 t/s` |
+
+
 
 Los resultados del banco de pruebas sintético validan contundentemente la arquitectura y castigan el dogmatismo. La velocidad de preprocesamiento puro eclipsa la marca de dos mil seiscientos ochenta y nueve tokens procesados cada segundo. Extrapolando este dato a un flujo operativo, significa que el sistema posee la fuerza bruta necesaria para leer, tokenizar y volcar un manual técnico extenso a su espacio latente en un lapso apenas superior a los tres segundos, dinamitando el principal vector de fricción en la construcción de arquitecturas de recuperación documental local.
 
