@@ -193,9 +193,12 @@ La verdadera medida no es la velocidad de impresión, sino la eficacia de la ing
 | **Carga Mixta (pp512+tg128)** | `503.62 ± 1.24 t/s` |
 | **Contexto Largo (pp2048+tg128)** | `1142.60 ± 3.60 t/s` |
 | **Carga Extrema (pp4096+tg256)** | `1141.69 ± 1.08 t/s` |
-
-
-
+  
+  
+  
+![Test de modelos en server IA](../assets/img/test_modelos_5060TI.png)
+  
+  
 Los resultados del banco de pruebas sintético validan contundentemente la arquitectura y castigan el dogmatismo. La velocidad de preprocesamiento puro eclipsa la marca de dos mil seiscientos ochenta y nueve tokens procesados cada segundo. Extrapolando este dato a un flujo operativo, significa que el sistema posee la fuerza bruta necesaria para leer, tokenizar y volcar un manual técnico extenso a su espacio latente en un lapso apenas superior a los tres segundos, dinamitando el principal vector de fricción en la construcción de arquitecturas de recuperación documental local.
 
 Cuando simulamos una carga de trabajo mixta que combina la asimilación de un contexto exhaustivo y desencadena una generación elaborada, la plataforma se estabiliza de manera admirable superando la barrera de los mil cien tokens globales por segundo. En términos estrictos de decodificación token a token, la unidad de cálculo proyecta más de ciento veintiún fragmentos por segundo. Esta métrica de salida supera en múltiples factores la capacidad máxima de lectura humana, confirmando la solvencia total de la máquina para orquestar herramientas conversacionales síncronas.
